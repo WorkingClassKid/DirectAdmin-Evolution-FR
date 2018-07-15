@@ -105,7 +105,7 @@ msgid ""
 "of your email accounts from receiving mail."
 msgstr ""
 "* Note: Effectuer des modifications aux enregistrements MX peut "
-"potentiellement désactivé la réception des e-mails pour ce domaine."
+"potentiellement désactiver la réception des e-mails pour ce domaine."
 
 #: src/js/pages/admin/backups/modify.vue:58
 #: src/js/pages/admin/backups/schedule.vue:62
@@ -198,17 +198,17 @@ msgstr ""
 
 #: src/js/pages/reseller/users/view.vue:84
 msgid "%{ limit } / Day"
-msgstr ""
+msgstr "%{ limit } / Jour"
 
 #: src/js/pages/admin/brute-force-monitor/index.vue:14
 msgid "%{ log } is %{ size }"
-msgstr ""
+msgstr "%{ log } est de %{ size }"
 
 #: src/js/components/global/App.vue:137
 msgid "%{ n } new ticket created"
 msgid_plural "%{ n } new tickets created"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%{ n } nouveau ticket crée"
+msgstr[1] "%{ n } nouveaux tickets crées"
 
 #: src/js/components/local/r-table/r-table-actions.vue:9
 msgid "%{ selected }/%{ total } selected"
@@ -224,13 +224,13 @@ msgstr ""
 
 #: src/js/components/local/filemanager/tree-view-item.vue:40
 msgid "%{dirs} Folders / %{files} Files"
-msgstr ""
+msgstr "%{dirs} Dossiers / %{files} Fichiers"
 
 #: src/js/pages/admin/users/resellers/create.vue:91
 msgid "%{freeIPs} Free IP"
 msgid_plural "%{freeIPs} Free IPs."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%{freeIPs} IP Disponible"
+msgstr[1] "%{freeIPs} IPs Disponibles"
 
 #: src/js/pages/user/email/lists/view.vue:97
 msgid "%{name}-digest"
@@ -268,7 +268,7 @@ msgstr ""
 
 #: src/js/pages/admin/settings.vue:313 src/js/pages/admin/settings.vue:484
 msgid "0 = never"
-msgstr ""
+msgstr "0 = jamais"
 
 #: src/js/pages/admin/settings.vue:107
 msgid "0 = off, 100 = always on"
@@ -532,19 +532,19 @@ msgstr "Sous-domaines actifs"
 #: src/js/pages/user/mimetypes/index.vue:72
 #: src/js/pages/user/protected-directories/view.vue:129
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
 #: src/js/pages/reseller/users/modify.vue:40
 msgid "Add Additional IP"
-msgstr ""
+msgstr "Ajouter une IP supplémentaire"
 
 #: src/js/pages/user/email/lists/view.vue:75
 msgid "Add an E-mail Address to the list"
-msgstr ""
+msgstr "Ajouter une adresse e-mail à la liste"
 
 #: src/js/pages/user/domains/_components/add-ip-to-domain-dialog.vue:3
 msgid "Add Another IP"
-msgstr ""
+msgstr "Ajouter une autre adresse IP"
 
 #: src/js/pages/user/two-step-auth.vue:138
 #: src/js/pages/user/two-step-auth.vue:16
@@ -583,11 +583,11 @@ msgstr ""
 #: src/js/pages/user/domains/_components/add-ip-to-domain-dialog.vue:24
 #: src/js/pages/user/domains/ips.vue:16
 msgid "Add IP"
-msgstr ""
+msgstr "Ajouter une IP"
 
 #: src/js/pages/admin/ip-manager/_dialogs/add-ip-dialog.vue:3
 msgid "Add IP Address"
-msgstr ""
+msgstr "Ajouter une adresse IP"
 
 #: src/js/pages/user/mimetypes/index.vue:16
 msgid "Add MimeType"
@@ -642,11 +642,11 @@ msgstr ""
 #: src/js/pages/user/dashboard/_components/widgets/all-users.vue:48
 #: src/js/pages/user/dashboard/_components/widgets/list-users.vue:62
 msgid "Add new User"
-msgstr ""
+msgstr "Ajouter un Utilisateur"
 
 #: src/js/modules/navigation/reseller.js:13
 msgid "Add New User"
-msgstr ""
+msgstr "Ajouter un Utilisateur"
 
 #: src/js/pages/user/dashboard/_components/add-widget-dialog.vue:7
 msgid "Add New Widget"
@@ -660,7 +660,7 @@ msgstr ""
 
 #: src/js/pages/reseller/user-packages/index.vue:12
 msgid "Add Package"
-msgstr ""
+msgstr "Ajouter un Forfait"
 
 #: src/js/pages/admin/plugin-manager.vue:88
 msgid "Add Plugin"
