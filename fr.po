@@ -104,6 +104,8 @@ msgid ""
 "* Note: Making modifications to the MX records can petentially disable all "
 "of your email accounts from receiving mail."
 msgstr ""
+"* Note: Effectuer des modifications aux enregistrements MX peut "
+"potentiellement désactivé la réception des e-mails pour ce domaine."
 
 #: src/js/pages/admin/backups/modify.vue:58
 #: src/js/pages/admin/backups/schedule.vue:62
@@ -112,7 +114,7 @@ msgstr ""
 
 #: src/js/pages/admin/stats.vue:66
 msgid "&nbsp;Database Disk Usage"
-msgstr ""
+msgstr "&nbsp;Database Disk Usage"
 
 #: src/js/pages/admin/stats.vue:57
 msgid "&nbsp;E-mail Disk Usage"
@@ -120,7 +122,7 @@ msgstr ""
 
 #: src/js/pages/admin/users/resellers/_components/usage-table.vue:70
 msgid "# of DBs"
-msgstr ""
+msgstr "# de BD"
 
 #: src/js/pages/admin/users/admins.vue:17 src/js/pages/admin/users/index.vue:11
 #: src/js/pages/admin/users/resellers/index.vue:19
@@ -129,7 +131,7 @@ msgstr ""
 #: src/js/pages/admin/users/resellers/index.vue:31
 #: src/js/pages/reseller/users/index.vue:47
 msgid "# of domains"
-msgstr ""
+msgstr "# de domaines"
 
 #: src/js/pages/admin/stats.vue:99
 #: src/js/pages/admin/users/resellers/_components/users-table.vue:2
@@ -140,38 +142,38 @@ msgstr ""
 #: src/js/pages/reseller/users/_components/usage-table.vue:82
 #: src/js/pages/user/stats/index.vue:64
 msgid "# of Domains"
-msgstr ""
+msgstr "# de Domaines"
 
 #: src/js/pages/reseller/stats.vue:227
 msgid "# of free IPs"
-msgstr ""
+msgstr "# d'adresses IPs disponibles"
 
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:57
 #: src/js/pages/reseller/stats.vue:226
 msgid "# of IPs"
-msgstr ""
+msgstr "# de IPs"
 
 #: src/js/pages/admin/stats.vue:173 src/js/pages/user/stats/index.vue:42
 #: src/js/pages/reseller/stats.vue:223
 #: src/js/pages/reseller/users/_components/usage-table.vue:114
 #: src/js/pages/user/stats/index.vue:88
 msgid "# of MySQL DBs"
-msgstr ""
+msgstr "# de bases MySQL"
 
 #: src/js/pages/admin/stats.vue:92
 msgid "# of Resellers"
-msgstr ""
+msgstr "# de Revendeurs"
 
 #: src/js/pages/user/stats/index.vue:42 src/js/pages/user/stats/index.vue:67
 msgid "# of Subdomains"
-msgstr ""
+msgstr "# de Sous-Domaines"
 
 #: src/js/pages/admin/stats.vue:109
 #: src/js/pages/admin/users/resellers/_components/usage-table.vue:65
 #: src/js/pages/reseller/stats.vue:216
 #: src/js/pages/reseller/users/_components/usage-table.vue:86
 msgid "# of SubDomains"
-msgstr ""
+msgstr "# de Sous-Domaines"
 
 #: src/js/pages/admin/stats.vue:85 src/js/pages/admin/users/admins.vue:17
 #: src/js/pages/admin/users/resellers/index.vue:19
@@ -180,15 +182,15 @@ msgstr ""
 #: src/js/pages/admin/users/resellers/index.vue:30
 #: src/js/pages/user/dashboard/_components/widgets/db.vue:20
 msgid "# of Users"
-msgstr ""
+msgstr "# d'Utilisateurs"
 
 #: src/js/pages/admin/settings.vue:110
 msgid "% Disk Usage to create Backups."
-msgstr ""
+msgstr "% d'espace disque pour les sauvegardes"
 
 #: src/js/pages/admin/settings.vue:217
 msgid "% of partition usage"
-msgstr ""
+msgstr "% d'utilisation de la partition"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:15
 msgid "%{ filename } customization for %{ domain }"
@@ -432,7 +434,7 @@ msgstr ""
 
 #: src/js/pages/user/stats/index.vue:32
 msgid "Account Configuration"
-msgstr ""
+msgstr "Configuration du Compte"
 
 #: src/js/pages/reseller/stats.vue:11 src/js/pages/reseller/users/view.vue:47
 #: src/js/pages/reseller/stats.vue:14 src/js/pages/reseller/users/view.vue:51
@@ -614,7 +616,7 @@ msgstr ""
 
 #: src/js/pages/user/dashboard/_components/widgets/ip-manager.vue:39
 msgid "Add New IP"
-msgstr ""
+msgstr "Ajouter une nouvelle adresse IP"
 
 #: src/js/pages/user/mimetypes/index.vue:53
 msgid "Add New MimeType"
@@ -724,7 +726,7 @@ msgstr ""
 #: src/js/pages/user/protected-directories/view.vue:78
 #: src/js/pages/user/protected-directories/view.vue:90
 msgid "Add User"
-msgstr ""
+msgstr "Ajouter un Utilisateur"
 
 #: src/js/pages/admin/system-backup.vue:100
 msgid "Add user home directories to directory list"
@@ -9767,11 +9769,11 @@ msgstr ""
 
 #: src/js/pages/admin/dns/add.vue:34
 msgid "Wrong IP format"
-msgstr ""
+msgstr "Mauvais format d'adresse IP"
 
 #: src/js/pages/user/ftp-accounts/create.vue:41
 msgid "Wrong username format"
-msgstr ""
+msgstr "Nom d'utilisateur invalide"
 
 #: src/js/components/local/history/chart.vue:4
 msgid "Year:"
