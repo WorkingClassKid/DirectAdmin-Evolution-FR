@@ -22,3 +22,7 @@ Vous pouvez ajouter cette tâche cron pour automatiquement télécharger la dern
 0 0 */5 * * wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/master/fr.po -O /usr/local/directadmin/data/skins/evolution/lang/fr.po
 ```
 Assurez-vous d'avoir ajuster le répertoire de votre installation du skin Evolution dans la commande de la tâche cron.
+
+
+# Contributions Importantes
+- Philippe Robert - https://webalternative.net - philippe.robert (at) webalternative (.) net
