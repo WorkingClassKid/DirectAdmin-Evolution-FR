@@ -9,4 +9,7 @@ Vous pouvez soumettre vos amélioration via un Pull requests ou bien nous pouvon
 Rendez-vous dans le répertoire où est installé le skin Evolution (généralement /usr/local/directadmin/data/skins/evolution/
 ) et taper la commande suivante:
 
+```bash
 wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/master/fr.po -O fr.po
+
+```
