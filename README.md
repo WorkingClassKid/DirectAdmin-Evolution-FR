@@ -7,7 +7,7 @@ J'encourage évidament tout le monde à participer et fournir des amélioration 
 
 Vous pouvez soumettre vos amélioration via un Pull requests ou bien nous pouvons en discuter dans la section Issues.
 
-# Installation
+## Installation
 Rendez-vous dans le répertoire lang de votre installation du skin Evolution (généralement /usr/local/directadmin/data/skins/evolution/lang/) et taper la commande suivante:
 
 ```bash
@@ -15,7 +15,7 @@ wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/m
 
 ```
 
-# Mise-à-jour automatique
+## Mise-à-jour automatique
 Vous pouvez ajouter cette tâche cron pour automatiquement télécharger la dernière version disponible à tous les 5 jours.
 
 ```bash
@@ -24,5 +24,5 @@ Vous pouvez ajouter cette tâche cron pour automatiquement télécharger la dern
 Assurez-vous d'avoir ajuster le répertoire de votre installation du skin Evolution dans la commande de la tâche cron.
 
 
-# Contributions Importantes
+### Contributions Importantes
 - Philippe Robert - https://webalternative.net - philippe.robert (at) webalternative (.) net
