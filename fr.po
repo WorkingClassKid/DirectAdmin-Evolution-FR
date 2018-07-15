@@ -2046,7 +2046,7 @@ msgstr ""
 
 #: src/js/components/local/filemanager/dialogs/copy-file-dialog.vue:46
 msgid "Copy"
-msgstr ""
+msgstr "Copier"
 
 #: src/js/components/local/filemanager/dialogs/copy-file-dialog.vue:19
 msgid "Copy %{type} \"%{name}\" to:"
@@ -2058,16 +2058,16 @@ msgstr ""
 
 #: src/js/components/local/filemanager/dialogs/copy-file-dialog.vue:7
 msgid "Copy File"
-msgstr ""
+msgstr "Copier le Fichier"
 
 #: src/js/pages/user/filemanager/index.vue:117
 msgid "Copy files"
-msgstr ""
+msgstr "Copier les Fichiers"
 
 #: src/js/pages/user/ftp-accounts/create.vue:70
 #: src/js/pages/user/ftp-accounts/edit.vue:53
 msgid "Copy Password"
-msgstr ""
+msgstr "Copier le Mot de Passe"
 
 #: src/js/pages/user/ssl/ca-cert.vue:16
 msgid "Copy to clipboard"
@@ -2088,7 +2088,7 @@ msgstr ""
 
 #: src/js/pages/user/ssl/_components/certificate-request.vue:10
 msgid "Country"
-msgstr ""
+msgstr "Pays"
 
 #: src/js/pages/user/system-info/_tables/general-info-table.vue:18
 msgid "CPUs Count"
@@ -2154,7 +2154,7 @@ msgstr ""
 
 #: src/js/pages/user/backup/index.vue:117
 msgid "Create Backup"
-msgstr ""
+msgstr "Créer une Sauvegarde"
 
 #: src/js/pages/user/cronjobs/index.vue:12
 msgid "Create cron job"
@@ -2162,16 +2162,16 @@ msgstr ""
 
 #: src/js/pages/user/cronjobs/create.vue:1
 msgid "Create Cron Job"
-msgstr ""
+msgstr "Ajouter une tâche CRON"
 
 #: src/js/pages/user/database/create.vue:1
 #: src/js/pages/user/database/create.vue:74
 msgid "Create Database"
-msgstr ""
+msgstr "Créer une Base de Données"
 
 #: src/js/pages/user/domains/add.vue:1
 msgid "Create Domain"
-msgstr ""
+msgstr "Ajouter un Domaine"
 
 #: src/js/pages/user/domain-pointers.vue:18
 msgid "Create Domain Pointer"
@@ -2185,11 +2185,11 @@ msgstr ""
 #: src/js/pages/user/filemanager/index.vue:20
 #: src/js/pages/user/filemanager/index.vue:56
 msgid "Create File"
-msgstr ""
+msgstr "Créer un Fichier"
 
 #: src/js/components/local/filemanager/dialogs/create-folder-dialog.vue:5
 msgid "Create Folder"
-msgstr ""
+msgstr "Créer un Dossier"
 
 #: src/js/pages/user/email/_components/create-forwarder-dialog.vue:3
 msgid "Create Forwarder"
@@ -2200,7 +2200,7 @@ msgstr[1] ""
 #: src/js/pages/user/ftp-accounts/create.vue:1
 #: src/js/pages/user/ftp-accounts/index.vue:27
 msgid "Create FTP Account"
-msgstr ""
+msgstr "Créer un Compte FTP"
 
 #: src/js/pages/user/handlers/index.vue:13
 msgid "Create Handler"
@@ -2228,11 +2228,11 @@ msgstr ""
 #: src/js/pages/user/dashboard/_components/widgets/db.vue:43
 #: src/js/pages/user/database/index.vue:26
 msgid "Create new Database"
-msgstr ""
+msgstr "Créer une Base de Données"
 
 #: src/js/pages/reseller/user-packages/create.vue:1
 msgid "Create New Package"
-msgstr ""
+msgstr "Créer un Nouveau Forfait"
 
 #: src/js/pages/user/redirects.vue:16
 msgid "Create New Redirect"
@@ -2240,26 +2240,26 @@ msgstr ""
 
 #: src/js/pages/user/database/view.vue:37
 msgid "Create New User"
-msgstr ""
+msgstr "Ajouter un Utilisateur"
 
 #: src/js/pages/user/database/_dialogs/create-db-user-dialog.vue:3
 msgid "Create New User for %{database}"
-msgstr ""
+msgstr "Ajouter un utilisateur pour la base %{database}"
 
 #: src/js/pages/admin/reseller-packages/create.vue:1
 msgid "Create Package"
-msgstr ""
+msgstr "Créer un Forfait"
 
 #: src/js/pages/admin/users/resellers/create.vue:1
 #: src/js/pages/admin/users/resellers/index.vue:16
 #: src/js/modules/navigation/admin.js:28
 msgid "Create Reseller"
-msgstr ""
+msgstr "Créer un Revendeur"
 
 #: src/js/pages/admin/reseller-packages/create.vue:11
 #: src/js/pages/admin/users/resellers/create.vue:149
 msgid "Create Reseller Package"
-msgstr ""
+msgstr "Créer un Forfait Revendeur"
 
 #: src/js/pages/admin/dns/add.vue:72
 msgid "Create Reverse IP Lookup:"
@@ -2637,17 +2637,17 @@ msgstr[1] ""
 #: src/js/pages/user/cronjobs/index.vue:17 src/js/pages/admin/cron-jobs.vue:19
 #: src/js/pages/user/cronjobs/index.vue:29
 msgid "Day of Month"
-msgstr ""
+msgstr "Jour du Mois"
 
 #: src/js/pages/reseller/backups/schedule.vue:107
 msgid "Day Of Month"
-msgstr ""
+msgstr "Jour Du Mois"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:41
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:26
 #: src/js/pages/reseller/backups/index.vue:44
 msgid "Day of Month: %{dayofmonth}"
-msgstr ""
+msgstr "Jour du Mois: %{dayofmonth}"
 
 #: src/js/pages/admin/backups/modify.vue:124
 #: src/js/pages/admin/backups/schedule.vue:166
@@ -2659,18 +2659,18 @@ msgstr ""
 #: src/js/pages/user/cronjobs/index.vue:180 src/js/pages/admin/cron-jobs.vue:21
 #: src/js/pages/user/cronjobs/index.vue:35
 msgid "Day of Week"
-msgstr ""
+msgstr "Jour de la Semaine"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:43
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:28
 #: src/js/pages/reseller/backups/index.vue:46
 msgid "Day of Week: %{dayofweek}"
-msgstr ""
+msgstr "Jour de la Semaine: %{dayofweek}"
 
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:41
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:65
 msgid "days"
-msgstr ""
+msgstr "jours"
 
 #: src/js/pages/admin/settings.vue:379
 msgid "days after entry was made."
@@ -2678,7 +2678,7 @@ msgstr ""
 
 #: src/js/pages/user/email/lists/index.vue:105
 msgid "days."
-msgstr ""
+msgstr "jours."
 
 #: src/js/components/global/app/app-search.vue:117
 msgid "DB Entries"
@@ -2699,7 +2699,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:289
 #: src/js/pages/user/stats/domain-statistics.vue:110
 msgid "December"
-msgstr ""
+msgstr "Décembre"
 
 #: src/js/pages/admin/dns/_components/override-ttl-dialog.vue:10
 #: src/js/pages/user/dns/_dialogs/override-ttl-dialog.vue:10
@@ -2789,11 +2789,11 @@ msgstr ""
 #: src/js/pages/user/security-questions.vue:34
 #: src/js/pages/user/subdomains/index.vue:39
 msgid "Delete"
-msgstr ""
+msgstr "Effacer"
 
 #: src/js/components/global/ui/ui-dialog-delete-items.vue:3
 msgid "Delete %{subject}"
-msgstr ""
+msgstr "Effacer %{subject}"
 
 #: src/js/pages/user/email/spamassassin.vue:286
 msgid "Delete Bayes Data"
@@ -2901,19 +2901,19 @@ msgstr ""
 #: src/js/pages/user/disk-usage.vue:28
 #: src/js/pages/user/email/usage/index.vue:64
 msgid "Details"
-msgstr ""
+msgstr "Détails"
 
 #: src/js/pages/admin/ip-manager/details.vue:13
 msgid "Details for %{ip}"
-msgstr ""
+msgstr "Détails pour %{ip}"
 
 #: src/js/pages/user/stats/index.vue:11
 msgid "Details for user \"%{username}\""
-msgstr ""
+msgstr "Détails de l'utilisateur \"%{username}\""
 
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:61
 msgid "Details:"
-msgstr ""
+msgstr "Détails:"
 
 #: src/js/pages/playground.vue:1
 msgid "DEV Playground"
@@ -3200,7 +3200,7 @@ msgstr[1] "Domaines"
 #: src/js/pages/user/ftp-accounts/create.vue:127
 #: src/js/pages/user/ftp-accounts/edit.vue:127
 msgid "Domain"
-msgstr ""
+msgstr "Domaine"
 
 #: src/js/pages/admin/multi-server.vue:69
 #: src/js/pages/admin/multi-server.vue:286
@@ -3275,14 +3275,14 @@ msgstr ""
 #: src/js/pages/reseller/_dialogs/create-nameservers-dialog.vue:7
 #: src/js/pages/user/domains/add.vue:27
 msgid "Domain:"
-msgstr ""
+msgstr "Domaine:"
 
 #: src/js/pages/admin/users/index.vue:11
 #: src/js/pages/user/dashboard/_components/widgets/list-users.vue:4
 #: src/js/pages/admin/users/index.vue:22
 #: src/js/pages/user/dashboard/_components/widgets/list-users.vue:12
 msgid "Domain(s)"
-msgstr ""
+msgstr "Domaine(s)"
 
 #: src/js/pages/reseller/users/index.vue:36
 #: src/js/pages/reseller/users/view.vue:47
@@ -3296,7 +3296,7 @@ msgstr ""
 #: src/js/pages/reseller/users/view.vue:49
 #: src/js/pages/user/dashboard/_components/widgets/all-users.vue:10
 msgid "Domains"
-msgstr ""
+msgstr "Domaines"
 
 #: src/js/pages/admin/backups/modify.vue:247
 #: src/js/pages/admin/backups/schedule.vue:311
@@ -3318,13 +3318,13 @@ msgstr ""
 
 #: src/js/pages/user/database/index.vue:93
 msgid "Download"
-msgstr ""
+msgstr "Télécharger"
 
 #: src/js/pages/user/dashboard/_components/widgets/db.vue:34
 #: src/js/pages/user/database/index.vue:50
 #: src/js/pages/user/database/index.vue:62
 msgid "Download Backup"
-msgstr ""
+msgstr "Télécharger la Sauvegarde"
 
 #: src/js/pages/user/email/accounts/index.vue:157
 msgid "Download Outlook Configuration"
@@ -3894,8 +3894,8 @@ msgstr ""
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:14
 msgid "File:"
 msgid_plural "Files:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Fichier:"
+msgstr[1] "Fichiers:"
 
 #: src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:9
@@ -3914,7 +3914,7 @@ msgstr ""
 #: src/js/pages/admin/system-backup.vue:35
 #: src/js/pages/reseller/backups/restore.vue:187
 msgid "Files"
-msgstr ""
+msgstr "Fichiers"
 
 #: src/js/pages/user/disk-usage.vue:36
 msgid "files owned by %{ owner } in"
@@ -4021,7 +4021,7 @@ msgstr ""
 
 #: src/js/pages/reseller/ip-config.vue:32
 msgid "Free"
-msgstr ""
+msgstr "Libre"
 
 #: src/js/pages/user/ssl/index.vue:141
 msgid "Free & automatic certificate from Let's Encrypt"
@@ -4042,12 +4042,12 @@ msgstr ""
 
 #: src/js/components/local/inputs/input-week-day.vue:28
 msgid "Friday"
-msgstr ""
+msgstr "Vendredi"
 
 #: src/js/pages/admin/backups/restore.vue:143
 #: src/js/pages/reseller/backups/restore.vue:142
 msgid "from the list"
-msgstr ""
+msgstr "de la liste"
 
 #: src/js/pages/admin/mail-queue/index.vue:58
 #: src/js/pages/user/dashboard/_components/widgets/mail-queue.vue:25
@@ -4104,13 +4104,13 @@ msgstr ""
 
 #: src/js/pages/user/stats/index.vue:42 src/js/pages/user/stats/index.vue:94
 msgid "Ftp Accounts"
-msgstr ""
+msgstr "Comptes FTP"
 
 #: src/js/pages/user/ftp-accounts/index.vue:1
 #: src/js/pages/user/ftp-accounts/index.vue:36
 #: src/js/pages/user/ftp-accounts/index.vue:39
 msgid "FTP accounts"
-msgstr ""
+msgstr "Comptes FTP"
 
 #: src/js/pages/admin/backups/modify.vue:253
 #: src/js/pages/admin/backups/schedule.vue:317 src/js/pages/admin/stats.vue:193
@@ -4129,15 +4129,15 @@ msgstr ""
 #: src/js/pages/reseller/stats.vue:225
 #: src/js/pages/reseller/users/_components/usage-table.vue:122
 msgid "FTP Accounts"
-msgstr ""
+msgstr "Comptes FTP"
 
 #: src/js/pages/user/ftp-accounts/index.vue:15
 msgid "FTP Accounts for %{ domain }"
-msgstr ""
+msgstr "Comptes FTP pour %{ domain } "
 
 #: src/js/modules/navigation/user.js:33
 msgid "FTP Management"
-msgstr ""
+msgstr "Gestion FTP"
 
 #: src/js/pages/admin/backups/modify.vue:153
 #: src/js/pages/admin/backups/modify.vue:256
@@ -4152,15 +4152,15 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/crons-table.vue:120
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:96
 msgid "FTP Settings"
-msgstr ""
+msgstr "Configuration FTP"
 
 #: src/js/pages/user/ftp-accounts/create.vue:32
 msgid "FTP Username"
-msgstr ""
+msgstr "Nom d'utilisateur FTP"
 
 #: src/js/pages/user/ftp-accounts/edit.vue:23
 msgid "FTP Username:"
-msgstr ""
+msgstr "Nom d'utilisateur FTP:"
 
 #: src/js/pages/user/stats/log.vue:29 src/js/pages/user/subdomains/logs.vue:20
 msgid "Full Log"
@@ -4230,13 +4230,13 @@ msgstr ""
 
 #: src/js/components/global/app/app-user-bar.vue:27
 msgid "Hello, %{ username }"
-msgstr ""
+msgstr "Bonjour, %{ username }"
 
 #: src/js/modules/navigation/admin.js:220
 #: src/js/modules/navigation/reseller.js:155
 #: src/js/modules/navigation/user.js:223
 msgid "Help"
-msgstr ""
+msgstr "Aide"
 
 #: src/js/pages/user/ssl/_components/certificate-request-dialog.vue:5
 msgid ""
@@ -4319,7 +4319,7 @@ msgstr ""
 #: src/js/pages/user/cronjobs/index.vue:17 src/js/pages/admin/cron-jobs.vue:18
 #: src/js/pages/user/cronjobs/index.vue:26
 msgid "Hour"
-msgstr ""
+msgstr "Heure"
 
 #: src/js/pages/user/cronjobs/index.vue:145
 msgid "Hour should be a number between 0 and 23 or *"
@@ -4329,7 +4329,7 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:25
 #: src/js/pages/reseller/backups/index.vue:43
 msgid "Hour: %{hour}"
-msgstr ""
+msgstr "Heure: %{hour}"
 
 #: src/js/pages/admin/settings.vue:366
 msgid "hours after last attempt."
@@ -4689,7 +4689,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:278
 #: src/js/pages/user/stats/domain-statistics.vue:99
 msgid "January"
-msgstr ""
+msgstr "Janvier"
 
 #: src/js/pages/user/login-keys/create.vue:254
 #: src/js/pages/user/login-keys/modify.vue:231
@@ -4702,7 +4702,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:284
 #: src/js/pages/user/stats/domain-statistics.vue:105
 msgid "July"
-msgstr ""
+msgstr "Juillet"
 
 #: src/js/pages/user/login-keys/create.vue:253
 #: src/js/pages/user/login-keys/modify.vue:230
@@ -4715,7 +4715,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:283
 #: src/js/pages/user/stats/domain-statistics.vue:104
 msgid "June"
-msgstr ""
+msgstr "Juin"
 
 #: src/js/pages/admin/settings.vue:191
 msgid "Keep Number of Apache Log Backups"
@@ -4907,11 +4907,11 @@ msgstr ""
 #: src/js/pages/user/email/lists/modify.vue:393
 #: src/js/pages/user/email/lists/modify.vue:403
 msgid "List"
-msgstr ""
+msgstr "Liste"
 
 #: src/js/modules/navigation/admin.js:18
 msgid "List Administrators"
-msgstr ""
+msgstr "Liste des Administrateurs"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:70
 msgid "List filtered by IP: %{ ip }"
@@ -4935,7 +4935,7 @@ msgstr ""
 
 #: src/js/modules/navigation/reseller.js:18 src/js/modules/widgets.js:39
 msgid "List Users"
-msgstr ""
+msgstr "Liste des Utilisateurs"
 
 #: src/js/pages/admin/stats.vue:203
 msgid "Load Average"
@@ -5588,13 +5588,13 @@ msgstr ""
 #: src/js/pages/user/stats/domain-statistics.vue:31
 #: src/js/pages/admin/cron-jobs.vue:20 src/js/pages/user/cronjobs/index.vue:32
 msgid "Month"
-msgstr ""
+msgstr "Mois"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:42
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:27
 #: src/js/pages/reseller/backups/index.vue:45
 msgid "Month: %{month}"
-msgstr ""
+msgstr "Mois: %{month}"
 
 #: src/js/pages/admin/stats.vue:232 src/js/pages/admin/stats.vue:242
 msgid "Mounted on"
