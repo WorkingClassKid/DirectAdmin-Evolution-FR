@@ -8,7 +8,7 @@ J'encourage évidament tout le monde à participer et fournir des amélioration 
 Vous pouvez soumettre vos amélioration via un Pull requests ou bien nous pouvons en discuter dans la section Issues.
 
 ## Installation
-Rendez-vous dans le répertoire lang de votre installation du skin Evolution (généralement /usr/local/directadmin/data/skins/evolution/lang/) et taper la commande suivante:
+Rendez-vous dans le répertoire lang de votre installation du skin Evolution (généralement /usr/local/directadmin/data/skins/evolution/lang/) et télécharger la dernière version de la traduction française à l'aide de wget avec la commande suivante:
 
 ```bash
 wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/master/fr.po -O fr.po
