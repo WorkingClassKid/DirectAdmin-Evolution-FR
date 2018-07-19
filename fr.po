@@ -507,7 +507,7 @@ msgstr "Domaines actifs"
 #: src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:64
 #: src/js/pages/user/dashboard/_components/widgets/user-stats.vue:50
 msgid "Active Since"
-msgstr ""
+msgstr "Actif Depuis"
 
 #: src/js/pages/user/dashboard/_components/widgets/additional-domains.vue:8
 msgid "Active sub-domains"
@@ -559,11 +559,11 @@ msgstr ""
 
 #: src/js/pages/user/domains/_components/add-ip-to-domain-dialog.vue:19
 msgid "Add DNS records for this IP"
-msgstr ""
+msgstr "Ajouter un champs DNS pour cette IP"
 
 #: src/js/pages/admin/dns/index.vue:16
 msgid "Add DNS Zone"
-msgstr ""
+msgstr "Ajouter une zone DNS"
 
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:40
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:68
@@ -572,7 +572,7 @@ msgstr ""
 
 #: src/js/pages/user/database/view.vue:40
 msgid "Add Existing User"
-msgstr ""
+msgstr "Ajouter un Utilisateur Existant"
 
 #: src/js/pages/user/email/_components/create-forwarder-dialog.vue:50
 msgid "Add Forwarder Name"
@@ -596,7 +596,7 @@ msgstr ""
 #: src/js/pages/user/dashboard/_components/widgets/additional-domains.vue:49
 #: src/js/pages/user/domains/index.vue:25
 msgid "Add New"
-msgstr ""
+msgstr "Ajouter un Nouveau"
 
 #: src/js/pages/user/database/view.vue:72
 msgid "Add New Access Host"
@@ -628,12 +628,12 @@ msgstr ""
 
 #: src/js/pages/user/security-questions.vue:60
 msgid "Add new Security Question"
-msgstr ""
+msgstr "Ajouter une nouvelle question de sécurité"
 
 #: src/js/pages/admin/multi-server.vue:134
 #: src/js/pages/admin/multi-server.vue:19
 msgid "Add New Server"
-msgstr ""
+msgstr "Ajouter Un Serveur"
 
 #: src/js/pages/user/subdomains/index.vue:75
 msgid "Add New SubDomain"
@@ -669,7 +669,7 @@ msgstr "Ajouter une Extension"
 #: src/js/components/local/dns/add-record-dialog.vue:3
 #: src/js/components/local/dns/records-table.vue:43
 msgid "Add Record"
-msgstr ""
+msgstr "Ajouter un Enregistrement"
 
 #: src/js/pages/user/two-step-auth.vue:174
 msgid "Add Scratch Codes"
@@ -677,12 +677,12 @@ msgstr ""
 
 #: src/js/pages/user/_components/add-security-question-dialog.vue:3
 msgid "Add Security Question"
-msgstr ""
+msgstr "Ajouter un Question de Sécurité"
 
 #: src/js/pages/user/subdomains/index.vue:101
 #: src/js/pages/user/subdomains/index.vue:18
 msgid "Add Subdomain"
-msgstr ""
+msgstr "Ajouter un Sous-Domaine"
 
 #: src/js/pages/user/email/lists/view.vue:15
 msgid "Add Subscriber"
@@ -694,7 +694,7 @@ msgstr ""
 
 #: src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:28
 msgid "Add to Apache"
-msgstr ""
+msgstr "Ajouter à Apache"
 
 #: src/js/components/local/filemanager/actions.vue:30
 #: src/js/components/local/filemanager/files-table.vue:199
@@ -741,12 +741,12 @@ msgstr ""
 #: src/js/pages/admin/ip-manager/details.vue:44
 #: src/js/pages/admin/ip-manager/details.vue:53
 msgid "Added to Apache"
-msgstr ""
+msgstr "Ajouté à Apache"
 
 #: src/js/pages/admin/ip-manager/details.vue:44
 #: src/js/pages/admin/ip-manager/details.vue:52
 msgid "Added to DNS"
-msgstr ""
+msgstr "Ajouté au DNS"
 
 #: src/js/pages/reseller/stats.vue:128
 msgid "Additional Bandwidth"
@@ -806,7 +806,7 @@ msgstr ""
 #: src/js/pages/admin/settings.vue:12 src/js/modules/navigation/admin.js:61
 #: src/js/pages/admin/settings.vue:16
 msgid "Administrator Settings"
-msgstr ""
+msgstr "Configurations Administrateur"
 
 #: src/js/pages/user/email/lists/modify.vue:37
 msgid "Administrivia"
