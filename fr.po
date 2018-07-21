@@ -194,7 +194,7 @@ msgstr "% d'utilisation de la partition"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:15
 msgid "%{ filename } customization for %{ domain }"
-msgstr ""
+msgstr "%{ filename } personalisation pour %{ domain }"
 
 #: src/js/pages/reseller/users/view.vue:84
 msgid "%{ limit } / Day"
@@ -212,15 +212,15 @@ msgstr[1] "%{ n } nouveaux tickets crées"
 
 #: src/js/components/local/r-table/r-table-actions.vue:9
 msgid "%{ selected }/%{ total } selected"
-msgstr ""
+msgstr "%{ selected }/%{ total } sélectionné"
 
 #: src/js/pages/admin/users/index.vue:331
 msgid "%{ sent } (Today: %{ today } / %{ limit })"
-msgstr ""
+msgstr "%{ sent } (Aujourd'hui: %{ today } / %{ limit })"
 
 #: src/js/pages/user/system-info/_tables/general-info-table.vue:11
 msgid "%{days} Days, %{hours} Hours and %{minutes} Minutes"
-msgstr ""
+msgstr "%{days} Jours, %{hours} Heures et  %{minutes} Minutes"
 
 #: src/js/components/local/filemanager/tree-view-item.vue:40
 msgid "%{dirs} Folders / %{files} Files"
@@ -368,7 +368,7 @@ msgstr ""
 
 #: src/js/pages/user/two-step-auth.vue:235
 msgid "6 Months"
-msgstr ""
+msgstr "6 Mois"
 
 #: src/js/pages/user/email/spamassassin.vue:47
 msgid ""
@@ -444,33 +444,33 @@ msgstr ""
 #: src/js/modules/navigation/admin.js:6 src/js/modules/navigation/reseller.js:6
 #: src/js/modules/navigation/user.js:6
 msgid "Account Manager"
-msgstr ""
+msgstr "Gestionnaire de Comptes"
 
 #: src/js/pages/user/ftp-accounts/edit.vue:158
 msgid "Account modified"
-msgstr ""
+msgstr "Comptes Modifié"
 
 #: src/js/pages/user/ftp-accounts/index.vue:210
 msgid "Account was successfully deleted"
 msgid_plural "Accounts was successfully deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Le compte a été effacé avec succès"
+msgstr[1] "Les comptes ont été effacés avec succès"
 
 #: src/js/pages/user/ftp-accounts/index.vue:174
 msgid "Account was successfully suspended"
 msgid_plural "Accounts was successfully suspended"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Le compte a été suspendu avec succès"
+msgstr[1] "Les comptes ont été suspendus avec succès"
 
 #: src/js/pages/user/ftp-accounts/index.vue:192
 msgid "Account was successfully unsuspended"
 msgid_plural "Accounts was successfully unsuspended"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Le compte a été réactivé avec succès"
+msgstr[1] "Les comptes ont été réactivés avec succès"
 
 #: src/js/modules/widgets.js:30
 msgid "Accounts and usage information"
-msgstr ""
+msgstr "Usage et Utilisation du compte"
 
 #: src/js/pages/user/email/filters.vue:122
 msgid "Action for filter matches:"
