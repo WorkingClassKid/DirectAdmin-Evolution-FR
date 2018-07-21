@@ -1220,7 +1220,7 @@ msgstr ""
 #: src/js/pages/user/login-keys/create.vue:255
 #: src/js/pages/user/login-keys/modify.vue:232
 msgid "Aug"
-msgstr ""
+msgstr "Aou"
 
 #: src/js/components/local/history/chart.vue:192
 #: src/js/components/local/history/table.vue:97
@@ -1228,7 +1228,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:285
 #: src/js/pages/user/stats/domain-statistics.vue:106
 msgid "August"
-msgstr ""
+msgstr "Août"
 
 #: src/js/pages/user/email/usage/index.vue:54
 #: src/js/pages/user/email/usage/index.vue:66
@@ -1253,7 +1253,7 @@ msgstr ""
 #: src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:25
 msgid "Author"
-msgstr ""
+msgstr "Auteur"
 
 #: src/js/pages/user/email/lists/modify.vue:398
 msgid "Auto"
@@ -1290,7 +1290,7 @@ msgstr[1] ""
 #: src/js/pages/user/email/autoresponders/index.vue:24
 #: src/js/pages/user/email/autoresponders/index.vue:28
 msgid "Autoresponder"
-msgstr ""
+msgstr "Auto-répondeur"
 
 #: src/js/pages/admin/backups/modify.vue:280
 #: src/js/pages/admin/backups/schedule.vue:344
@@ -1299,7 +1299,7 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/crons-table.vue:128
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:104
 msgid "Autoresponders"
-msgstr ""
+msgstr "Auto-répondeurs"
 
 #: src/js/pages/admin/stats.vue:149 src/js/pages/user/stats/index.vue:42
 #: src/js/components/local/user-package.vue:149
@@ -1310,11 +1310,11 @@ msgstr ""
 #: src/js/pages/reseller/users/_components/usage-table.vue:102
 #: src/js/pages/user/stats/index.vue:79
 msgid "AutoResponders"
-msgstr ""
+msgstr "Auto-Répondeurs"
 
 #: src/js/pages/user/email/autoresponders/index.vue:20
 msgid "AutoResponders limit reached"
-msgstr ""
+msgstr "Votre limite d'auto-répondeurs est atteint"
 
 #: src/js/pages/user/backup/index.vue:65
 #: src/js/pages/user/backup/restore.vue:67
@@ -1323,16 +1323,16 @@ msgstr ""
 
 #: src/js/pages/admin/stats.vue:232 src/js/pages/admin/stats.vue:240
 msgid "Available"
-msgstr ""
+msgstr "Disponible"
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:36
 msgid "Available Memory"
-msgstr ""
+msgstr "Mémoire Disponible"
 
 #: src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:21
 msgid "Available Version"
-msgstr ""
+msgstr "Version Disponible"
 
 #: src/js/pages/user/email/catch-all.vue:45
 msgid ""
@@ -1370,7 +1370,7 @@ msgstr ""
 #: src/js/pages/admin/system-backup.vue:77
 #: src/js/pages/user/backup/restore.vue:12
 msgid "Backup"
-msgstr ""
+msgstr "Sauvegarde"
 
 #: src/js/pages/admin/backups/restore.vue:212
 #: src/js/pages/reseller/backups/restore.vue:195
@@ -1393,7 +1393,7 @@ msgstr ""
 
 #: src/js/pages/admin/system-backup.vue:47
 msgid "Backup Path"
-msgstr ""
+msgstr "Répertoire de Sauvegarde"
 
 #: src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:3
 #: src/js/pages/admin/backups/index.vue:41
@@ -1450,7 +1450,7 @@ msgstr "Transfert"
 #: src/js/components/local/user-package.vue:141
 #: src/js/pages/admin/users/resellers/modify.vue:191
 msgid "Bandwidth (MB)"
-msgstr ""
+msgstr "Transfert (MB)"
 
 #: src/js/pages/reseller/users/history.vue:39
 msgid "Bandwidth & Disk Usage"
@@ -2503,8 +2503,8 @@ msgstr ""
 #: src/js/pages/user/database/index.vue:97
 msgid "database"
 msgid_plural "databases"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "base de données"
+msgstr[1] "bases de données"
 
 #: src/js/pages/user/dashboard/_components/widgets/db.vue:13
 #: src/js/pages/user/database/index.vue:50
@@ -2568,7 +2568,7 @@ msgstr ""
 #: src/js/pages/user/dashboard/_components/widgets/user-stats.vue:32
 #: src/js/modules/widgets.js:14
 msgid "Databases"
-msgstr ""
+msgstr "Bases de Données"
 
 #: src/js/components/global/app/app-skin-options.vue:41
 #: src/js/components/local/filemanager/files-table.vue:3
@@ -3033,12 +3033,12 @@ msgstr ""
 #: src/js/pages/user/dashboard/_components/widgets/user-stats.vue:5
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:181
 msgid "Disk Space"
-msgstr ""
+msgstr "Espace Disque"
 
 #: src/js/components/local/user-package.vue:142
 #: src/js/pages/admin/users/resellers/modify.vue:192
 msgid "Disk Space (MB)"
-msgstr ""
+msgstr "Espace Disque (MB)"
 
 #: src/js/components/local/history/table.vue:3
 #: src/js/components/local/stats/webalizer-table.vue:4
@@ -5329,17 +5329,17 @@ msgstr ""
 #: src/js/pages/reseller/customize-skin/index.vue:39
 #: src/js/pages/reseller/customize-skin/index.vue:43
 msgid "Menu: Admin"
-msgstr ""
+msgstr "Menu: Admin"
 
 #: src/js/pages/reseller/customize-skin/index.vue:39
 #: src/js/pages/reseller/customize-skin/index.vue:42
 msgid "Menu: Reseller"
-msgstr ""
+msgstr "Menu: Revendeur"
 
 #: src/js/pages/reseller/customize-skin/index.vue:39
 #: src/js/pages/reseller/customize-skin/index.vue:41
 msgid "Menu: User"
-msgstr ""
+msgstr "Menu: Utilisateur"
 
 #: src/js/pages/user/messages/index.vue:77
 msgid "message"
@@ -5358,7 +5358,7 @@ msgstr ""
 #: src/js/pages/reseller/message-users.vue:1
 #: src/js/modules/navigation/reseller.js:69
 msgid "Message All Users"
-msgstr ""
+msgstr "Message à tous les utilisateurs"
 
 #: src/js/pages/user/email/lists/modify.vue:298
 msgid "Message Footer"
@@ -5427,7 +5427,7 @@ msgstr ""
 
 #: src/js/pages/admin/system-backup.vue:57
 msgid "Minumum disk space required for backup (MB)"
-msgstr ""
+msgstr "Espace disque minimum requis pour les sauvegardes (MB)"
 
 #: src/js/pages/admin/backups/modify.vue:92
 #: src/js/pages/admin/backups/schedule.vue:111
@@ -5641,7 +5641,7 @@ msgstr ""
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:189
 #: src/js/pages/admin/users/resellers/modify.vue:200
 msgid "MySQL Databases"
-msgstr ""
+msgstr "Bases de Données MySQL"
 
 #: src/js/modules/navigation/user.js:38
 msgid "MySQL Management"
@@ -6904,15 +6904,15 @@ msgstr ""
 
 #: src/js/modules/navigation/reseller.js:102
 msgid "Reseller Statistics"
-msgstr ""
+msgstr "Statistiques Revendeur"
 
 #: src/js/pages/reseller/stats.vue:1 src/js/modules/widgets.js:34
 msgid "Reseller Stats"
-msgstr ""
+msgstr "Statistiques Revendeur"
 
 #: src/js/modules/navigation/reseller.js:57
 msgid "Reseller Tools"
-msgstr ""
+msgstr "Outils Revendeur"
 
 #: src/js/pages/admin/users/resellers/index.vue:1
 #: src/js/pages/user/dashboard/_components/widgets/admin-stats.vue:29
@@ -7749,7 +7749,7 @@ msgstr ""
 
 #: src/js/modules/widgets.js:15
 msgid "Setup your databases"
-msgstr ""
+msgstr "Configuration de vos Bases de Données"
 
 #: src/js/pages/reseller/ip-config.vue:29
 msgid "Share"
@@ -9352,11 +9352,11 @@ msgstr ""
 #: src/js/pages/admin/users/resellers/view.vue:46
 #: src/js/pages/user/protected-directories/view.vue:53
 msgid "Users"
-msgstr ""
+msgstr "Utilisateurs"
 
 #: src/js/modules/widgets.js:40
 msgid "Users under your control"
-msgstr ""
+msgstr "Utilisateurs sous votre contrôle"
 
 #: src/js/pages/user/login-keys/index.vue:21
 #: src/js/pages/user/login-keys/index.vue:31
