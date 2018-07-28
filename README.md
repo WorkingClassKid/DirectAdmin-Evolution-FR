@@ -1,9 +1,10 @@
 # DirectAdmin-Evolution-FR
 Traduction française pour le skin Evolution pour le panel adminstrateur DirectAdmin
 
-Elle n'est toujours pas complète, mais nous ajoutons de nouvelles traductions chaque semaines. En date du 27 Juil. 2018, la traduction est complète à 21%
+En date du 27 Juil. 2018, la traduction est complète à 21%.
+De nouvelles traductions sont ajoutées chaque semaine.
 
-J'encourage évidament tout le monde à participer et fournir des amélioration à la traduction française.
+Tout le monde est libre participer et fournir des améliorations à la traduction française.
 
 Vous pouvez soumettre vos amélioration via un Pull requests ou bien nous pouvons en discuter dans la section Issues.
 
@@ -16,12 +17,12 @@ wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/m
 ```
 
 ## Mise-à-jour automatique
-Vous pouvez ajouter cette tâche cron pour automatiquement télécharger la dernière version disponible à tous les 5 jours.
+Vous pouvez ajouter une tâche cron pour automatiquement télécharger la dernière version disponible tous les 5 jours.
 
 ```bash
 0 0 */5 * * wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/master/fr.po -O /usr/local/directadmin/data/skins/evolution/lang/fr.po
 ```
-Assurez-vous d'avoir ajuster le répertoire de votre installation du skin Evolution dans la commande de la tâche cron.
+Assurez-vous d'avoir ajusté le répertoire de votre installation du skin Evolution dans la commande de la tâche cron.
 
 
 ### Contributions Importantes
