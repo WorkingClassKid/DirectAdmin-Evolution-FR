@@ -1819,7 +1819,7 @@ msgstr ""
 
 #: src/js/components/global/app/app-search.vue:43
 msgid "Choose your searching criterias:"
-msgstr ""
+msgstr "Choisissez vos critères de recherche:"
 
 #: src/js/pages/user/ssl/_components/certificate-request.vue:34
 msgid "City"
@@ -1872,7 +1872,7 @@ msgstr ""
 #: src/js/pages/admin/dns/index.vue:38 src/js/pages/admin/php-safe-mode.vue:29
 #: src/js/pages/reseller/users/index.vue:29
 msgid "Clear Search"
-msgstr ""
+msgstr "Effacer la recherche"
 
 #: src/js/pages/user/ssl/_components/lets-encrypt-tab.vue:25
 msgid "Clear Selection"
@@ -6399,7 +6399,7 @@ msgstr ""
 #: src/js/components/local/filemanager/search.vue:4
 #: src/js/components/local/filemanager/search.vue:8
 msgid "Please enter your search criteria"
-msgstr ""
+msgstr "S'il vous plaît entrer vos critères de recherche"
 
 #: src/js/pages/user/ftp-accounts/create.vue:140
 #: src/js/pages/user/ftp-accounts/edit.vue:140
@@ -7269,12 +7269,12 @@ msgstr ""
 
 #: src/js/pages/user/filemanager/index.vue:67
 msgid "Search"
-msgstr ""
+msgstr "Recherche"
 
 #: src/js/components/global/app/app-search.vue:21
 #: src/js/components/global/app/app-search.vue:41
 msgid "Search settings"
-msgstr ""
+msgstr "Config. Recherche"
 
 #: src/js/pages/user/domains/php.vue:28
 msgid "Second PHP"
@@ -7900,16 +7900,16 @@ msgstr ""
 
 #: src/js/pages/admin/dns/index.vue:21
 msgid "Show domains that"
-msgstr ""
+msgstr "Afficher les domaines qui"
 
 #: src/js/pages/admin/custom-httpd/index.vue:18
 #: src/js/pages/admin/php-safe-mode.vue:13
 msgid "Show Domains that"
-msgstr ""
+msgstr "Afficher les Domaines qui"
 
 #: src/js/pages/reseller/users/index.vue:21
 msgid "Show domains that contain"
-msgstr ""
+msgstr "Afficher les domaines contenant"
 
 #: src/js/pages/admin/log-viewer/view.vue:21
 msgid "Show Entire File"
@@ -8250,11 +8250,11 @@ msgstr ""
 #: src/js/pages/user/messages/_tables/tickets.vue:10
 #: src/js/pages/user/system-info/_tables/services-info-table.vue:8
 msgid "Status"
-msgstr ""
+msgstr "Statut"
 
 #: src/js/pages/reseller/_dialogs/view-ticket.vue:38
 msgid "Status:"
-msgstr ""
+msgstr "Statut:"
 
 #: src/js/pages/admin/backups/restore.vue:19
 #: src/js/pages/reseller/backups/restore.vue:19
@@ -8524,15 +8524,15 @@ msgstr ""
 #: src/js/pages/reseller/users/_components/account-info.vue:239
 #: src/js/pages/user/stats/index.vue:181
 msgid "Suspend at Limit"
-msgstr ""
+msgstr "Suspendre à la Limite"
 
 #: src/js/components/local/user-package.vue:167
 msgid "Suspend At Limit"
-msgstr ""
+msgstr "Suspendre à la Limite"
 
 #: src/js/components/local/suspend-user-dialog.vue:5
 msgid "Suspend user"
-msgstr ""
+msgstr "Suspendre l'utilisateur"
 
 #: src/js/components/local/stats/webalizer-table.vue:42
 #: src/js/pages/admin/users/index.vue:82
@@ -8544,13 +8544,13 @@ msgstr ""
 #: src/js/pages/user/email/accounts/index.vue:94
 #: src/js/pages/user/ftp-accounts/index.vue:57
 msgid "Suspended"
-msgstr ""
+msgstr "Suspendu"
 
 #: src/js/pages/admin/users/admins.vue:60 src/js/pages/admin/users/index.vue:83
 #: src/js/pages/admin/users/resellers/index.vue:64
 #: src/js/pages/reseller/users/index.vue:82
 msgid "Suspended: %{ reason }"
-msgstr ""
+msgstr "Suspendu: %{ reason }"
 
 #: src/js/pages/admin/custom-httpd/php-fpm.vue:15
 #: src/js/pages/admin/custom-httpd/view.vue:16
@@ -8828,7 +8828,7 @@ msgstr ""
 #: src/js/pages/user/email/usage/index.vue:15
 #: src/js/pages/user/email/usage/php-scripts.vue:14
 msgid "Today"
-msgstr ""
+msgstr "Aujourd'hui"
 
 #: src/js/pages/admin/custom-httpd/view.vue:90
 #: src/js/pages/admin/custom-httpd/php-fpm.vue:95
@@ -9184,7 +9184,7 @@ msgstr ""
 
 #: src/js/pages/admin/log-viewer/view.vue:43
 msgid "Use the | charter for separation."
-msgstr ""
+msgstr "Utilisez le | pour la séparation."
 
 #: src/js/pages/admin/settings.vue:61
 msgid ""
@@ -9194,11 +9194,11 @@ msgstr ""
 
 #: src/js/pages/admin/backups/restore.vue:131
 msgid "Use the IP"
-msgstr ""
+msgstr "Utilisez l'IP"
 
 #: src/js/pages/reseller/backups/restore.vue:128
 msgid "Use the IP stored in the backup"
-msgstr ""
+msgstr "Utiliser l'adresse IP stockée dans la sauvegarde"
 
 #: src/js/pages/user/ssl/index.vue:131
 msgid "Use the server's certificate"
@@ -9209,12 +9209,16 @@ msgid ""
 "Use this server to handle my e-mails. If not, change the MX records and "
 "uncheck this option."
 msgstr ""
+"Utilisez ce serveur pour gérer mes e-mails. Si ce n'est pas le cas, modifiez "
+"les enregistrements MX et décochez cette option."
 
 #: src/js/components/global/app/app-mx-local-mail.vue:6
 msgid ""
 "Use this server to handle my emails. If not, change the MX records and "
 "uncheck this option."
 msgstr ""
+"Utilisez ce serveur pour gérer mes e-mails. Si ce n'est pas le cas, modifiez "
+"les enregistrements MX et décochez cette option."
 
 #: src/js/pages/admin/stats.vue:232 src/js/pages/admin/stats.vue:239
 msgid "Used"
@@ -9253,7 +9257,7 @@ msgstr "Utilisateur"
 #: src/js/pages/user/ftp-accounts/create.vue:38
 #: src/js/pages/user/protected-directories/view.vue:106
 msgid "User already exists"
-msgstr ""
+msgstr "L'utilisateur existe déjà"
 
 #: src/js/components/local/suspend-user-dialog.vue:33
 msgid "User Bandwidth"
