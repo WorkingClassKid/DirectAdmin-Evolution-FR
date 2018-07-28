@@ -474,7 +474,7 @@ msgstr ""
 #: src/js/modules/navigation/admin.js:6 src/js/modules/navigation/reseller.js:6
 #: src/js/modules/navigation/user.js:6
 msgid "Account Manager"
-msgstr "Gestionnaire de Comptes"
+msgstr "Gestion des Comptes"
 
 #: src/js/pages/user/ftp-accounts/edit.vue:158
 msgid "Account modified"
@@ -3831,7 +3831,7 @@ msgstr ""
 #: src/js/modules/navigation/reseller.js:108
 #: src/js/modules/navigation/user.js:184
 msgid "Extra Features"
-msgstr ""
+msgstr "Outils"
 
 #: src/js/components/local/filemanager/dialogs/extract-file-dialog.vue:43
 #: src/js/components/local/filemanager/files-table.vue:209
@@ -7634,7 +7634,7 @@ msgstr ""
 #: src/js/modules/navigation/admin.js:54
 #: src/js/modules/navigation/reseller.js:39
 msgid "Server Manager"
-msgstr ""
+msgstr "Gestion Serveur"
 
 #: src/js/pages/user/ftp-accounts/index.vue:56
 msgid "Server Path"
@@ -8490,7 +8490,7 @@ msgstr "Dimanche"
 #: src/js/modules/navigation/reseller.js:148
 #: src/js/modules/navigation/user.js:217
 msgid "Support & Help"
-msgstr ""
+msgstr "Aide & Support"
 
 #: src/js/modules/navigation/user.js:234
 msgid "Support Center"
@@ -8585,7 +8585,7 @@ msgstr ""
 #: src/js/modules/navigation/reseller.js:85
 #: src/js/modules/navigation/user.js:156
 msgid "System Info & Files"
-msgstr ""
+msgstr "Infos Système et Fichiers"
 
 #: src/js/modules/navigation/admin.js:152 src/js/modules/widgets.js:4
 msgid "System Information"
