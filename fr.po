@@ -22,6 +22,15 @@ msgid ""
 "                        </table>\n"
 "                    "
 msgstr ""
+"\n"
+"                        <table class=\"table-elem\">\n"
+"                            <tr><td>Nom d'Utilisateur:</td><td>%{ login }</"
+"td></tr>\n"
+"                            <tr><td>Mot de Passe:</td><td>%{ passwd }</td></"
+"tr>\n"
+"                            <tr><td>Chemin:</td><td>%{ path }</td></tr>\n"
+"                        </table>\n"
+"                    "
 
 #: src/js/pages/reseller/backups/restore.vue:19
 #: src/js/pages/reseller/backups/restore.vue:28
@@ -474,7 +483,7 @@ msgstr ""
 #: src/js/modules/navigation/admin.js:6 src/js/modules/navigation/reseller.js:6
 #: src/js/modules/navigation/user.js:6
 msgid "Account Manager"
-msgstr "Gestion des Comptes"
+msgstr "Comptes et Forfaits"
 
 #: src/js/pages/user/ftp-accounts/edit.vue:158
 msgid "Account modified"
@@ -2314,7 +2323,7 @@ msgstr ""
 #: src/js/pages/reseller/users/create.vue:1
 #: src/js/pages/reseller/users/index.vue:17
 msgid "Create User"
-msgstr ""
+msgstr "Créer un Utilisateur"
 
 #: src/js/pages/reseller/users/create.vue:125
 msgid "Create User Package"
@@ -2397,7 +2406,7 @@ msgstr ""
 
 #: src/js/pages/user/password.vue:18
 msgid "Current DirectAdmin Password:"
-msgstr ""
+msgstr "Mot de passe DirectAdmin actuel:"
 
 #: src/js/pages/reseller/users/modify.vue:55
 msgid "Current IPs"
@@ -2406,7 +2415,7 @@ msgstr ""
 #: src/js/pages/user/login-keys/create.vue:160
 #: src/js/pages/user/login-keys/modify.vue:143
 msgid "Current Password:"
-msgstr ""
+msgstr "Mot de passe actuel:"
 
 #: src/js/pages/user/protected-directories/index.vue:12
 #: src/js/pages/user/protected-directories/index.vue:15
@@ -2477,7 +2486,7 @@ msgstr ""
 
 #: src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:27
 msgid "Custom username & password"
-msgstr ""
+msgstr "Nom d'utilisateur et mot de passe personnalisés"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:45
 msgid "CUSTOM1"
@@ -2952,7 +2961,7 @@ msgstr ""
 
 #: src/js/pages/admin/settings.vue:401
 msgid "Difficult Password Enforcement"
-msgstr ""
+msgstr "Application forcé de mot de passe difficile"
 
 #: src/js/pages/user/email/lists/modify.vue:56
 msgid "Digest Issue"
@@ -8585,7 +8594,7 @@ msgstr ""
 #: src/js/modules/navigation/reseller.js:85
 #: src/js/modules/navigation/user.js:156
 msgid "System Info & Files"
-msgstr "Infos Système et Fichiers"
+msgstr "Système et Fichiers"
 
 #: src/js/modules/navigation/admin.js:152 src/js/modules/widgets.js:4
 msgid "System Information"
