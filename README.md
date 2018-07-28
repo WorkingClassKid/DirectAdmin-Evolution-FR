@@ -1,4 +1,4 @@
-# DirectAdmin-Evolution-FR
+# DirectAdmin - Skin Evolution - Traduction Française (French Traduction)
 Traduction française pour le skin Evolution pour le panel adminstrateur DirectAdmin
 
 En date du 27 Juil. 2018, la traduction est complète à 21%.
