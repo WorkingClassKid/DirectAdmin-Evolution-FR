@@ -26,14 +26,14 @@ msgstr ""
 #: src/js/pages/reseller/backups/restore.vue:19
 #: src/js/pages/reseller/backups/restore.vue:28
 msgid " Select IP address used for restore."
-msgstr ""
+msgstr "Choisir une adresse IP utilisé pour la restauration"
 
 #: src/js/pages/user/email/autoresponders/create.vue:31
 #: src/js/pages/user/email/autoresponders/modify.vue:27
 #: src/js/pages/user/email/vacations/create.vue:24
 #: src/js/pages/user/email/vacations/modify.vue:22
 msgid ": original subject"
-msgstr ""
+msgstr ": sujet original"
 
 #: src/js/components/global/ui/ui-pagination.vue:6
 msgid "..."
@@ -110,7 +110,7 @@ msgstr ""
 #: src/js/pages/admin/backups/modify.vue:58
 #: src/js/pages/admin/backups/schedule.vue:62
 msgid "& Users"
-msgstr ""
+msgstr "& Utilisateurs"
 
 #: src/js/pages/admin/stats.vue:66
 msgid "&nbsp;Database Disk Usage"
@@ -118,7 +118,7 @@ msgstr "&nbsp;Database Disk Usage"
 
 #: src/js/pages/admin/stats.vue:57
 msgid "&nbsp;E-mail Disk Usage"
-msgstr ""
+msgstr "&nbsp;Espace Disque E-mail"
 
 #: src/js/pages/admin/users/resellers/_components/usage-table.vue:70
 msgid "# of DBs"
@@ -250,6 +250,17 @@ msgid ""
 "</input-check>\n"
 "</div>"
 msgstr ""
+"<div slot=\"content\" v-gutter=\"1\">\n"
+"<input-check v-model=\"system\">\n"
+"<translate>Compte DirectAdmin</translate>\n"
+"</input-check>\n"
+"<input-check v-model=\"ftp\">\n"
+"<translate>Compte FTP Principale</translate>\n"
+"</input-check>\n"
+"<input-check v-model=\"database\">\n"
+"<translate>Accès Principale aux Bases de Données</translate>\n"
+"</input-check>\n"
+"</div>"
 
 #: src/js/pages/user/two-step-auth.vue:23
 msgid ""
@@ -265,6 +276,19 @@ msgid ""
 "keep them safe.\n"
 "</p>"
 msgstr ""
+"<p>\n"
+"Pour utiliser cette fonctionnalité, télécharger l'application Google "
+"Authenticator pour votre téléphone (ou équivalent) et scanner le code QR.\n"
+"</p>\n"
+"<p>\n"
+"L'application vous montreras un code que vous utiliserez pour vous connecter "
+"à DirectAdmin.\n"
+"</p>\n"
+"<p>\n"
+"Les \"Scratch Codes\" sont des codes à utilisation unique qui peuvent être "
+"utilisés lorsque vous n'avez pas votre téléphone. Conservez les dans un "
+"endroit sécuritaire..\n"
+"</p>"
 
 #: src/js/pages/admin/settings.vue:313 src/js/pages/admin/settings.vue:484
 msgid "0 = never"
@@ -272,7 +296,7 @@ msgstr "0 = jamais"
 
 #: src/js/pages/admin/settings.vue:107
 msgid "0 = off, 100 = always on"
-msgstr ""
+msgstr "0 = Off, 100 = Toujours ON"
 
 #: src/js/pages/admin/backups/schedule.vue:127
 msgid "0-23"
@@ -284,28 +308,28 @@ msgstr ""
 
 #: src/js/pages/admin/backups/schedule.vue:167
 msgid "0-7. 0,7 - Sunday"
-msgstr ""
+msgstr "0-7. 0,7 - Dimanche"
 
 #: src/js/pages/admin/backups/modify.vue:125
 #: src/js/pages/user/cronjobs/create.vue:82
 msgid "0–7; 0, 7 = Sunday"
-msgstr ""
+msgstr "0–7; 0, 7 = Dimanche"
 
 #: src/js/pages/reseller/backups/modify.vue:122
 msgid "0–7; 0,7 = Sunday"
-msgstr ""
+msgstr "0–7; 0,7 = Dimanche"
 
 #: src/js/pages/user/two-step-auth.vue:215
 msgid "1 Day"
-msgstr ""
+msgstr "1 Jour"
 
 #: src/js/pages/user/two-step-auth.vue:231
 msgid "1 Month"
-msgstr ""
+msgstr "1 Mois"
 
 #: src/js/pages/user/two-step-auth.vue:223
 msgid "1 Week"
-msgstr ""
+msgstr "1 Semaine"
 
 #: src/js/pages/admin/backups/schedule.vue:157
 msgid "1-12"
@@ -317,19 +341,19 @@ msgstr ""
 
 #: src/js/pages/user/email/spamassassin.vue:83
 msgid "1-50, no decimals"
-msgstr ""
+msgstr "1-50, aucune décimale"
 
 #: src/js/pages/user/two-step-auth.vue:239
 msgid "12 Months"
-msgstr ""
+msgstr "12 Mois"
 
 #: src/js/pages/user/two-step-auth.vue:219
 msgid "2 Days"
-msgstr ""
+msgstr "2 Jours"
 
 #: src/js/pages/user/two-step-auth.vue:227
 msgid "2 Weeks"
-msgstr ""
+msgstr "2 Semaines"
 
 #: src/js/pages/user/redirects.vue:52 src/js/pages/user/redirects.vue:86
 #: src/js/pages/user/redirects.vue:89
@@ -375,26 +399,32 @@ msgid ""
 "A higher threshold will let more spam through, but is less likely to tag "
 "legitimate mail."
 msgstr ""
+"Un seuil plus élevé laissera passer plus de spam, mais sera moins "
+"susceptible d'étiqueter les mails légitimes."
 
 #: src/js/pages/user/login-keys/create.vue:18
 msgid "A label to manage the keys. This is not the login username. (a-zA-Z0-9)"
 msgstr ""
+"Une étiquette pour gérer les clés. Ce n'est pas le nom d'utilisateur de "
+"connexion à DirectAdmin. (a-zA-Z0-9)"
 
 #: src/js/pages/user/email/spamassassin.vue:45
 msgid ""
 "A lower threshold will block more spam, but can potentially tag legitimate "
 "mail."
 msgstr ""
+"Un seuil bas bloquera plus de spams, mais peut potentiellement étiqueter les "
+"mails légitimes."
 
 #: src/js/components/local/suspend-user-dialog.vue:28
 msgid "Abuse"
-msgstr ""
+msgstr "Abus"
 
 #: src/js/components/global/input/input-dropzone.vue:42
 msgid "Accepted type:"
 msgid_plural "Accepted types"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Type accepté"
+msgstr[1] "Types acceptés"
 
 #: src/js/pages/user/database/view.vue:89
 msgid "access host"
@@ -932,15 +962,16 @@ msgstr ""
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:203
 #: src/js/pages/admin/users/resellers/modify.vue:214
 msgid "Allow Overselling"
-msgstr ""
+msgstr "Autorisé la survente (Overselling)"
 
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:65
 msgid "Allow Reseller to create sites with server IP"
 msgstr ""
+"Autoriser le revendeur à créer des comptes avec l'adresse IP du serveur"
 
 #: src/js/pages/admin/settings.vue:104
 msgid "Allow Users with less than"
-msgstr ""
+msgstr "Autoriser les utilisateurs avec moins de"
 
 #: src/js/pages/user/ftp-settings.vue:34
 msgid "Allow:"
@@ -971,7 +1002,7 @@ msgstr ""
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:32
 msgid "Alter"
-msgstr ""
+msgstr "Modifier"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:56
 msgid "Alter Routine"
@@ -1003,7 +1034,7 @@ msgstr ""
 
 #: src/js/pages/user/_components/add-security-question-dialog.vue:45
 msgid "Answer"
-msgstr ""
+msgstr "Répondre"
 
 #: src/js/components/local/inputs/input-week-day.vue:23
 msgid "Any"
@@ -1046,27 +1077,27 @@ msgstr ""
 
 #: src/js/pages/user/dashboard/_components/widgets/skins.vue:26
 msgid "Apply to all users"
-msgstr ""
+msgstr "Appliquer à tous les utilisateurs"
 
 #: src/js/pages/reseller/skins.vue:37
 msgid "Apply to All Users"
-msgstr ""
+msgstr "Appliquer à Tous Les Utilisateurs"
 
 #: src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:36
 msgid "Apply to existing domains"
-msgstr ""
+msgstr "Appliquer aux domaines existants"
 
 #: src/js/pages/user/dashboard/_components/widgets/skins.vue:21
 msgid "Apply to me"
-msgstr ""
+msgstr "Appliquer à moi"
 
 #: src/js/pages/reseller/skins.vue:32
 msgid "Apply to Me"
-msgstr ""
+msgstr "Appliquer à Moi"
 
 #: src/js/pages/user/email/lists/modify.vue:22
 msgid "Approve Password"
-msgstr ""
+msgstr "Approuver le Mot de Passe"
 
 #: src/js/pages/user/login-keys/create.vue:251
 #: src/js/pages/user/login-keys/modify.vue:228
@@ -1084,7 +1115,7 @@ msgstr "Avril"
 #: src/js/pages/user/email/lists/index.vue:26
 #: src/js/pages/user/email/lists/index.vue:33
 msgid "Archive Size"
-msgstr ""
+msgstr "Taille de l'archive"
 
 #: src/js/pages/admin/plugin-manager.vue:135
 msgid "Are you sure you want to activate “%{ name }” plugin?"
@@ -2020,7 +2051,7 @@ msgstr ""
 
 #: src/js/pages/admin/users/index.vue:223
 msgid "Connection Error"
-msgstr ""
+msgstr "Erreur de connexion"
 
 #: src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:21
 msgid "Connection Method"
