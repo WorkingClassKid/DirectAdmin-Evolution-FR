@@ -813,7 +813,7 @@ msgstr[1] ""
 #: src/js/pages/reseller/_dialogs/view-ticket.vue:82
 #: src/js/pages/user/messages/_dialogs/view-ticket-dialog.vue:40
 msgid "Admin"
-msgstr ""
+msgstr "Admin"
 
 #: src/js/modules/navigation/admin.js:99
 msgid "Admin Backup/Transfer"
@@ -829,19 +829,19 @@ msgstr ""
 
 #: src/js/pages/user/email/lists/modify.vue:15
 msgid "Admin Password"
-msgstr ""
+msgstr "Mot de Passe Admin"
 
 #: src/js/pages/admin/settings.vue:1
 msgid "Admin Settings"
-msgstr ""
+msgstr "Configurations Adminsitrateur"
 
 #: src/js/modules/widgets.js:54
 msgid "Admin Stats"
-msgstr ""
+msgstr "Stats Adminsitrateur"
 
 #: src/js/modules/navigation/admin.js:92
 msgid "Admin Tools"
-msgstr ""
+msgstr "Outils Adminsitrateur"
 
 #: src/js/pages/admin/settings.vue:12 src/js/modules/navigation/admin.js:61
 #: src/js/pages/admin/settings.vue:16
@@ -5161,7 +5161,7 @@ msgstr "Déconnexion"
 
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:167
 msgid "Lost connection to tracker. Re-connecting."
-msgstr "Connexion perdue au tracker. Reconnexion"
+msgstr "Connexion perdue au tracker. Reconnexion."
 
 #: src/js/pages/reseller/create-ticket.vue:21
 #: src/js/pages/reseller/message-users.vue:33
@@ -5686,7 +5686,7 @@ msgstr ""
 
 #: src/js/pages/user/messages/index.vue:1
 msgid "My messages"
-msgstr ""
+msgstr "Mes Messages"
 
 #: src/js/pages/admin/system-backup.vue:90
 #: src/js/components/local/user-package.vue:150
@@ -5732,25 +5732,25 @@ msgstr ""
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:58
 #: src/js/pages/reseller/stats.vue:207
 msgid "Name Server 1"
-msgstr ""
+msgstr "Serveur de Nom 1"
 
 #: src/js/pages/admin/dns/add.vue:45
 msgid "Name Server 1:"
-msgstr ""
+msgstr "Serveur de Nom 1:"
 
 #: src/js/pages/reseller/nameservers.vue:65
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:59
 #: src/js/pages/reseller/stats.vue:208
 msgid "Name Server 2"
-msgstr ""
+msgstr "Serveur de Nom 2"
 
 #: src/js/pages/admin/dns/add.vue:61
 msgid "Name Server 2:"
-msgstr ""
+msgstr "Serveur de Nom 2:"
 
 #: src/js/pages/reseller/nameservers.vue:1
 msgid "Name Servers"
-msgstr ""
+msgstr "Serveurs de Noms"
 
 #: src/js/components/local/skins/upload-skin-dialog.vue:14
 #: src/js/pages/user/protected-directories/view.vue:30
@@ -5759,7 +5759,7 @@ msgstr ""
 
 #: src/js/pages/reseller/nameservers.vue:82
 msgid "nameserver"
-msgstr ""
+msgstr "serveur de nom"
 
 #: src/js/pages/admin/ip-manager/index.vue:19
 #: src/js/pages/reseller/ip-config.vue:12
@@ -5771,29 +5771,29 @@ msgstr ""
 #: src/js/pages/reseller/nameservers.vue:25
 #: src/js/pages/user/dashboard/_components/widgets/ip-config.vue:13
 msgid "Nameserver"
-msgstr ""
+msgstr "Serveur de Nom"
 
 #: src/js/pages/reseller/users/_components/account-info.vue:60
 #: src/js/pages/user/stats/index.vue:132 src/js/pages/user/stats/index.vue:142
 msgid "Nameserver 1"
-msgstr ""
+msgstr "Serveur de Nom 1"
 
 #: src/js/pages/reseller/_dialogs/create-nameservers-dialog.vue:18
 msgid "Nameserver 1:"
-msgstr ""
+msgstr "Serveur de Nom 1:"
 
 #: src/js/pages/reseller/users/_components/account-info.vue:69
 #: src/js/pages/user/stats/index.vue:132 src/js/pages/user/stats/index.vue:145
 msgid "Nameserver 2"
-msgstr ""
+msgstr "Serveur de Nom 2"
 
 #: src/js/pages/reseller/_dialogs/create-nameservers-dialog.vue:34
 msgid "Nameserver 2:"
-msgstr ""
+msgstr "Serveur de Nom 2:"
 
 #: src/js/modules/navigation/reseller.js:51
 msgid "Nameservers"
-msgstr ""
+msgstr "Serveurs de Noms"
 
 #: src/js/components/global/app/app-navigation-type-switch.vue:3
 msgid "Navigation"
@@ -6312,36 +6312,36 @@ msgstr "Chemin:"
 #: src/js/pages/user/email/usage/index.vue:27
 #: src/js/pages/user/email/usage/index.vue:37
 msgid "Percent"
-msgstr ""
+msgstr "Pourcent"
 
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:22
 msgid "Period"
-msgstr ""
+msgstr "Période"
 
 #: src/js/pages/user/email/_components/purge-folder-dialog.vue:18
 msgid "Period:"
-msgstr ""
+msgstr "Période:"
 
 #: src/js/pages/user/perl-modules.vue:1
 msgid "Perl Modules"
-msgstr ""
+msgstr "Modules Perl"
 
 #: src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:17
 msgid "Perm."
-msgstr ""
+msgstr "Perm."
 
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:23
 msgid "Permissions"
-msgstr ""
+msgstr "Permissions"
 
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:131
 msgid "Permissions is not valid"
-msgstr ""
+msgstr "Permission invalide"
 
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:49
 msgid "Personal DNS's"
-msgstr ""
+msgstr "DNS Personnalisés"
 
 #: src/js/pages/admin/php-safe-mode.vue:92
 #: src/js/pages/reseller/users/_components/domains.vue:36
@@ -6362,17 +6362,17 @@ msgstr ""
 
 #: src/js/modules/navigation/admin.js:86
 msgid "PHP Configuration"
-msgstr ""
+msgstr "Configuration PHP"
 
 #: src/js/pages/user/email/usage/php-scripts.vue:25
 #: src/js/pages/user/email/usage/php-scripts.vue:31
 msgid "PHP Script Name"
-msgstr ""
+msgstr "Nom du script PHP"
 
 #: src/js/pages/user/email/usage/index.vue:102
 #: src/js/pages/user/email/usage/php-scripts.vue:1
 msgid "PHP Scripts"
-msgstr ""
+msgstr "Scripts PHP"
 
 #: src/js/pages/user/domains/php.vue:1
 msgid "PHP Selector"
@@ -6463,14 +6463,14 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:164 src/js/pages/user/bandwidth.vue:204
 #: src/js/pages/user/bandwidth.vue:249
 msgid "POP"
-msgstr ""
+msgstr "POP"
 
 #: src/js/pages/admin/stats.vue:119 src/js/pages/user/stats/index.vue:42
 #: src/js/pages/reseller/stats.vue:217
 #: src/js/pages/reseller/users/_components/usage-table.vue:90
 #: src/js/pages/user/stats/index.vue:70
 msgid "POP E-mail Accounts"
-msgstr ""
+msgstr "Comptes E-mail POP / IMAP "
 
 #: src/js/pages/admin/backups/modify.vue:187
 #: src/js/pages/admin/backups/restore.vue:114
@@ -6663,7 +6663,7 @@ msgstr ""
 
 #: src/js/pages/user/stats/log.vue:66 src/js/pages/user/subdomains/logs.vue:51
 msgid "raw"
-msgstr ""
+msgstr "brute"
 
 #: src/js/pages/user/dns/security.vue:17
 msgid "Re-sign your zone"
@@ -6748,7 +6748,7 @@ msgstr ""
 
 #: src/js/pages/admin/services.vue:63
 msgid "Reload"
-msgstr ""
+msgstr "Recharger"
 
 #: src/js/pages/admin/process-monitor.vue:22
 msgid "Reload every"
@@ -8751,7 +8751,7 @@ msgstr ""
 #: src/js/pages/user/security-questions.vue:12
 #: src/js/pages/user/two-step-auth.vue:38
 msgid "This feature is not turned on."
-msgstr ""
+msgstr "Cette fonctionnalité n'est pas activée."
 
 #: src/js/pages/admin/_dialogs/root-auth-dialog.vue:18
 msgid "This file is tagged as secure. Root password required to edit"
@@ -8811,15 +8811,15 @@ msgstr "Jeudi"
 #: src/js/pages/reseller/tickets.vue:23
 #: src/js/pages/user/messages/_tables/tickets.vue:7
 msgid "Ticket #"
-msgstr ""
+msgstr "Ticket #"
 
 #: src/js/pages/reseller/tickets.vue:139
 msgid "Ticket System Enabled"
-msgstr ""
+msgstr "Système de tickets activé"
 
 #: src/js/pages/reseller/tickets.vue:124
 msgid "Ticket System Settings"
-msgstr ""
+msgstr "Paramètres du système de tickets"
 
 #: src/js/pages/user/messages/index.vue:59
 msgid "Tickets"
@@ -8830,7 +8830,7 @@ msgstr ""
 #: src/js/pages/admin/mail-queue/index.vue:30
 #: src/js/pages/user/email/usage/index.vue:60
 msgid "Time"
-msgstr ""
+msgstr "Temps"
 
 #: src/js/pages/admin/settings.vue:299
 msgid "Time before failed login count resets"
@@ -8865,7 +8865,7 @@ msgstr ""
 
 #: src/js/pages/admin/process-monitor.vue:56
 msgid "Top:"
-msgstr ""
+msgstr "Top:"
 
 #: src/js/pages/reseller/users/bandwidth.vue:71
 #: src/js/pages/user/bandwidth.vue:71
@@ -8897,7 +8897,7 @@ msgstr ""
 
 #: src/js/pages/admin/stats.vue:230
 msgid "Transmitted"
-msgstr ""
+msgstr "Transmis"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:68
 msgid "Trigger"
@@ -9218,6 +9218,8 @@ msgid ""
 "Use the automatic updater to automatically get the lastest version of "
 "DirectAdmin."
 msgstr ""
+"Utilisez les mises à jour automatiques pour obtenir automatiquement la "
+"dernière version de DirectAdmin."
 
 #: src/js/pages/admin/backups/restore.vue:131
 msgid "Use the IP"
@@ -9229,7 +9231,7 @@ msgstr "Utiliser l'adresse IP stockée dans la sauvegarde"
 
 #: src/js/pages/user/ssl/index.vue:131
 msgid "Use the server's certificate"
-msgstr ""
+msgstr "Utiliser le certificat du serveur"
 
 #: src/js/pages/user/dns/mx-records.vue:25
 msgid ""
@@ -9288,11 +9290,11 @@ msgstr "L'utilisateur existe déjà"
 
 #: src/js/components/local/suspend-user-dialog.vue:33
 msgid "User Bandwidth"
-msgstr ""
+msgstr "Transfert Utilisateur"
 
 #: src/js/pages/admin/settings.vue:439
 msgid "User can set limit per E-mail"
-msgstr ""
+msgstr "L'utilisateur peut définir une limite par e-mail"
 
 #: src/js/pages/admin/multi-server.vue:69
 #: src/js/pages/admin/multi-server.vue:287
@@ -9500,13 +9502,15 @@ msgstr ""
 #: src/js/pages/admin/license.vue:56
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:49
 msgid "Valid Until"
-msgstr ""
+msgstr "Valide jusqu'au"
 
 #: src/js/pages/user/cronjobs/index.vue:80
 msgid ""
 "Valid values are an E-mail address, your DA username: admin, or a blank "
 "field to prevent any e-mail."
 msgstr ""
+"Les valeurs valides sont une adresse électronique, votre nom d'utilisateur "
+"DA:  admin ou un champ vide pour empêcher tout courrier électronique."
 
 #: src/js/components/local/dns/add-record-dialog.vue:50
 #: src/js/components/local/dns/edit-record-dialog.vue:53
@@ -9767,6 +9771,11 @@ msgid ""
 "Reseller will only receive the single IP.\n"
 "You would need to add extra IPs to that accounts IP list after he's created."
 msgstr ""
+"Lors de la restauration d'un revendeur ou d'un administrateur, si vous "
+"sélectionnez une adresse IP dans la liste, ce revendeur ne recevra qu'une "
+"seule adresse IP.\n"
+"Vous devrez ajouter des adresses IP supplémentaires à cette liste d'adresses "
+"IP après la création du compte."
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:3
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:2
@@ -9870,6 +9879,8 @@ msgstr "Oui, configurer le sujet pour:"
 #: src/js/pages/user/dashboard/_components/add-widget-dialog.vue:12
 msgid "You are about to add the following widgets to your dashboard:"
 msgstr ""
+"Vous êtes sur le point d'ajouter les widgets suivants à votre tableau de "
+"bord:"
 
 #: src/js/components/global/app/app-breadcrumbs.vue:4
 msgid "You are here:"
@@ -9882,6 +9893,9 @@ msgid ""
 "1,5,11-15,30-59/2 (minutes 1, 5, 11 to 15 and every 2nd minute between 30 "
 "and 59)"
 msgstr ""
+"Vous pouvez les combiner pour créer un calendrier plus précis. ex: "
+"1,5,11-15,30-59/2 (minutes 1, 5, 11 à 15 et toutes les 2 minutes entre 30 et "
+"59)"
 
 #: src/js/pages/user/ssl/index.vue:81
 msgid "You can enable it here"
@@ -9893,6 +9907,8 @@ msgid ""
 "You can specifiy exact times using commas to separate them. eg: 1,2,3 "
 "(minutes 1,2 and 3)"
 msgstr ""
+"Vous pouvez spécifier des heures exactes en utilisant des virgules pour les "
+"séparer. ex: 1,2,3 (minutes 1,2 et 3)"
 
 #: src/js/pages/user/cronjobs/create.vue:119
 #: src/js/pages/user/cronjobs/index.vue:117
@@ -9900,27 +9916,35 @@ msgid ""
 "You can specify intervals using a star and a forward slash. eg: */2 (every "
 "2nd minute)"
 msgstr ""
+"Vous pouvez spécifier des intervalles en utilisant une étoile et une barre "
+"oblique. ex: */2 (toutes les 2 minutes)"
 
 #: src/js/pages/user/cronjobs/create.vue:118
 #: src/js/pages/user/cronjobs/index.vue:116
 msgid "You can specify spans using a dash. eg: 5-7 (minutes 5 to 7)"
 msgstr ""
+"Vous pouvez spécifier des portées en utilisant un tiret. ex: 5-7 (minutes 5 "
+"à 7)"
 
 #: src/js/pages/user/domains/index.vue:176
 msgid ""
 "You deleted all of your domains. You should create one for full "
 "functionality."
 msgstr ""
+"Vous avez supprimé tous vos domaines. Vous devriez en créer un pour obtenir "
+"toutes les fonctionnalités."
 
 #: src/js/components/global/App.vue:142
 msgid "You have %{ n } unread ticket"
 msgid_plural "You have %{ n } unread tickets"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Vous avez %{ n } ticket non lu"
+msgstr[1] "Vous avez %{n} tickets non lus"
 
 #: src/js/pages/user/database/index.vue:109
 msgid "You won't be able to login to phpMyAdmin until you create a database"
 msgstr ""
+"Il sera impossible d vous connecter à phpMyAdmin avant d'avoir créé une base "
+"de données"
 
 #: src/js/modules/widgets.js:24
 msgid "Your Account"
