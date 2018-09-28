@@ -748,7 +748,7 @@ msgstr ""
 
 #: src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:20
 msgid "Add to NS"
-msgstr ""
+msgstr "Ajouter au NS"
 
 #: src/js/pages/admin/brute-force-monitor/_components/skip-ips-dialog.vue:3
 #: src/js/pages/admin/brute-force-monitor/_components/skip-users-dialog.vue:3
@@ -827,7 +827,7 @@ msgstr "Sauvegardes Administrateur"
 
 #: src/js/pages/admin/history.vue:1
 msgid "Admin History"
-msgstr ""
+msgstr "Historique Admin"
 
 #: src/js/pages/user/email/lists/modify.vue:15
 msgid "Admin Password"
@@ -936,7 +936,7 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:39
 #: src/js/pages/reseller/backups/index.vue:56
 msgid "All Users Except:"
-msgstr ""
+msgstr "Tous les utilisateurs sauf:"
 
 #: src/js/pages/admin/stats.vue:26
 #: src/js/pages/admin/users/resellers/_components/usage-table.vue:2
@@ -1658,7 +1658,7 @@ msgstr ""
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:54
 #: src/js/pages/reseller/stats.vue:200
 msgid "Can use Server IP"
-msgstr ""
+msgstr "Peut utiliser l'adresse IP du serveur"
 
 #: src/js/components/global/app/app-search.vue:69
 msgid "Cancel"
@@ -1795,7 +1795,7 @@ msgstr ""
 
 #: src/js/pages/user/password.vue:1
 msgid "Change your Password"
-msgstr ""
+msgstr "Modifier votre mot de passe"
 
 #: src/js/pages/admin/history.vue:19 src/js/pages/reseller/history.vue:21
 #: src/js/pages/reseller/users/bandwidth.vue:30
@@ -3184,7 +3184,7 @@ msgstr[1] "Enregistrements DNS"
 
 #: src/js/pages/user/dns/security.vue:1
 msgid "DNS Security"
-msgstr ""
+msgstr "Sécurité DNS"
 
 #: src/js/pages/admin/dns/edit.vue:47 src/js/pages/user/dns/index.vue:43
 msgid "DNSSEC"
@@ -3526,7 +3526,7 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:102
 #: src/js/pages/admin/settings.vue:25
 msgid "E-mail Settings"
-msgstr ""
+msgstr "Configuration E-Mail"
 
 #: src/js/pages/user/backup/index.vue:51
 #: src/js/pages/user/backup/restore.vue:53
@@ -3550,7 +3550,7 @@ msgstr ""
 #: src/js/pages/reseller/users/bandwidth.vue:250
 #: src/js/pages/user/bandwidth.vue:196 src/js/pages/user/bandwidth.vue:247
 msgid "E-mails"
-msgstr ""
+msgstr "E-mails"
 
 #: src/js/pages/reseller/users/bandwidth.vue:159
 #: src/js/pages/user/bandwidth.vue:156
@@ -3925,7 +3925,7 @@ msgstr ""
 #: src/js/modules/navigation/reseller.js:92
 #: src/js/modules/navigation/user.js:162
 msgid "File Manager"
-msgstr ""
+msgstr "Gestionnaire de Fichiers"
 
 #: src/js/components/local/filemanager/dialogs/compress-clipboard-files-dialog.vue:14
 msgid "File Name"
@@ -4081,7 +4081,7 @@ msgstr ""
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:33
 msgid "Free Memory"
-msgstr ""
+msgstr "Mémoire Libre"
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:42
 msgid "Free Swap Memory"
@@ -5812,7 +5812,7 @@ msgstr ""
 
 #: src/js/pages/reseller/customize-skin/_components/colors-editor.vue:31
 msgid "Neutral"
-msgstr ""
+msgstr "Neutre"
 
 #: src/js/pages/admin/settings.vue:237
 #: src/js/pages/user/login-keys/create.vue:41
@@ -7625,7 +7625,7 @@ msgstr "Envoyé"
 #: src/js/pages/reseller/users/_components/usage-table.vue:106
 #: src/js/pages/user/stats/index.vue:82
 msgid "Sent E-mails"
-msgstr ""
+msgstr "E-mails envoyés"
 
 #: src/js/pages/user/login-keys/create.vue:256
 #: src/js/pages/user/login-keys/modify.vue:233
@@ -7656,7 +7656,7 @@ msgstr ""
 
 #: src/js/modules/navigation/user.js:172
 msgid "Server Information"
-msgstr ""
+msgstr "Information Serveur"
 
 #: src/js/modules/navigation/admin.js:54
 #: src/js/modules/navigation/reseller.js:39
@@ -7673,7 +7673,7 @@ msgstr ""
 
 #: src/js/pages/admin/stats.vue:1
 msgid "Server Statistics"
-msgstr ""
+msgstr "Statistiques Serveur"
 
 #: src/js/pages/admin/license.vue:130
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:121
@@ -8208,12 +8208,12 @@ msgstr ""
 
 #: src/js/pages/user/ssl/index.vue:1 src/js/modules/navigation/user.js:28
 msgid "SSL Certificates"
-msgstr ""
+msgstr "Certificats SSL"
 
 #: src/js/pages/admin/multi-server.vue:23
 #: src/js/pages/admin/multi-server.vue:40
 msgid "SSL Connection"
-msgstr ""
+msgstr "Connexion SSL"
 
 #: src/js/pages/user/ssl/index.vue:78
 msgid "SSL is currently disabled for this domain"
@@ -8424,7 +8424,7 @@ msgstr ""
 
 #: src/js/pages/user/subdomains/index.vue:85
 msgid "SubDomain:"
-msgstr ""
+msgstr "Sous-Domaine:"
 
 #: src/js/components/local/stats/webalizer-table.vue:4
 #: src/js/pages/reseller/users/_components/domains.vue:2
@@ -8433,7 +8433,7 @@ msgstr ""
 #: src/js/pages/reseller/users/_components/domains.vue:22
 #: src/js/pages/user/domains/index.vue:37
 msgid "Subdomains"
-msgstr ""
+msgstr "Sous-Domaines"
 
 #: src/js/pages/user/backup/index.vue:29
 #: src/js/pages/user/backup/restore.vue:31
@@ -8594,7 +8594,7 @@ msgstr ""
 #: src/js/pages/admin/system-backup.vue:1
 #: src/js/modules/navigation/admin.js:124
 msgid "System Backup"
-msgstr ""
+msgstr "Sauvegarde Système"
 
 #: src/js/pages/user/stats/index.vue:132
 #: src/js/pages/user/system-info/_tables/general-info-table.vue:3
@@ -8608,7 +8608,7 @@ msgstr ""
 #: src/js/pages/reseller/users/_components/account-info.vue:236
 #: src/js/pages/user/stats/index.vue:172
 msgid "System Info"
-msgstr ""
+msgstr "Info Système"
 
 #: src/js/modules/navigation/admin.js:130
 #: src/js/modules/navigation/reseller.js:85
@@ -9133,7 +9133,7 @@ msgstr ""
 
 #: src/js/pages/reseller/customize-skin/_components/category-editor.vue:22
 msgid "URL to image in JPG/PNG/SVG format"
-msgstr ""
+msgstr "URL de l'image au format JPG/PNG/SVG"
 
 #: src/js/pages/admin/stats.vue:232
 #: src/js/pages/admin/users/resellers/_components/usage-table.vue:2
