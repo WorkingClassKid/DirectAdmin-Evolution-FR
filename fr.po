@@ -1695,7 +1695,7 @@ msgstr ""
 
 #: src/js/pages/user/ssl/_components/common-data-editor.vue:53
 msgid "Certificate Type"
-msgstr ""
+msgstr "Type de Certificat"
 
 #: src/js/pages/reseller/users/_components/domains.vue:39
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:44
@@ -2002,7 +2002,7 @@ msgstr "Commentaires"
 
 #: src/js/pages/user/ssl/_components/common-data-editor.vue:7
 msgid "Common Name"
-msgstr ""
+msgstr "Nom Commun"
 
 #: src/js/pages/user/ssl/_components/certificate-request.vue:46
 msgid "Company"
@@ -2168,7 +2168,7 @@ msgstr "Créer"
 
 #: src/js/pages/user/ssl/index.vue:138
 msgid "Create A Certificate Request"
-msgstr ""
+msgstr "Créer une demande de certificat"
 
 #: src/js/pages/user/two-step-auth.vue:39
 msgid "Create a new secret to begin."
@@ -2344,7 +2344,7 @@ msgstr ""
 
 #: src/js/pages/user/ssl/index.vue:135
 msgid "Create your own self signed certificate"
-msgstr ""
+msgstr "Créez votre propre certificat auto-signé"
 
 #: src/js/pages/admin/dns/add.vue:1
 msgid "Create Zone"
@@ -4077,7 +4077,7 @@ msgstr "Libre"
 
 #: src/js/pages/user/ssl/index.vue:141
 msgid "Free & automatic certificate from Let's Encrypt"
-msgstr ""
+msgstr "Certificat gratuit et automatique de Let's Encrypt"
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:33
 msgid "Free Memory"
@@ -4797,7 +4797,7 @@ msgstr ""
 
 #: src/js/pages/user/ssl/_components/common-data-editor.vue:43
 msgid "Key Size (bits)"
-msgstr ""
+msgstr "Taille de la clé (bits)"
 
 #: src/js/pages/user/login-keys/create.vue:25
 #: src/js/pages/user/login-keys/modify.vue:12
@@ -6294,7 +6294,7 @@ msgstr "Mot de Passe:"
 
 #: src/js/pages/user/ssl/index.vue:144
 msgid "Paste a pre-generated certificate and key"
-msgstr ""
+msgstr "Coller un certificat et une clé pré-générés"
 
 #: src/js/components/local/filemanager/dialogs/compress-clipboard-files-dialog.vue:6
 #: src/js/pages/admin/backups/modify.vue:144
@@ -7505,7 +7505,7 @@ msgstr ""
 
 #: src/js/pages/user/ssl/_components/lets-encrypt-tab.vue:11
 msgid "Selected entries count: %{n}"
-msgstr ""
+msgstr "Nombre d'entrées sélectionnées:"
 
 #: src/js/pages/reseller/skins.vue:68
 msgid "selected skin"
