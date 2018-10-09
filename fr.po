@@ -1238,14 +1238,14 @@ msgstr ""
 #: src/js/pages/admin/ip-manager/_dialogs/assign-ip-dialog.vue:3
 msgid "Assign IP"
 msgid_plural "Assign IPs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Assigner l'IP"
+msgstr[1] "Assigner les IPs"
 
 #: src/js/pages/admin/ip-manager/_dialogs/assign-ip-dialog.vue:14
 msgid "Assign IP to:"
 msgid_plural "Assign IPs to:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Assigner l'IP à:"
+msgstr[1] "Assigner les IPs à:"
 
 #: src/js/pages/admin/users/resellers/create.vue:99
 #: src/js/pages/admin/users/resellers/create.vue:102
@@ -1255,12 +1255,12 @@ msgstr ""
 #: src/js/pages/user/domains/ips.vue:20 src/js/pages/user/domains/ips.vue:26
 msgid "Assigned IP"
 msgid_plural "Assigned IPs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "IP Assignée"
+msgstr[1] "IPs Assignées"
 
 #: src/js/pages/user/domains/edit.vue:99
 msgid "Assigned IPs"
-msgstr ""
+msgstr "IPs assigné"
 
 #: src/js/pages/user/email/spamassassin.vue:146
 msgid ""
@@ -2190,11 +2190,11 @@ msgstr "Pays"
 
 #: src/js/pages/admin/process-monitor.vue:73
 msgid "CPU(s):"
-msgstr ""
+msgstr "CPU(s):"
 
 #: src/js/pages/user/system-info/_tables/general-info-table.vue:22
 msgid "CPUs Count"
-msgstr ""
+msgstr "Nombre de CPUs"
 
 #: src/js/pages/user/system-info/_tables/cpu-info-table.vue:3
 msgid "CPUs Information"
@@ -2424,7 +2424,7 @@ msgstr "Créateur"
 
 #: src/js/pages/reseller/stats.vue:308
 msgid "Cron"
-msgstr ""
+msgstr "Cron"
 
 #: src/js/pages/user/cronjobs/index.vue:69
 msgid "Cron job"
@@ -2451,7 +2451,7 @@ msgstr ""
 #: src/js/pages/admin/backups/schedule.vue:147
 #: src/js/pages/reseller/backups/schedule.vue:108
 msgid "Cron Settings"
-msgstr ""
+msgstr "Configurations Cron"
 
 #: src/js/pages/reseller/_dialogs/view-ticket.vue:29
 msgid "Ctrl+Enter to post reply"
@@ -2624,7 +2624,7 @@ msgstr "Base de Données"
 #: src/js/pages/user/database/index.vue:40
 #: src/js/pages/user/database/index.vue:82
 msgid "Database Count"
-msgstr ""
+msgstr "Nombre de bases de données"
 
 #: src/js/pages/admin/backups/modify.vue:321
 #: src/js/pages/admin/backups/schedule.vue:399
@@ -2982,7 +2982,7 @@ msgstr ""
 #: src/js/pages/user/email/lists/modify.vue:47
 #: src/js/pages/user/two-step-auth.vue:137
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: src/js/components/local/r-table/r-table-actions.vue:4
 #: src/js/components/global/ui/ui-table-actions.vue:47
@@ -2999,8 +2999,8 @@ msgstr ""
 #: src/js/pages/user/email/_components/modify-forwarder-dialog.vue:18
 msgid "Destination E-mail:"
 msgid_plural "Destination E-mails:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Adresse du destinataire:"
+msgstr[1] "Adresses des destinataires:"
 
 #: src/js/pages/user/redirects.vue:105
 msgid "Destination URL"
@@ -3562,7 +3562,7 @@ msgstr ""
 
 #: src/js/pages/user/email/filters.vue:1
 msgid "E-mail Filters"
-msgstr ""
+msgstr "Filtres E-mail"
 
 #: src/js/pages/admin/stats.vue:129 src/js/pages/user/stats/index.vue:44
 #: src/js/components/local/user-package.vue:201
@@ -3704,7 +3704,7 @@ msgstr ""
 #: src/js/components/local/filemanager/files-table.vue:296
 #: src/js/pages/user/filemanager/edit.vue:1
 msgid "Edit File"
-msgstr ""
+msgstr "Modifier Fichier"
 
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:80
 msgid "Edit Link"
