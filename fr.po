@@ -1364,7 +1364,7 @@ msgstr "Votre limite d'auto-répondeurs est atteint"
 #: src/js/pages/user/backup/index.vue:65
 #: src/js/pages/user/backup/restore.vue:67
 msgid "Autoresponders: Includes all autoresponders and messages."
-msgstr "Auto-répondeur: Inclue tous les auto-répondeurs et messages"
+msgstr "Auto-répondeur: Inclue tous les auto-répondeurs et messages."
 
 #: src/js/pages/admin/stats.vue:232 src/js/pages/admin/stats.vue:240
 msgid "Available"
@@ -1749,7 +1749,7 @@ msgstr "Modifier le forfait de l'utilisateur %{user}"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-pass-dialog.vue:3
 msgid "Change password"
-msgstr "Modifier le Mot de Passe"
+msgstr "Modifier le mot de passe"
 
 #: src/js/pages/user/database/view.vue:32
 #: src/js/pages/user/email/accounts/_dialogs/change-password-dialog.vue:3
@@ -1757,12 +1757,12 @@ msgstr "Modifier le Mot de Passe"
 #: src/js/pages/user/ftp-accounts/_dialogs/change-password-dialog.vue:3
 #: src/js/pages/user/ftp-accounts/index.vue:100
 msgid "Change Password"
-msgstr "Modifier le Mot de Passe"
+msgstr "Modifier le mot de passe"
 
 #: src/js/pages/user/email/_components/modify-account-dialog.vue:3
 #: src/js/pages/user/email/accounts/index.vue:145
 msgid "Change Password/Username"
-msgstr "Modifier le Mot de Passe / Nom d'Utilisateur"
+msgstr "Modifier le mot de passe / Nom d'utilisateur"
 
 #: src/js/pages/reseller/passwords.vue:1 src/js/modules/navigation/admin.js:23
 #: src/js/modules/navigation/reseller.js:28
@@ -2020,7 +2020,7 @@ msgstr ""
 #: src/js/pages/admin/license.vue:114
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:105
 msgid "Compiled on"
-msgstr ""
+msgstr "Compilé le"
 
 #: src/js/modules/navigation/admin.js:162
 msgid "Complete Usage Statistics"
@@ -2057,7 +2057,7 @@ msgstr ""
 #: src/js/components/global/ui/ui-dialog-confirm.vue:13
 #: src/js/pages/admin/dns/_components/reset-zone-defaults-dialog.vue:6
 msgid "Confirm"
-msgstr ""
+msgstr "Confirmer"
 
 #: src/js/components/global/ui/ui-dialog-confirm.vue:3
 msgid "Confirmation"
@@ -2476,7 +2476,7 @@ msgstr "Pages d'erreur personnalisées"
 #: src/js/pages/admin/custom-httpd/index.vue:1
 #: src/js/modules/navigation/admin.js:66
 msgid "Custom HTTPD Configurations"
-msgstr ""
+msgstr "Configurations HTTPD Personnalisées"
 
 #: src/js/pages/admin/backups/modify.vue:206
 #: src/js/pages/admin/backups/schedule.vue:267
@@ -2580,7 +2580,7 @@ msgstr ""
 
 #: src/js/pages/user/database/index.vue:27
 msgid "Database limit reached"
-msgstr ""
+msgstr "Limite de bases de données atteint"
 
 #: src/js/pages/user/database/create.vue:18
 msgid "Database Name:"
@@ -2755,6 +2755,11 @@ msgstr "Décembre"
 msgid "Default"
 msgstr "Défaut"
 
+#: src/js/pages/user/domains/index.vue:31
+#: src/js/pages/user/domains/index.vue:34
+msgid "Default Domain"
+msgstr "Domaine par défaut"
+
 #: src/js/pages/reseller/customize-skin/_components/change-default-menu-type-dialog.vue:3
 msgid "Default menu type"
 msgstr ""
@@ -2893,13 +2898,17 @@ msgstr "Effacer l'Utilisateur"
 msgid "Delete web data"
 msgstr ""
 
-#: src/js/pages/admin/users/index.vue:91
+#: src/js/pages/admin/users/index.vue:93
 msgid "Deleted"
 msgstr "Effacé"
 
-#: src/js/pages/admin/system-backup.vue:130
+#: src/js/pages/admin/system-backup.vue:145
 msgid "Deletes local file before creating the next one"
 msgstr ""
+
+#: src/js/components/local/r-table/r-table-buttons-before.vue:19
+msgid "Density:"
+msgstr "Densité"
 
 #: src/js/pages/user/login-keys/create.vue:120
 #: src/js/pages/user/login-keys/index.vue:21
@@ -3027,7 +3036,7 @@ msgstr ""
 
 #: src/js/components/global/app/app-footer.vue:27
 msgid "DirectAdmin Web Control Panel © %{ year } JBMC Software"
-msgstr ""
+msgstr "DirectAdmin Web Control Panel © %{ year } JBMC Software"
 
 #: src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:177
@@ -3418,7 +3427,7 @@ msgstr "Dupliquer"
 #: src/js/pages/user/stats/index.vue:132 src/js/pages/user/stats/index.vue:232
 #: src/js/pages/user/email/filters.vue:68 src/js/pages/user/stats/index.vue:136
 msgid "E-mail"
-msgstr ""
+msgstr "E-mail"
 
 #: src/js/pages/reseller/tickets.vue:145
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:15
@@ -3446,7 +3455,7 @@ msgstr "Comptes E-mail"
 
 #: src/js/pages/user/email/accounts/index.vue:22
 msgid "E-mail accounts limit reached"
-msgstr ""
+msgstr "Limite de compte e-mail atteint"
 
 #: src/js/pages/user/backup/index.vue:37
 #: src/js/pages/user/backup/restore.vue:39
@@ -3456,7 +3465,7 @@ msgstr ""
 
 #: src/js/pages/user/email/lists/view.vue:83
 msgid "E-mail Address:"
-msgstr ""
+msgstr "Adresse E-mail:"
 
 #: src/js/pages/user/email/spamassassin.vue:134
 msgid "E-mail Blacklist"
@@ -3475,7 +3484,7 @@ msgid ""
 "E-mail Data: Includes the messages from the Inbox, IMAP Folders, and webmail "
 "data."
 msgstr ""
-"Données E-mail: Inclue les messages des boites aux lettres, Dossiers IMAP et "
+"Données E-mail: Inclue les messages des boites aux lettres, dossiers IMAP et "
 "données du Webmail"
 
 #: src/js/pages/reseller/stats.vue:57 src/js/pages/user/stats/index.vue:42
@@ -3540,7 +3549,7 @@ msgstr "Configuration E-Mail"
 msgid "E-mail Settings: Includes the filters and the catchall address."
 msgstr ""
 "Configuration E-mail: Inclue les filtres et les adresses de collectes "
-"(catchall) "
+"(catchall)."
 
 #: src/js/pages/user/email/accounts/index.vue:167
 #: src/js/pages/user/email/usage/index.vue:1
@@ -3581,7 +3590,7 @@ msgstr "Modifier"
 
 #: src/js/pages/user/stats/index.vue:17 src/js/pages/user/stats/index.vue:209
 msgid "Edit Account Configuration"
-msgstr ""
+msgstr "Modifier la configuration du compte"
 
 #: src/js/pages/admin/users/create-admin.vue:16
 msgid "Edit Admin Message"
@@ -3696,7 +3705,7 @@ msgstr ""
 #: src/js/pages/admin/php-safe-mode.vue:41
 #: src/js/pages/admin/php-safe-mode.vue:53
 msgid "Enable Open Basedir"
-msgstr ""
+msgstr "Activer Open Basedir"
 
 #: src/js/pages/admin/settings.vue:78
 msgid ""
@@ -3750,7 +3759,7 @@ msgstr "La date de fin doit être supérieur à la date de début"
 
 #: src/js/pages/user/password.vue:32
 msgid "Enter new password:"
-msgstr "Entrer un nouveau mot de passe"
+msgstr "Entrer un nouveau mot de passe:"
 
 #: src/js/pages/admin/users/create-admin.vue:49
 #: src/js/pages/admin/users/resellers/create.vue:61
@@ -3776,7 +3785,7 @@ msgstr "Erreur"
 
 #: src/js/pages/404.vue:1
 msgid "Error 404: File Not Found"
-msgstr ""
+msgstr "Erreur 404: Fichier Introuvable"
 
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:177
 msgid "Error getting backup details"
@@ -3927,7 +3936,7 @@ msgstr "Fichier"
 
 #: src/js/pages/admin/file-editor.vue:1 src/js/modules/navigation/admin.js:147
 msgid "File Editor"
-msgstr ""
+msgstr "Éditeur de fichier"
 
 #: src/js/pages/user/filemanager/index.vue:1
 #: src/js/modules/navigation/admin.js:142
@@ -4019,7 +4028,7 @@ msgstr ""
 
 #: src/js/pages/user/domains/php.vue:19
 msgid "First PHP"
-msgstr ""
+msgstr "PHP principal"
 
 #: src/js/pages/admin/ip-manager/_dialogs/unlink-ip-dialog.vue:19
 msgid "Flush from DNS"
@@ -4279,7 +4288,7 @@ msgstr[1] "gestionnaires"
 #: src/js/pages/user/domains/php.vue:11 src/js/pages/user/handlers/index.vue:18
 #: src/js/pages/user/domains/php.vue:14 src/js/pages/user/handlers/index.vue:23
 msgid "Handler"
-msgstr ""
+msgstr "Entête"
 
 #: src/js/pages/user/handlers/index.vue:73
 msgid "Handler for such extension already exists"
@@ -5241,7 +5250,7 @@ msgstr ""
 #: src/js/pages/user/backup/index.vue:79
 #: src/js/pages/user/backup/restore.vue:81
 msgid "Mailing Lists: Includes the list, digest-list and archives."
-msgstr "Listes de diffusions: Inclue toutes les listes et archives"
+msgstr "Listes de diffusions: Inclue toutes les listes et archives."
 
 #: src/js/pages/user/password.vue:51
 msgid "Main Database Account"
@@ -5688,7 +5697,7 @@ msgstr ""
 
 #: src/js/pages/admin/multi-server.vue:1 src/js/modules/navigation/admin.js:81
 msgid "Multi Server Setup"
-msgstr ""
+msgstr "Configuration Multi-Serveur"
 
 #: src/js/pages/user/email/lists/modify.vue:165
 msgid "Mungedomain"
@@ -6392,7 +6401,7 @@ msgstr "Scripts PHP"
 
 #: src/js/pages/user/domains/php.vue:1
 msgid "PHP Selector"
-msgstr ""
+msgstr "Sélection PHP"
 
 #: src/js/pages/admin/php-safe-mode.vue:1
 msgid "PHP Settings"
@@ -6401,7 +6410,7 @@ msgstr "Configurations PHP"
 #: src/js/pages/user/domains/edit.vue:84 src/js/pages/user/domains/php.vue:11
 #: src/js/pages/user/domains/php.vue:13
 msgid "PHP Version Selector"
-msgstr ""
+msgstr "Sélection de la version PHP"
 
 #: src/js/pages/admin/custom-httpd/php-fpm.vue:11
 msgid "PHP-FPM config customization for %{ user } php-fpm %{ version }"
@@ -6557,12 +6566,12 @@ msgstr "Priorité:"
 
 #: src/js/pages/user/domains/edit.vue:149
 msgid "private_html option has been updated"
-msgstr ""
+msgstr "Les options private_html ont été modifiées"
 
 #: src/js/pages/user/domains/_components/private-html-dialog.vue:3
 #: src/js/pages/user/domains/edit.vue:64
 msgid "private_html setup"
-msgstr ""
+msgstr "Configuration private_html"
 
 #: src/js/pages/user/database/view.vue:13
 #: src/js/pages/user/database/view.vue:18
@@ -6931,7 +6940,7 @@ msgstr ""
 msgid "Require valid Two-Step Authentication Code to login to this account."
 msgstr ""
 "Un code d'autentification à deux facteur est requis pour se connecter à ce "
-"compte"
+"compte."
 
 #: src/js/components/global/ui/ui-form-element.vue:145
 msgid "Required field"
@@ -7083,12 +7092,12 @@ msgstr ""
 
 #: src/js/pages/admin/services.vue:60
 msgid "Restart"
-msgstr ""
+msgstr "Redémarrer"
 
 #: src/js/pages/admin/license.vue:176
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:167
 msgid "Restart DirectAdmin"
-msgstr ""
+msgstr "Redémarrer DirectAdmin"
 
 #: src/js/pages/admin/backups/index.vue:20
 #: src/js/pages/admin/backups/restore.vue:238
@@ -7321,7 +7330,7 @@ msgstr "Config. Recherche"
 
 #: src/js/pages/user/domains/php.vue:28
 msgid "Second PHP"
-msgstr ""
+msgstr "PHP secondaire"
 
 #: src/js/pages/admin/process-monitor.vue:32
 msgid "seconds"
@@ -8241,7 +8250,7 @@ msgstr "Démarrer"
 
 #: src/js/components/local/auth-dialog.vue:10
 msgid "Start DirectAdmin"
-msgstr ""
+msgstr "Démarrer DirectAdmin"
 
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:2
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:16
@@ -8257,7 +8266,7 @@ msgstr "Date de début"
 #: src/js/pages/admin/custom-httpd/index.vue:24
 #: src/js/pages/admin/dns/index.vue:28 src/js/pages/admin/php-safe-mode.vue:19
 msgid "Starts With"
-msgstr ""
+msgstr "Débute par"
 
 #: src/js/pages/user/ssl/_components/certificate-request.vue:22
 msgid "State/Province"
@@ -8364,7 +8373,7 @@ msgstr ""
 
 #: src/js/pages/admin/services.vue:57
 msgid "Stop"
-msgstr ""
+msgstr "Arrêter"
 
 #: src/js/pages/user/email/filters.vue:46
 #: src/js/pages/user/email/filters.vue:64
@@ -8845,7 +8854,7 @@ msgstr "Paramètres du système de tickets"
 
 #: src/js/pages/user/messages/index.vue:59
 msgid "Tickets"
-msgstr ""
+msgstr "Tickets"
 
 #: src/js/pages/admin/mail-queue/index.vue:23
 #: src/js/pages/user/email/usage/index.vue:54
@@ -8933,7 +8942,7 @@ msgstr ""
 #: src/js/components/local/dns/edit-record-dialog.vue:41
 #: src/js/components/local/dns/records-table.vue:19
 msgid "TTL"
-msgstr ""
+msgstr "TTL"
 
 #: src/js/pages/admin/dns/_components/override-ttl-dialog.vue:9
 #: src/js/pages/user/dns/_dialogs/override-ttl-dialog.vue:9
@@ -8983,7 +8992,7 @@ msgstr "Tapez votre réponse ici ..."
 #: src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:23
 msgid "UID/GID"
-msgstr ""
+msgstr "UID/GID"
 
 #: src/js/pages/admin/plugin-manager.vue:78
 msgid "Un-Install"
@@ -9197,13 +9206,15 @@ msgstr ""
 
 #: src/js/pages/user/domains/_components/private-html-dialog.vue:15
 msgid "Use a directory named private_html"
-msgstr ""
+msgstr "Utiliser un répertoire nommé private_html"
 
 #: src/js/pages/user/domains/_components/private-html-dialog.vue:26
 msgid ""
 "Use a symbolink link from private_html to public_html - allows for same data "
 "in http and https"
 msgstr ""
+"Utiliser un lien de private_html vers public_html - permet d'avoir les mêmes "
+"données en http et https"
 
 #: src/js/pages/user/email/spamassassin.vue:125
 msgid "Use attachments."
