@@ -13,16 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: src/js/pages/user/ftp-accounts/create.vue:199
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "                        <table class=\"table-elem\">\n"
-#| "                            <tr><td>Login:</td><td>%{ login }</td></tr>\n"
-#| "                            <tr><td>Password:</td><td>%{ passwd }</td></"
-#| "tr>\n"
-#| "                            <tr><td>Path:</td><td>%{ path }</td></tr>\n"
-#| "                        </table>\n"
-#| "                    "
 msgid ""
 "\n"
 "                    <table class=\"table-elem\">\n"
@@ -40,6 +30,7 @@ msgstr ""
 "tr>\n"
 "                            <tr><td>Chemin:</td><td>%{ path }</td></tr>\n"
 "                        </table>\n"
+"\n"
 "                    "
 
 #: src/js/pages/reseller/backups/restore.vue:19
@@ -102,16 +93,10 @@ msgid "{{bandwidth.limit | humanReadableSize}}"
 msgstr "{{bandwidth.limit | humanReadableSize}}"
 
 #: src/js/pages/user/domains/add.vue:110 src/js/pages/user/domains/edit.vue:73
-#, fuzzy
-#| msgid "{{label}}"
 msgid "{{item.label}}"
-msgstr "{{label}}"
+msgstr "{{item.label}}"
 
 #: src/js/pages/user/dns/mx-records.vue:33
-#, fuzzy
-#| msgid ""
-#| "* Note: Making modifications to the MX records can petentially disable "
-#| "all of your email accounts from receiving mail."
 msgid ""
 "* Note: Making modifications to the MX records can potentially disable all "
 "of your email accounts from receiving mail."
@@ -120,10 +105,8 @@ msgstr ""
 "potentiellement désactiver la réception des e-mails pour ce domaine."
 
 #: src/js/pages/reseller/users/_components/change-sent-emails-daily-limit-dialog.vue:11
-#, fuzzy
-#| msgid "1 Day"
 msgid "/ Day"
-msgstr "1 Jour"
+msgstr "/ Jour"
 
 #: src/js/pages/admin/backups/modify.vue:70
 #: src/js/pages/admin/backups/schedule.vue:84
@@ -254,19 +237,6 @@ msgid "%{name}-digest"
 msgstr "%{name}-digest"
 
 #: src/js/pages/user/password.vue:43
-#, fuzzy
-#| msgid ""
-#| "<div slot=\"content\" v-gutter=\"1\">\n"
-#| "<input-check v-model=\"system\">\n"
-#| "<translate>DirectAdmin Account</translate>\n"
-#| "</input-check>\n"
-#| "<input-check v-model=\"ftp\">\n"
-#| "<translate>Main FTP Account</translate>\n"
-#| "</input-check>\n"
-#| "<input-check v-model=\"database\">\n"
-#| "<translate>Main Database Account</translate>\n"
-#| "</input-check>\n"
-#| "</div>"
 msgid ""
 "<div slot=\"content\" v-gutter=\"1\" v-flex=\"{\n"
 "dir: $_Client.isPhone ? 'column' : 'row',\n"
@@ -657,8 +627,6 @@ msgid "Add IP Address"
 msgstr "Ajouter une adresse IP"
 
 #: src/js/pages/user/mimetypes/index.vue:16
-#, fuzzy
-#| msgid "Add MimeType"
 msgid "Add Mime Type"
 msgstr "Ajouter un type MIME"
 
@@ -685,8 +653,6 @@ msgid "Add New IP"
 msgstr "Ajouter une nouvelle adresse IP"
 
 #: src/js/pages/user/mimetypes/index.vue:48
-#, fuzzy
-#| msgid "Add New MimeType"
 msgid "Add New Mime Type"
 msgstr "Ajouter une nouveau type MIME"
 
@@ -704,8 +670,6 @@ msgid "Add New Server"
 msgstr "Ajouter Un Serveur"
 
 #: src/js/pages/user/subdomains/index.vue:76
-#, fuzzy
-#| msgid "Add New SubDomain"
 msgid "Add New Subdomain"
 msgstr "Ajouter un nouveau sous-domaine"
 
@@ -748,10 +712,8 @@ msgid "Add Scratch Codes"
 msgstr ""
 
 #: src/js/components/local/ui-api-table/filters-editor.vue:75
-#, fuzzy
-#| msgid "Add New Apache Handler"
 msgid "Add Search Filter"
-msgstr "Ajouter un nouveau gestionnaire Apache"
+msgstr "Ajouter un filtre de recherche"
 
 #: src/js/pages/user/_components/add-security-question-dialog.vue:3
 msgid "Add Security Question"
@@ -1359,10 +1321,8 @@ msgid "Auto"
 msgstr "Auto"
 
 #: src/js/pages/user/email/lists/modify.vue:407
-#, fuzzy
-#| msgid "Confirm"
 msgid "Auto + Confirm"
-msgstr "Confirmer"
+msgstr "Auto + Confirmer"
 
 #: src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:36
 msgid "Auto-Responders"
@@ -1411,8 +1371,6 @@ msgid "Autoresponders"
 msgstr "Auto-répondeurs"
 
 #: src/js/pages/user/email/autoresponders/index.vue:22
-#, fuzzy
-#| msgid "AutoResponders limit reached"
 msgid "Autoresponders limit reached"
 msgstr "Votre limite d'auto-répondeurs est atteint"
 
@@ -1446,8 +1404,6 @@ msgstr ""
 #: src/js/pages/user/stats/index.vue:250
 #: src/js/pages/user/subdomains/stats.vue:11
 #: src/js/pages/user/subdomains/stats.vue:14
-#, fuzzy
-#| msgid "Awstats"
 msgid "AWstats"
 msgstr "Awstats"
 
@@ -1743,26 +1699,20 @@ msgid "CC Address"
 msgstr ""
 
 #: src/js/pages/user/ssl/_components/paste-cert-tab.vue:26
-#, fuzzy
-#| msgid "Certificate Type"
 msgid "Certificate"
-msgstr "Type de Certificat"
+msgstr "Certificat"
 
 #: src/js/pages/user/ssl/ca-cert.vue:1
 msgid "Certificate Authority SSL Certificate"
 msgstr ""
 
 #: src/js/pages/user/ssl/_components/paste-cert-tab.vue:55
-#, fuzzy
-#| msgid "Certificate Type"
 msgid "Certificate Expiry"
-msgstr "Type de Certificat"
+msgstr "Expiration du certificat"
 
 #: src/js/pages/user/ssl/_components/paste-cert-tab.vue:49
-#, fuzzy
-#| msgid "Certificate Type"
 msgid "Certificate Hosts"
-msgstr "Type de Certificat"
+msgstr " Hosts du certificat"
 
 #: src/js/pages/user/ssl/_components/certificate-request-dialog.vue:8
 msgid "Certificate Request"
@@ -1824,8 +1774,6 @@ msgid "Change Limit/Quota"
 msgstr "Modifier les Limites / Quotas"
 
 #: src/js/pages/user/email/accounts/index.vue:173
-#, fuzzy
-#| msgid "Change Limit/Quota"
 msgid "Change Limits"
 msgstr "Modifier les Limites / Quotas"
 
@@ -2035,10 +1983,8 @@ msgid "Closed"
 msgstr "Fermé"
 
 #: src/js/pages/user/email/lists/modify.vue:406
-#, fuzzy
-#| msgid "Confirm"
 msgid "Closed + Confirm"
-msgstr "Confirmer"
+msgstr "Fermer + Confirmer"
 
 #: src/js/components/local/filemanager/tree-view-item.vue:12
 msgid "Collapse"
@@ -2051,8 +1997,6 @@ msgstr "Couleurs"
 
 #: src/js/components/local/ui-api-table/filters-editor.vue:4
 #: src/js/components/local/ui-api-table/filters-editor.vue:10
-#, fuzzy
-#| msgid "Columns"
 msgid "Column"
 msgstr "Colonnes"
 
@@ -2155,20 +2099,16 @@ msgid "Confirm"
 msgstr "Confirmer"
 
 #: src/js/pages/user/filemanager/_dialogs/file-exists-dialog.vue:8
-#, fuzzy
-#| msgid "Conf. Files"
 msgid "Confirm File Save"
-msgstr "Conf. Fichiers"
+msgstr "Confirmer la sauvegarde du fichier"
 
 #: src/js/components/global/ui/ui-dialog-confirm.vue:3
 msgid "Confirmation"
 msgstr "Confirmation"
 
 #: src/js/components/global/app/app-network-error.vue:20
-#, fuzzy
-#| msgid "SSL Connection"
 msgid "Connect"
-msgstr "Connexion SSL"
+msgstr "Connexion"
 
 #: src/js/pages/admin/users/index.vue:233
 msgid "Connection Error"
@@ -2231,8 +2171,6 @@ msgstr ""
 
 #: src/js/components/global/input/input-password.vue:48
 #: src/js/pages/user/ssl/_components/certificate-request-dialog.vue:37
-#, fuzzy
-#| msgid "Add to clipboard"
 msgid "Copy to Clipboard"
 msgstr "Ajouter au presse-papier"
 
@@ -2317,8 +2255,6 @@ msgstr ""
 
 #: src/js/pages/user/email/autoresponders/create.vue:1
 #: src/js/pages/user/email/autoresponders/index.vue:21
-#, fuzzy
-#| msgid "Create AutoResponder"
 msgid "Create Autoresponder"
 msgstr "Créer un auto-répondeur"
 
@@ -2328,8 +2264,6 @@ msgid "Create Backup"
 msgstr "Créer une Sauvegarde"
 
 #: src/js/pages/user/cronjobs/index.vue:12
-#, fuzzy
-#| msgid "Create Cron Job"
 msgid "Create Cron job"
 msgstr "Ajouter une tâche CRON"
 
@@ -2394,8 +2328,6 @@ msgstr ""
 #: src/js/pages/reseller/_dialogs/create-nameservers-dialog.vue:3
 #: src/js/pages/reseller/_dialogs/create-nameservers-dialog.vue:59
 #: src/js/pages/reseller/nameservers.vue:17
-#, fuzzy
-#| msgid "Name Servers"
 msgid "Create Name Servers"
 msgstr "Serveurs de Noms"
 
@@ -2436,10 +2368,8 @@ msgid "Create Reseller Package"
 msgstr "Créer un Forfait Revendeur"
 
 #: src/js/pages/admin/dns/add.vue:76
-#, fuzzy
-#| msgid "Create/Restore Backups"
 msgid "Create Reverse IP Lookup"
-msgstr "Créer/Restaurer des sauvegardes"
+msgstr ""
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:64
 msgid "Create Routine"
@@ -2608,10 +2538,8 @@ msgid "Custom HTTPD Configurations"
 msgstr "Configurations HTTPD Personnalisées"
 
 #: src/js/pages/user/domains/add.vue:108 src/js/pages/user/domains/edit.vue:71
-#, fuzzy
-#| msgid "Custom Error Pages"
 msgid "Custom Items"
-msgstr "Pages d'erreur personnalisées"
+msgstr "Items personalisées"
 
 #: src/js/pages/admin/brute-force-monitor/index.vue:55
 msgid "Custom number of bytes from the end of the file"
@@ -2803,12 +2731,10 @@ msgstr ""
 #: src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:45
 #: src/js/pages/reseller/users/bandwidth.vue:156
 #: src/js/pages/user/bandwidth.vue:146
-#, fuzzy
-#| msgid "Day"
 msgid "Day"
 msgid_plural "Days"
 msgstr[0] "Jour"
-msgstr[1] "Jour"
+msgstr[1] "Jours"
 
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:53
 msgid "day ago"
@@ -2857,10 +2783,8 @@ msgid "days"
 msgstr "jours"
 
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:49
-#, fuzzy
-#| msgid "2 Days"
 msgid "Days"
-msgstr "2 Jours"
+msgstr "Jours"
 
 #: src/js/pages/admin/settings.vue:527 src/js/pages/admin/settings.vue:532
 msgid "Days after entry was made."
@@ -2902,10 +2826,8 @@ msgstr "Défaut"
 
 #: src/js/pages/user/domains/index.vue:31
 #: src/js/pages/user/domains/index.vue:34
-#, fuzzy
-#| msgid "Create Domain"
 msgid "Default Domain"
-msgstr "Ajouter un Domaine"
+msgstr "Domaine par défaut"
 
 #: src/js/pages/reseller/customize-skin/_components/change-default-menu-type-dialog.vue:3
 msgid "Default menu type"
@@ -3731,28 +3653,20 @@ msgid "E-mails (Incoming / Outgoing)"
 msgstr ""
 
 #: src/js/pages/user/redirects.vue:75
-#, fuzzy
-#| msgid "eg: \"/redirect\", \"/\""
 msgid "e.g. \"/redirect\", \"/\""
 msgstr "ex: \"/redirection\", \"/\""
 
 #: src/js/pages/user/redirects.vue:106
-#, fuzzy
-#| msgid "eg: \"http://www.redirected.com\""
 msgid "e.g. \"http://www.redirected.com\""
 msgstr "ex: \"http://www.redirection.com\""
 
 #: src/js/pages/user/email/spamassassin.vue:177
-#, fuzzy
-#| msgid "eg: *@domain.com"
 msgid "e.g. *@domain.com"
 msgstr "ex: *@domaine.com"
 
 #: src/js/components/local/filemanager/dialogs/protect-directory-dialog.vue:14
-#, fuzzy
-#| msgid "eg. Member's Area"
 msgid "e.g. Member's Area"
-msgstr "ex: Membres Seulement"
+msgstr "ex: Espace Membre"
 
 #: src/js/components/local/dns/edit-record-dialog.vue:109
 #: src/js/components/local/dns/records-table.vue:54
@@ -3938,8 +3852,6 @@ msgstr "Entrer le mot de passe:"
 
 #: src/js/components/local/ui-api-table/filters-editor.vue:33
 #: src/js/components/local/ui-api-table/filters-editor.vue:36
-#, fuzzy
-#| msgid "Equals"
 msgid "Equal"
 msgstr "Égal"
 
@@ -4088,20 +4000,14 @@ msgstr ""
 
 #: src/js/pages/reseller/users/_components/account-info.vue:137
 #: src/js/pages/reseller/users/_components/account-info.vue:139
-#, fuzzy
-#| msgid "Extra Features"
 msgid "Feature"
-msgstr "Outils"
+msgstr "Fonctionnalité"
 
 #: src/js/modules/router.js:175 src/js/modules/router.js:77
-#, fuzzy
-#| msgid "Disabled"
 msgid "Feature Disabled"
 msgstr "Désactivé"
 
 #: src/js/pages/reseller/users/_components/account-info.vue:136
-#, fuzzy
-#| msgid "Extra Features"
 msgid "Features"
 msgstr "Outils"
 
@@ -4217,17 +4123,13 @@ msgstr ""
 
 #: src/js/components/local/ui-api-table/filters-editor.vue:4
 #: src/js/components/local/ui-api-table/filters-editor.vue:14
-#, fuzzy
-#| msgid "Filter"
 msgid "Filter Type"
-msgstr "Filtre"
+msgstr "Type de filtre"
 
 #: src/js/components/local/ui-api-table/filters-editor.vue:4
 #: src/js/components/local/ui-api-table/filters-editor.vue:18
-#, fuzzy
-#| msgid "Filter"
 msgid "Filter Value"
-msgstr "Filtre"
+msgstr "Valeur du filtre"
 
 #: src/js/components/local/filemanager/files-table.vue:62
 msgid "Filtered by name:"
@@ -4272,8 +4174,6 @@ msgid "For IPv6 IPs, use a /mask, eg: /64"
 msgstr ""
 
 #: src/js/modules/router.js:37
-#, fuzzy
-#| msgid "403 Forbidden"
 msgid "Forbidden"
 msgstr "403 Forbidden"
 
@@ -5180,10 +5080,8 @@ msgid "Limit can't be larger than %{ limit }"
 msgstr ""
 
 #: src/js/pages/user/email/_components/modify-account-quota-dialog.vue:84
-#, fuzzy
-#| msgid "End time should be larger than start time"
 msgid "Limit should be larger than 0"
-msgstr "La date de fin doit être supérieur à la date de début"
+msgstr "La limite doit être supérieur à 0"
 
 #: src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:49
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:58
@@ -5416,8 +5314,6 @@ msgstr "Déconnexion"
 
 #: src/js/components/local/stats/webalizer-table.vue:3
 #: src/js/components/local/stats/webalizer-table.vue:20
-#, fuzzy
-#| msgid "All Logs"
 msgid "Logs"
 msgstr "Tous les Journaux"
 
@@ -5719,8 +5615,6 @@ msgstr ""
 #: src/js/pages/user/mimetypes/system.vue:11
 #: src/js/pages/user/mimetypes/index.vue:26
 #: src/js/pages/user/mimetypes/system.vue:14
-#, fuzzy
-#| msgid "Mime Type"
 msgid "Mime Type"
 msgid_plural "Mime Types"
 msgstr[0] "Types MIME"
@@ -5736,8 +5630,6 @@ msgid "Minimize"
 msgstr "Minimiser"
 
 #: src/js/pages/admin/system-backup.vue:57
-#, fuzzy
-#| msgid "Minumum disk space required for backup (MB)"
 msgid "Minimum disk space required for backup (MB)"
 msgstr "Espace disque minimum requis pour les sauvegardes (MB)"
 
@@ -5804,8 +5696,6 @@ msgid "Modify %{domain}"
 msgstr "Modifier %{domain}"
 
 #: src/js/pages/user/email/autoresponders/modify.vue:1
-#, fuzzy
-#| msgid "Modify AutoResponder"
 msgid "Modify Autoresponder"
 msgstr "Modifier le répondeur automatique"
 
@@ -6002,10 +5892,8 @@ msgstr ""
 #: src/js/pages/admin/ip-manager/index.vue:30
 #: src/js/pages/reseller/ip-config.vue:18
 #: src/js/pages/reseller/nameservers.vue:26
-#, fuzzy
-#| msgid "Name Servers"
 msgid "Name Server"
-msgstr "Serveurs de Noms"
+msgstr "Serveur de Nom"
 
 #: src/js/pages/reseller/nameservers.vue:57
 #: src/js/pages/reseller/users/_components/account-info.vue:49
@@ -6063,10 +5951,8 @@ msgid "Netmask"
 msgstr "Masque de sous-réseau"
 
 #: src/js/components/global/app/app-network-error.vue:9
-#, fuzzy
-#| msgid "Connection Error"
 msgid "Network Error"
-msgstr "Erreur de connexion"
+msgstr "Erreur de réseau"
 
 #: src/js/pages/reseller/customize-skin/_components/colors-editor.vue:40
 msgid "Neutral"
@@ -6146,10 +6032,8 @@ msgid "No default domain"
 msgstr ""
 
 #: src/js/modules/router.js:60
-#, fuzzy
-#| msgid "Domains"
 msgid "No Domains"
-msgstr "Domaines"
+msgstr "Aucun Domaine"
 
 #: src/js/pages/user/dashboard/index.vue:48
 msgid "No Installed Widgets"
@@ -6405,10 +6289,8 @@ msgid "Open"
 msgstr "Ouvrir"
 
 #: src/js/pages/user/email/lists/modify.vue:405
-#, fuzzy
-#| msgid "Confirm"
 msgid "Open + Confirm"
-msgstr "Confirmer"
+msgstr "Ouvrir et Confirmer"
 
 #: src/js/pages/admin/php-safe-mode.vue:112
 #: src/js/pages/admin/php-safe-mode.vue:99
@@ -7058,10 +6940,8 @@ msgid "Reload Log"
 msgstr ""
 
 #: src/js/pages/admin/services.vue:42
-#, fuzzy
-#| msgid "Services"
 msgid "Reload Services"
-msgstr "Services"
+msgstr "Recharger Services"
 
 #: src/js/pages/admin/process-monitor.vue:51
 msgid "reloading..."
@@ -7139,10 +7019,8 @@ msgstr ""
 #: src/js/components/local/ui-api-table/filters-editor.vue:48
 #: src/js/components/local/ui-api-table/filters-editor.vue:60
 #: src/js/components/local/ui-api-table/filters-editor.vue:55
-#, fuzzy
-#| msgid "Filter"
 msgid "Remove Filter"
-msgstr "Filtre"
+msgstr "Enlever le filtre"
 
 #: src/js/pages/admin/ip-manager/index.vue:19
 #: src/js/pages/admin/ip-manager/index.vue:41
@@ -7498,10 +7376,8 @@ msgid "Same as Main account"
 msgstr "Identique au Compte Principal"
 
 #: src/js/pages/user/cronjobs/create.vue:123
-#, fuzzy
-#| msgid "Commands:"
 msgid "Sample Cron commands:"
-msgstr "Commandes:"
+msgstr "Example de commandes CRON:"
 
 #: src/js/components/global/ui/ui-color-picker.vue:76
 msgid "Saturation"
@@ -7571,10 +7447,8 @@ msgid "Save Changes"
 msgstr ""
 
 #: src/js/pages/reseller/users/_components/comments.vue:12
-#, fuzzy
-#| msgid "Comments"
 msgid "Save Comments"
-msgstr "Commentaires"
+msgstr "Sauvegarder Commentaires"
 
 #: src/js/pages/reseller/users/_components/account-info.vue:18
 msgid "Save E-mail"
@@ -7585,10 +7459,8 @@ msgid "Save Name"
 msgstr ""
 
 #: src/js/pages/reseller/users/_components/account-info.vue:65
-#, fuzzy
-#| msgid "Name Servers"
 msgid "Save Name Servers"
-msgstr "Serveurs de Noms"
+msgstr "Sauvegarder les serveurs de noms"
 
 #: src/js/pages/admin/settings.vue:541
 msgid "Scan for WordPress attacks"
@@ -7846,8 +7718,6 @@ msgid "Select users you would like to backup."
 msgstr ""
 
 #: src/js/components/global/app/app-search.vue:52
-#, fuzzy
-#| msgid "Choose your searching criterias:"
 msgid "Select your searching criteria:"
 msgstr "Choisissez vos critères de recherche:"
 
@@ -8034,17 +7904,12 @@ msgid "Server Version"
 msgstr ""
 
 #: src/js/pages/admin/services.vue:185
-#, fuzzy
-#| msgid "Account was successfully deleted"
-#| msgid_plural "Accounts was successfully deleted"
 msgid "Server was successfully rebooted"
-msgstr "Le compte a été effacé avec succès"
+msgstr "Le serveur a été redémarré avec succès"
 
 #: src/js/pages/reseller/_dialogs/upload-skin-dialog.vue:35
-#, fuzzy
-#| msgid "Server"
 msgid "Server wide"
-msgstr "Serveur"
+msgstr "Tout le serveur"
 
 #: src/js/pages/admin/settings.vue:148
 msgid "Server's Hostname"
@@ -8175,8 +8040,6 @@ msgid "Settings"
 msgstr "Configurations"
 
 #: src/js/modules/widgets.js:15
-#, fuzzy
-#| msgid "Setup your databases"
 msgid "Setup your Databases"
 msgstr "Configuration de vos bases de données"
 
@@ -8317,8 +8180,6 @@ msgid "Show information messages"
 msgstr ""
 
 #: src/js/components/global/ui/ui-api-table.vue:58
-#, fuzzy
-#| msgid "Search"
 msgid "Show Search"
 msgstr "Recherche"
 
@@ -8352,10 +8213,8 @@ msgid "Show whole file"
 msgstr ""
 
 #: src/js/components/local/auth-dialog.vue:29
-#, fuzzy
-#| msgid "Main FTP Account"
 msgid "Sign in to Account"
-msgstr "Compte FTP Principal"
+msgstr "Connexion au compte"
 
 #: src/js/pages/user/dns/security.vue:24
 msgid "Sign your zone"
@@ -8475,16 +8334,12 @@ msgid "Sorry, but the page you are looking for can't be found."
 msgstr "Désolé, mais la page que vous recherchez est introuvable."
 
 #: src/js/pages/user/backup/restore.vue:21
-#, fuzzy
-#| msgid ""
-#| "Sorry, it seems that there are no user packages created yet. Would you "
-#| "like to create one?"
 msgid ""
 "Sorry, it seems that there are no backups created yet. Would you like to "
 "create one?"
 msgstr ""
-"Désolé, il semble que vous n'avez pas créer aucun forfait utilisateur. "
-"Voulez-vous en créer un?"
+"Désolé, il semble qu'aucune sauvegarde n'ait encore été créée. Voulez-vous "
+"en créer une?"
 
 #: src/js/pages/admin/users/resellers/create.vue:131
 msgid ""
@@ -8557,8 +8412,6 @@ msgid "Spamassassin Setup"
 msgstr "Configuration SpamAssassin"
 
 #: src/js/pages/user/email/spamassassin.vue:1
-#, fuzzy
-#| msgid "Spamassassin Setup"
 msgid "SpamAssassin Setup"
 msgstr "Configuration SpamAssassin"
 
@@ -8790,10 +8643,8 @@ msgstr "Gestion des sous-domaines"
 
 #: src/js/pages/user/subdomains/index.vue:22
 #: src/js/pages/user/subdomains/index.vue:29
-#, fuzzy
-#| msgid "SubDomain Name"
 msgid "Subdomain Name"
-msgstr "Nom sous-domaine"
+msgstr "Nom du sous-domaine"
 
 #: src/js/pages/user/subdomains/index.vue:161
 msgid ""
@@ -8826,8 +8677,6 @@ msgid "Subdomains"
 msgstr "Sous-domaines"
 
 #: src/js/pages/user/dashboard/_components/widgets/additional-domains.vue:7
-#, fuzzy
-#| msgid "Sub-Domains"
 msgid "SubDomains"
 msgstr "Sous-domaines"
 
@@ -9032,10 +8881,8 @@ msgid "Table"
 msgstr ""
 
 #: src/js/components/global/app/app-skin-options.vue:48
-#, fuzzy
-#| msgid "Enabled"
 msgid "Tables"
-msgstr "Activé"
+msgstr "Tableaux"
 
 #: src/js/pages/user/email/lists/modify.vue:280
 msgid "Taboo Body"
@@ -9317,10 +9164,8 @@ msgstr ""
 
 #: src/js/pages/user/email/accounts/index.vue:25
 #: src/js/pages/user/email/accounts/index.vue:33
-#, fuzzy
-#| msgid "Log Usage"
 msgid "Total Usage"
-msgstr "Utilisation du journal"
+msgstr "Utilisation Totale"
 
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:209
 msgid "Tracker stream was closed."
@@ -9331,10 +9176,8 @@ msgid "Transmitted"
 msgstr "Transmis"
 
 #: src/js/pages/user/filemanager/index.vue:79
-#, fuzzy
-#| msgid "View"
 msgid "Tree View"
-msgstr "Voir"
+msgstr "Vue d'arbre"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:79
 msgid "Trigger"
@@ -9361,8 +9204,6 @@ msgid "TTL Value"
 msgstr ""
 
 #: src/js/components/local/inputs/input-week-day.vue:25
-#, fuzzy
-#| msgid "Thursday"
 msgid "Tuesday"
 msgstr "Jeudi"
 
@@ -9659,16 +9500,12 @@ msgid "Use the | charter for separation."
 msgstr "Utilisez le | pour la séparation."
 
 #: src/js/pages/admin/settings.vue:61
-#, fuzzy
-#| msgid ""
-#| "Use the automatic updater to automatically get the lastest version of "
-#| "DirectAdmin."
 msgid ""
 "Use the automatic updater to automatically get the latest version of "
 "DirectAdmin."
 msgstr ""
-"Utilisez les mises à jour automatiques pour obtenir automatiquement la "
-"dernière version de DirectAdmin."
+"Utilisez les mises à jour automatiques pour obtenir la dernière version de "
+"DirectAdmin."
 
 #: src/js/pages/admin/backups/restore.vue:146
 msgid "Use the IP"
@@ -9759,10 +9596,8 @@ msgid "User Home"
 msgstr ""
 
 #: src/js/components/global/app/app-mobile-main-menu.vue:17
-#, fuzzy
-#| msgid "Access Level"
 msgid "User Level"
-msgstr "Niveau"
+msgstr "Niveau Utilisateur"
 
 #: src/js/pages/reseller/user-packages/index.vue:64
 msgid "user package"
@@ -9788,8 +9623,6 @@ msgid "User Statistics"
 msgstr "Statistiques Utilisateur"
 
 #: src/js/pages/reseller/users/view.vue:49
-#, fuzzy
-#| msgid "Suspended"
 msgid "User Suspended"
 msgstr "Suspendu"
 
@@ -10101,8 +9934,6 @@ msgid "View Statistic Reports"
 msgstr ""
 
 #: src/js/pages/user/subdomains/logs.vue:1
-#, fuzzy
-#| msgid "Vew Sub-Domain Log"
 msgid "View Sub-Domain Log"
 msgstr "Voir les Journaux pour ce sous-domaine"
 
@@ -10331,11 +10162,6 @@ msgstr "Vous êtes ici:"
 
 #: src/js/pages/user/cronjobs/create.vue:120
 #: src/js/pages/user/cronjobs/index.vue:116
-#, fuzzy
-#| msgid ""
-#| "You can combine them to create a more precise schedule. eg: "
-#| "1,5,11-15,30-59/2 (minutes 1, 5, 11 to 15 and every 2nd minute between 30 "
-#| "and 59)"
 msgid ""
 "You can combine them to create a more precise schedule. e.g. "
 "1,5,11-15,30-59/2 (minutes 1, 5, 11 to 15 and every 2nd minute between 30 "
@@ -10351,10 +10177,6 @@ msgstr "Vous pouvez l'activer ici"
 
 #: src/js/pages/user/cronjobs/create.vue:117
 #: src/js/pages/user/cronjobs/index.vue:113
-#, fuzzy
-#| msgid ""
-#| "You can specifiy exact times using commas to separate them. eg: 1,2,3 "
-#| "(minutes 1,2 and 3)"
 msgid ""
 "You can specify exact times using commas to separate them. e.g. 1,2,3 "
 "(minutes 1,2 and 3)"
@@ -10364,10 +10186,6 @@ msgstr ""
 
 #: src/js/pages/user/cronjobs/create.vue:119
 #: src/js/pages/user/cronjobs/index.vue:115
-#, fuzzy
-#| msgid ""
-#| "You can specify intervals using a star and a forward slash. eg: */2 "
-#| "(every 2nd minute)"
 msgid ""
 "You can specify intervals using a star and a forward slash. e.g. */2 (every "
 "2nd minute)"
@@ -10377,8 +10195,6 @@ msgstr ""
 
 #: src/js/pages/user/cronjobs/create.vue:118
 #: src/js/pages/user/cronjobs/index.vue:114
-#, fuzzy
-#| msgid "You can specify spans using a dash. eg: 5-7 (minutes 5 to 7)"
 msgid "You can specify spans using a dash. e.g. 5-7 (minutes 5 to 7)"
 msgstr ""
 "Vous pouvez spécifier des portées en utilisant un tiret. ex: 5-7 (minutes 5 "
