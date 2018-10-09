@@ -1,0 +1,31 @@
+1=%s n'existe pas.
+2=impossible de lire les données depuis %s
+3=Impossible de bloquer sur %s
+4=Erreur d'écriture %s: %s
+5=%s%s a été bloqué dans %s pour prévenir tout autre connexion sur se compte.
+6=Attention: %s a un mot de passe valide %s mais le code de l'authentification en 2 étape a echoué %s fois.
+7=The IP %s has provided the correct password for the %s account.%cHowever, after %s attempts, they were not able to provide a valid Two-Step Authentication code, so no access was granted.%cIf this is not your IP, change your password.%s
+8=Auth en 2 étape secret n'est pas défini.
+9=<b>Enter votre code d'authentification en 2 étapes</b>
+10=Envoyé
+11=Code
+12=%sVotre IP a été blacklisté
+13=Code d'authentification en 2 étapes invalide
+14=Scratch Codes
+15=Date de création
+16=Sélectionner
+17=Supprimer
+18=Ajouter codes
+19=Nouveau secret défini: <span class=code_edit>%s</span><br>Soyer sur d'avoir rescaner le code QR car tout les anciens codes deviennent invalides.
+20=Valider
+21=Utilisez un code depuis l'app de votre téléphone, ou utilisez un code de récupération.
+22=Jamais
+23=%s jour(s)
+24=%s semaine(s)
+25=%s mois(s)
+26=Expires
+27=Caratères invalides dans la description.  Autorisé %s
+28=Imprimer
+29=Le code est valide, mais l'heure est différente.<br>Vérifier que l'heure est la même sur le serveur et sur votre téléphone.<br>Divergence de tranche de temps = %d<br>
+30=%s valide cet appareil pour %d jours
+31=Please generate a secret before adding the scratch codes
