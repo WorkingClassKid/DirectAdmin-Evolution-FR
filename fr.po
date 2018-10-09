@@ -439,13 +439,10 @@ msgstr[0] "Type accepté:"
 msgstr[1] "Types acceptés"
 
 #: src/js/pages/user/database/view.vue:104
-#, fuzzy
-#| msgid "access host"
-#| msgid_plural "access hosts"
 msgid "Access host"
 msgid_plural "Access hosts"
-msgstr[0] "hôte d'accès"
-msgstr[1] "hôtes d'accès"
+msgstr[0] "Hôte d'accès"
+msgstr[1] "Hôtes d'accès"
 
 #: src/js/pages/user/database/view.vue:62
 #: src/js/pages/user/database/view.vue:76
@@ -2430,13 +2427,10 @@ msgid "Cron"
 msgstr ""
 
 #: src/js/pages/user/cronjobs/index.vue:69
-#, fuzzy
-#| msgid "cron job"
-#| msgid_plural "cron jobs"
 msgid "Cron job"
 msgid_plural "Cron jobs"
-msgstr[0] "tâche cron"
-msgstr[1] "tâches cron"
+msgstr[0] "Tâche cron"
+msgstr[1] "Tâches cron"
 
 #: src/js/pages/user/cronjobs/index.vue:1 src/js/pages/user/stats/index.vue:134
 #: src/js/components/local/user-package.vue:217
@@ -2791,10 +2785,8 @@ msgid "Days after entry was made."
 msgstr ""
 
 #: src/js/pages/user/email/lists/index.vue:104
-#, fuzzy
-#| msgid "days."
 msgid "Days."
-msgstr "jours."
+msgstr "Jours."
 
 #: src/js/components/global/app/app-search.vue:120
 msgid "DB Entries"
@@ -2977,10 +2969,8 @@ msgid "Deletes local file before creating the next one"
 msgstr ""
 
 #: src/js/components/local/r-table/r-table-buttons-before.vue:19
-#, fuzzy
-#| msgid "Rows Density"
 msgid "Density:"
-msgstr "Densité des lignes"
+msgstr "Densité des lignes:"
 
 #: src/js/pages/user/login-keys/create.vue:133
 #: src/js/pages/user/login-keys/index.vue:21
@@ -4436,10 +4426,8 @@ msgid "Help"
 msgstr "Aide"
 
 #: src/js/pages/user/ssl/_components/certificate-request-dialog.vue:11
-#, fuzzy
-#| msgid "Create A Certificate Request"
 msgid "Here is your SSL Certificate Request."
-msgstr "Créer une demande de certificat"
+msgstr "Voici votre demande de certificat:"
 
 #: src/js/components/global/input/input-password.vue:27
 msgid "Hide"
@@ -5174,10 +5162,8 @@ msgid "Loading “%{name}” plugin"
 msgstr "Chargement de l'extension \"%{name}\""
 
 #: src/js/pages/user/dashboard/_components/widgets/preload-in-progress.vue:10
-#, fuzzy
-#| msgid "reloading..."
 msgid "Loading widget..."
-msgstr "rechargement ..."
+msgstr "Chargement des widgets ..."
 
 #: src/js/pages/admin/backups/modify.vue:154
 #: src/js/pages/admin/backups/restore.vue:47
@@ -6845,10 +6831,8 @@ msgid "Reason"
 msgstr "Raison"
 
 #: src/js/pages/reseller/users/view.vue:56
-#, fuzzy
-#| msgid "Reason"
 msgid "Reason:"
-msgstr "Raison"
+msgstr "Raison:"
 
 #: src/js/pages/admin/services.vue:13 src/js/pages/admin/services.vue:95
 msgid "Reboot"
@@ -7365,10 +7349,8 @@ msgid "Safe Mode"
 msgstr ""
 
 #: src/js/pages/user/database/create.vue:49
-#, fuzzy
-#| msgid "Database Name:"
 msgid "Same as database name"
-msgstr "Nom de la base de données:"
+msgstr "Idem au nom de la base de donnée"
 
 #: src/js/pages/user/domains/add.vue:51 src/js/pages/user/domains/add.vue:75
 #: src/js/pages/user/domains/edit.vue:33 src/js/pages/user/domains/edit.vue:50
@@ -8662,10 +8644,8 @@ msgid "Subdomain name shouldn't contain special characters"
 msgstr "Le nom du sous-domaine ne doit pas contenir de caractères spéciaux"
 
 #: src/js/pages/user/subdomains/index.vue:86
-#, fuzzy
-#| msgid "Subdomains"
 msgid "Subdomain:"
-msgstr "Sous-domaines"
+msgstr "Sous-domaine:"
 
 #: src/js/components/local/stats/webalizer-table.vue:3
 #: src/js/pages/reseller/users/_components/domains.vue:2
@@ -8818,10 +8798,8 @@ msgid "Suspended"
 msgstr "Suspendu"
 
 #: src/js/pages/reseller/users/view.vue:53
-#, fuzzy
-#| msgid "Suspended"
 msgid "Suspended on:"
-msgstr "Suspendu"
+msgstr "Suspendu le:"
 
 #: src/js/pages/admin/users/admins.vue:64 src/js/pages/admin/users/index.vue:96
 #: src/js/pages/admin/users/resellers/index.vue:63
