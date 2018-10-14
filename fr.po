@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.1.1\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: src/js/pages/user/ftp-accounts/create.vue:199
@@ -1081,6 +1081,10 @@ msgstr "Utilisation apparente:"
 msgid "Appears as the first item within the <Directory> section."
 msgstr ""
 
+#: src/js/pages/admin/custom-httpd/customize.vue:196
+msgid "Appears as the first item within the <Directory> section."
+msgstr ""
+
 #: src/js/pages/admin/custom-httpd/customize.vue:190
 msgid "Appears at the very top of the template, before setting the variables."
 msgstr ""
@@ -1628,8 +1632,8 @@ msgstr ""
 
 #: src/js/pages/user/email/filters.vue:123
 msgid "Blocks out common adult phrases, words, and addresses"
-msgstr ""
-"Bloque les expressions communes pour adultes (phrases, mots et adresses)"
+msgstr"Bloque les expressions communes pour adultes (phrases, mots et adresses)"
+
 
 #: src/js/pages/admin/dns/index.vue:53 src/js/pages/admin/dns/index.vue:67
 msgid "Both"
@@ -1704,9 +1708,17 @@ msgstr "Adresse CC"
 msgid "Certificate"
 msgstr "Certificat"
 
+#: src/js/pages/user/ssl/_components/paste-cert-tab.vue:26
+msgid "Certificate"
+msgstr "Certificat"
+
 #: src/js/pages/user/ssl/ca-cert.vue:1
 msgid "Certificate Authority SSL Certificate"
 msgstr "Certificat d'autorité de certification SSL"
+
+#: src/js/pages/user/ssl/_components/paste-cert-tab.vue:55
+msgid "Certificate Expiry"
+msgstr "Expiration du certificat"
 
 #: src/js/pages/user/ssl/_components/paste-cert-tab.vue:55
 msgid "Certificate Expiry"
@@ -2550,6 +2562,22 @@ msgstr ""
 #: src/js/pages/reseller/backups/schedule.vue:245
 msgid "Custom Path"
 msgstr "Chemin personnalisé"
+
+
+#: src/js/pages/user/domains/add.vue:108 src/js/pages/user/domains/edit.vue:71
+msgid "Custom Items"
+msgstr "Items personalisées"
+
+#: src/js/pages/admin/brute-force-monitor/index.vue:55
+msgid "Custom number of bytes from the end of the file"
+msgstr ""
+
+#: src/js/pages/admin/backups/modify.vue:238
+#: src/js/pages/admin/backups/schedule.vue:317
+#: src/js/pages/reseller/backups/modify.vue:208
+#: src/js/pages/reseller/backups/schedule.vue:245
+msgid "Custom Path"
+msgstr ""
 
 #: src/js/pages/user/email/spamassassin.vue:68
 msgid "Custom Threshold"
@@ -5022,6 +5050,7 @@ msgstr ""
 msgid "Let's Encrypt in use. Auto Renewal in %{n} Days."
 msgstr "Let's Encrypt actif. Renouvellement automatique dans %{n} Days."
 
+
 #: src/js/pages/admin/license.vue:27
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:30
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:235
@@ -6302,6 +6331,7 @@ msgstr "Open BaseDir"
 msgid "Open dropdown"
 msgstr "Ouvrir la liste déroulante"
 
+
 #: src/js/pages/user/database/index.vue:49
 #: src/js/pages/user/database/index.vue:66
 msgid "Optimize"
@@ -7103,9 +7133,7 @@ msgstr ""
 
 #: src/js/pages/user/two-step-auth.vue:146
 msgid "Require valid Two-Step Authentication Code to login to this account."
-msgstr ""
-"Un code d'authentification à deux facteur est requis pour se connecter à ce "
-"compte."
+msgstr "Un code d'authentification à deux facteur est requis pour se connecter à ce compte "
 
 #: src/js/components/global/ui/ui-form-element.vue:179
 msgid "Required field"
@@ -9017,6 +9045,10 @@ msgstr ""
 msgid "This feature has been disabled. Please, contact your administrator."
 msgstr ""
 
+#: src/js/modules/router.js:78
+msgid "This feature has been disabled. Please, contact your administrator."
+msgstr ""
+
 #: src/js/pages/user/security-questions.vue:12
 #: src/js/pages/user/two-step-auth.vue:49
 msgid "This feature is not turned on."
@@ -9115,9 +9147,8 @@ msgstr "Timeout (secondes)"
 msgid ""
 "To use it, paste the Signed Certificate on \"Paste a pre-generated "
 "certificate and key\" tab and click \"Save\"."
-msgstr ""
-"Pour l'utiliser, collez le certificat signé sur l'onglet \"Coller un "
-"certificat et une clé pré-générés \" et le clic \"Sauvegarder\"."
+msgstr "Pour l'utiliser, collez le certificat signé sur l'onglet \"Coller un  certificat et une clé pré-générés \" et le clic \"Sauvegarder\"."
+
 
 #: src/js/components/local/create-message-dialog.vue:7
 #: src/js/components/local/send-user-message-dialog.vue:7
@@ -9941,6 +9972,10 @@ msgstr "Voir les rapports de statistiques"
 msgid "View Sub-Domain Log"
 msgstr "Voir les Journaux pour ce sous-domaine"
 
+#: src/js/pages/user/subdomains/logs.vue:1
+msgid "View Sub-Domain Log"
+msgstr "Voir les Journaux pour ce sous-domaine"
+
 #: src/js/pages/user/subdomains/stats.vue:1
 msgid "View Sub-Domain Stats"
 msgstr "Voir les statistique du sous-domaine"
@@ -10267,7 +10302,7 @@ msgstr "DD.MM.YYYY, HH:mm:ss"
 
 # Date format
 msgid "format:date"
-msgstr "DD.MM.YYYY"
+msgstr "format:date"
 
 #~ msgid "(Ignored if not allowed)"
 #~ msgstr "(Ignoré si pas autorisé)"
