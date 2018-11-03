@@ -14,7 +14,7 @@ wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/m
 # Téléchargement du fichier de "traduction internal"
 
 if [ ! -d "$evolution_skin_directory/lang/fr/internal" ]; then
-    mkdir $evolution_skin_directory/lang/fr/internal
+    mkdir -p $evolution_skin_directory/lang/fr/internal
 fi
 
 cd $evolution_skin_directory/lang/fr/internal
