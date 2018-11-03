@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Version 0.01
+# 03/11/2018
+
+
 # Définir l'emplacement du skin
 evolution_skin_directory=/usr/local/directadmin/data/skins/evolution
 
@@ -45,7 +49,7 @@ wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/m
 wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/master/fr/internal/twostep_auth.txt -O twostep_auth.txt
 wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/master/fr/internal/user.txt -O user.txt
 
-# Installation du script de mise-à-jour de la traduction
+# Installation / Mise à jour du script de mise-à-jour de la traduction
 cd $evolution_skin_directory/lang/fr
 wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/master/update.sh -O update.sh
 chmod +x update.sh
