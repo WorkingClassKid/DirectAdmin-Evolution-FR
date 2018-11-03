@@ -14,7 +14,7 @@ Le fichier de traduction actuel est basé sur DirectAdmin: 1.54.1.
 Le fichier dictionary.pot et fr.po est basé sur la version du skin Evolution: 57d79f90beecb6976abc42a577f661ef16016738
 
 ## Installation
-Rendez-vous dans le répertoire lang de votre installation du skin Evolution (généralement /usr/local/directadmin/data/skins/evolution/lang/) et télécharger la dernière version de la traduction française à l'aide de wget avec la commande suivante:
+Vous pouvez installer la traduction française facilement avec le script update.sh.
 
 ```bash
 wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/master/update.sh
