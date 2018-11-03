@@ -13,21 +13,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: src/js/pages/user/ftp-accounts/create.vue:199
-msgid ""
-"\n"
+msgid "\n"
 "                    <table class=\"table-elem\">\n"
 "                        <tr><td>Login:</td><td>%{ login }</td></tr>\n"
 "                        <tr><td>Password:</td><td>%{ passwd }</td></tr>\n"
 "                        <tr><td>Path:</td><td>%{ path }</td></tr>\n"
 "                    </table>\n"
 "                "
-msgstr ""
-"\n"
+msgstr "\n"
 "                        <table class=\"table-elem\">\n"
-"                            <tr><td>Nom d'Utilisateur:</td><td>%{ login }</"
-"td></tr>\n"
-"                            <tr><td>Mot de Passe:</td><td>%{ passwd }</td></"
-"tr>\n"
+"                            <tr><td>Nom d'Utilisateur:</td><td>%{ login }</td></tr>\n"
+"                            <tr><td>Mot de Passe:</td><td>%{ passwd }</td></tr>\n"
 "                            <tr><td>Chemin:</td><td>%{ path }</td></tr>\n"
 "                        </table>\n"
 "\n"
@@ -97,12 +93,8 @@ msgid "{{item.label}}"
 msgstr "{{item.label}}"
 
 #: src/js/pages/user/dns/mx-records.vue:33
-msgid ""
-"* Note: Making modifications to the MX records can potentially disable all "
-"of your email accounts from receiving mail."
-msgstr ""
-"* Note: Effectuer des modifications aux enregistrements MX peut "
-"potentiellement désactiver la réception des e-mails pour ce domaine."
+msgid "* Note: Making modifications to the MX records can potentially disable all of your email accounts from receiving mail."
+msgstr "* Note: Effectuer des modifications aux enregistrements MX peut potentiellement désactiver la réception des e-mails pour ce domaine."
 
 #: src/js/pages/reseller/users/_components/change-sent-emails-daily-limit-dialog.vue:11
 msgid "/ Day"
@@ -237,8 +229,7 @@ msgid "%{name}-digest"
 msgstr "%{name}-digest"
 
 #: src/js/pages/user/password.vue:43
-msgid ""
-"<div slot=\"content\" v-gutter=\"1\" v-flex=\"{\n"
+msgid "<div slot=\"content\" v-gutter=\"1\" v-flex=\"{\n"
 "dir: $_Client.isPhone ? 'column' : 'row',\n"
 "cross: $_Client.isPhone ? 'start' : 'center'\n"
 "}\">\n"
@@ -252,8 +243,7 @@ msgid ""
 "<translate>Main Database Account</translate>\n"
 "</input-check>\n"
 "</div>"
-msgstr ""
-"<div slot=\"content\" v-gutter=\"1\">\n"
+msgstr "<div slot=\"content\" v-gutter=\"1\">\n"
 "<input-check v-model=\"system\">\n"
 "<translate>Compte DirectAdmin</translate>\n"
 "</input-check>\n"
@@ -266,31 +256,23 @@ msgstr ""
 "</div>"
 
 #: src/js/pages/user/two-step-auth.vue:34
-msgid ""
-"<p>\n"
-"To use this feature, download the Google Authenticator App for your phone "
-"(or equivalent), and scan in the QR code.\n"
+msgid "<p>\n"
+"To use this feature, download the Google Authenticator App for your phone (or equivalent), and scan in the QR code.\n"
 "</p>\n"
 "<p>\n"
 "The App will show you a code, which you'll use to Login to DirectAdmin.\n"
 "</p>\n"
 "<p>\n"
-"Scratch Codes are one-time use codes in case you don't have your phone, so "
-"keep them safe.\n"
+"Scratch Codes are one-time use codes in case you don't have your phone, so keep them safe.\n"
 "</p>"
-msgstr ""
-"<p>\n"
-"Pour utiliser cette fonctionnalité, télécharger l'application Google "
-"Authenticator pour votre téléphone (ou équivalent) et scanner le code QR.\n"
+msgstr "<p>\n"
+"Pour utiliser cette fonctionnalité, télécharger l'application Google Authenticator pour votre téléphone (ou équivalent) et scanner le code QR.\n"
 "</p>\n"
 "<p>\n"
-"L'application vous montreras un code que vous utiliserez pour vous connecter "
-"à DirectAdmin.\n"
+"L'application vous montreras un code que vous utiliserez pour vous connecter à DirectAdmin.\n"
 "</p>\n"
 "<p>\n"
-"Les \"Scratch Codes\" sont des codes à utilisation unique qui peuvent être "
-"utilisés lorsque vous n'avez pas votre téléphone. Conservez les dans un "
-"endroit sécuritaire..\n"
+"Les \"Scratch Codes\" sont des codes à utilisation unique qui peuvent être utilisés lorsque vous n'avez pas votre téléphone. Conservez les dans un endroit sécuritaire..\n"
 "</p>"
 
 #: src/js/pages/user/email/accounts/index.vue:99
@@ -407,26 +389,16 @@ msgid "6 Months"
 msgstr "6 Mois"
 
 #: src/js/pages/user/email/spamassassin.vue:47
-msgid ""
-"A higher threshold will let more spam through, but is less likely to tag "
-"legitimate mail."
-msgstr ""
-"Un seuil plus élevé laissera passer plus de spam, mais sera moins "
-"susceptible d'étiqueter les mails légitimes."
+msgid "A higher threshold will let more spam through, but is less likely to tag legitimate mail."
+msgstr "Un seuil plus élevé laissera passer plus de spam, mais sera moins susceptible d'étiqueter les mails légitimes."
 
 #: src/js/pages/user/login-keys/create.vue:15
 msgid "A label to manage the keys. This is not the login username. (a-zA-Z0-9)"
-msgstr ""
-"Une étiquette pour gérer les clés. Ce n'est pas le nom d'utilisateur de "
-"connexion à DirectAdmin. (a-zA-Z0-9)"
+msgstr "Une étiquette pour gérer les clés. Ce n'est pas le nom d'utilisateur de connexion à DirectAdmin. (a-zA-Z0-9)"
 
 #: src/js/pages/user/email/spamassassin.vue:45
-msgid ""
-"A lower threshold will block more spam, but can potentially tag legitimate "
-"mail."
-msgstr ""
-"Un seuil bas bloquera plus de spams, mais peut potentiellement étiqueter les "
-"mails légitimes."
+msgid "A lower threshold will block more spam, but can potentially tag legitimate mail."
+msgstr "Un seuil bas bloquera plus de spams, mais peut potentiellement étiqueter les mails légitimes."
 
 #: src/js/components/local/suspend-user-dialog.vue:28
 msgid "Abuse"
@@ -684,12 +656,8 @@ msgid "Add New Widget"
 msgstr "Ajouter un nouveau widget"
 
 #: src/js/pages/user/security-questions.vue:15
-msgid ""
-"Add one or more Security Question, and then enable it in the options at the "
-"bottom of the page."
-msgstr ""
-"Ajoutez une ou plusieurs questions de sécurité, puis activez-les dans les "
-"options au bas de la page."
+msgid "Add one or more Security Question, and then enable it in the options at the bottom of the page."
+msgstr "Ajoutez une ou plusieurs questions de sécurité, puis activez-les dans les options au bas de la page."
 
 #: src/js/pages/reseller/user-packages/index.vue:12
 msgid "Add Package"
@@ -768,8 +736,7 @@ msgstr "Ajouter un Utilisateur"
 
 #: src/js/pages/admin/system-backup.vue:105
 msgid "Add user home directories to directory list"
-msgstr ""
-"Ajouter des répertoires HOME de l'utilisateur à la liste de répertoires"
+msgstr "Ajouter des répertoires HOME de l'utilisateur à la liste de répertoires"
 
 #: src/js/pages/user/dashboard/_components/add-widget-dialog.vue:27
 #: src/js/pages/user/dashboard/index.vue:161
@@ -952,18 +919,12 @@ msgid "Allow"
 msgstr "Permettre"
 
 #: src/js/pages/admin/settings.vue:54
-msgid ""
-"Allow a Reseller to Backup/Restore their Users(Separate from User Backup/"
-"Restore)"
-msgstr ""
-"Autoriser un revendeur de sauvegarder/restaurer ces utilisateurs (Séparer "
-"d'utilisateur sauvegarder/restaurer)"
+msgid "Allow a Reseller to Backup/Restore their Users(Separate from User Backup/Restore)"
+msgstr "Autoriser un revendeur de sauvegarder/restaurer ces utilisateurs (Séparer d'utilisateur sauvegarder/restaurer)"
 
 #: src/js/pages/user/security-questions.vue:98
 #: src/js/pages/user/two-step-auth.vue:154
-msgid ""
-"Allow API logins with the current User/password. Login Keys and Session Keys "
-"are always allowed."
+msgid "Allow API logins with the current User/password. Login Keys and Session Keys are always allowed."
 msgstr ""
 
 #: src/js/pages/user/login-keys/create.vue:104
@@ -978,8 +939,7 @@ msgstr "Autorisé la survente (Overselling)"
 
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:67
 msgid "Allow Reseller to create sites with server IP"
-msgstr ""
-"Autoriser le revendeur à créer des comptes avec l'adresse IP du serveur"
+msgstr "Autoriser le revendeur à créer des comptes avec l'adresse IP du serveur"
 
 #: src/js/pages/admin/settings.vue:104
 msgid "Allow Users with less than"
@@ -1049,9 +1009,7 @@ msgstr "Tous"
 
 #: src/js/pages/user/email/spamassassin.vue:173
 msgid "Any e-mail from these addresses will automatically be tagged as spam."
-msgstr ""
-"Tout e-mail provenant de ces adresses sera automatiquement identifié comme "
-"spam."
+msgstr "Tout e-mail provenant de ces adresses sera automatiquement identifié comme spam."
 
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:22
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:37
@@ -1079,11 +1037,7 @@ msgstr "Utilisation apparente:"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:196
 msgid "Appears as the first item within the <Directory> section."
-msgstr ""
-
-#: src/js/pages/admin/custom-httpd/customize.vue:196
-msgid "Appears as the first item within the <Directory> section."
-msgstr ""
+msgstr "Appears as the first item within the <Directory> section."
 
 #: src/js/pages/admin/custom-httpd/customize.vue:190
 msgid "Appears at the very top of the template, before setting the variables."
@@ -1269,12 +1223,8 @@ msgid "Assigned IPs"
 msgstr "IPs assigné"
 
 #: src/js/pages/user/email/spamassassin.vue:146
-msgid ""
-"Attachments will separate the spam into its own message, preventing scripts "
-"from being run."
-msgstr ""
-"Les pièces jointe sépareront le spam dans son propre message afin de "
-"prévenir l'exécution de scripts malicieux."
+msgid "Attachments will separate the spam into its own message, preventing scripts from being run."
+msgstr "Les pièces jointe sépareront le spam dans son propre message afin de prévenir l'exécution de scripts malicieux."
 
 #: src/js/pages/admin/brute-force-monitor/index.vue:97
 #: src/js/pages/user/login-history.vue:11
@@ -1339,8 +1289,7 @@ msgstr "Effacer tous les messages automatiquement"
 
 #: src/js/pages/user/login-keys/create.vue:98
 #: src/js/pages/user/login-keys/modify.vue:71
-msgid ""
-"Automatically delete the key once the key expires, or all uses are used."
+msgid "Automatically delete the key once the key expires, or all uses are used."
 msgstr ""
 
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:37
@@ -1398,12 +1347,7 @@ msgid "Available Version"
 msgstr "Version Disponible"
 
 #: src/js/pages/user/email/catch-all.vue:45
-msgid ""
-"Avoid using the Ignore option unless you know what you are doing. Spammers "
-"will be sending you e-mails to random addresses, and this option will accept "
-"those e-mails. You will not know it because the accepted e-mails would be "
-"discarded. This greatly increases the server load unnecessarily. If you do "
-"not want the catch-all to be on, then use the Fail option instead."
+msgid "Avoid using the Ignore option unless you know what you are doing. Spammers will be sending you e-mails to random addresses, and this option will accept those e-mails. You will not know it because the accepted e-mails would be discarded. This greatly increases the server load unnecessarily. If you do not want the catch-all to be on, then use the Fail option instead."
 msgstr ""
 
 #: src/js/pages/user/stats/index.vue:250
@@ -1534,11 +1478,7 @@ msgid "Basic Configuration"
 msgstr "Configuration de Base"
 
 #: src/js/pages/user/ssl/_components/certificate-request-dialog.vue:28
-msgid ""
-"Be sure to copy and backup the \"RSA PRIVATE KEY\" along with the request. "
-"You will need it when installing the certificate. Because you're an admin, "
-"you will be saving to the \"shared server certificate\" and the key is not "
-"saved anywhere until you paste it with the certificate."
+msgid "Be sure to copy and backup the \"RSA PRIVATE KEY\" along with the request. You will need it when installing the certificate. Because you're an admin, you will be saving to the \"shared server certificate\" and the key is not saved anywhere until you paste it with the certificate."
 msgstr ""
 
 #: src/js/pages/user/two-step-auth.vue:108
@@ -1631,10 +1571,6 @@ msgid "Blocked Permanently"
 msgstr ""
 
 #: src/js/pages/user/email/filters.vue:123
-msgid "Blocks out common adult phrases, words, and addresses"
-msgstr"Bloque les expressions communes pour adultes (phrases, mots et adresses)"
-
-
 #: src/js/pages/admin/dns/index.vue:53 src/js/pages/admin/dns/index.vue:67
 msgid "Both"
 msgstr ""
@@ -1708,21 +1644,13 @@ msgstr "Adresse CC"
 msgid "Certificate"
 msgstr "Certificat"
 
-#: src/js/pages/user/ssl/_components/paste-cert-tab.vue:26
-msgid "Certificate"
-msgstr "Certificat"
-
 #: src/js/pages/user/ssl/ca-cert.vue:1
 msgid "Certificate Authority SSL Certificate"
 msgstr "Certificat d'autorité de certification SSL"
 
 #: src/js/pages/user/ssl/_components/paste-cert-tab.vue:55
 msgid "Certificate Expiry"
-msgstr "Expiration du certificat"
-
-#: src/js/pages/user/ssl/_components/paste-cert-tab.vue:55
-msgid "Certificate Expiry"
-msgstr "Expiration du certificat"
+msgstr ""
 
 #: src/js/pages/user/ssl/_components/paste-cert-tab.vue:49
 msgid "Certificate Hosts"
@@ -2561,22 +2489,6 @@ msgstr ""
 #: src/js/pages/reseller/backups/modify.vue:208
 #: src/js/pages/reseller/backups/schedule.vue:245
 msgid "Custom Path"
-msgstr "Chemin personnalisé"
-
-
-#: src/js/pages/user/domains/add.vue:108 src/js/pages/user/domains/edit.vue:71
-msgid "Custom Items"
-msgstr "Items personalisées"
-
-#: src/js/pages/admin/brute-force-monitor/index.vue:55
-msgid "Custom number of bytes from the end of the file"
-msgstr ""
-
-#: src/js/pages/admin/backups/modify.vue:238
-#: src/js/pages/admin/backups/schedule.vue:317
-#: src/js/pages/reseller/backups/modify.vue:208
-#: src/js/pages/reseller/backups/schedule.vue:245
-msgid "Custom Path"
 msgstr ""
 
 #: src/js/pages/user/email/spamassassin.vue:68
@@ -2697,9 +2609,7 @@ msgstr "Paramètres de la base de données"
 #: src/js/pages/user/backup/index.vue:104
 #: src/js/pages/user/backup/restore.vue:117
 msgid "Database Settings: Backs up all DB Users and DB Settings"
-msgstr ""
-"Paramètres de la base de données: Sauvegarde touts les utilisateurs et "
-"paramètres des bases de données"
+msgstr "Paramètres de la base de données: Sauvegarde touts les utilisateurs et paramètres des bases de données"
 
 #: src/js/pages/user/database/create.vue:36
 msgid "Database User:"
@@ -3307,8 +3217,7 @@ msgstr ""
 
 #: src/js/pages/user/domains/add.vue:29
 msgid "Do not use CAPS, www, or http:// in your domain name"
-msgstr ""
-"N'utilisez pas les MAJUSCULES, www ou http:// dans votre nom de domaine"
+msgstr "N'utilisez pas les MAJUSCULES, www ou http:// dans votre nom de domaine"
 
 #: src/js/pages/reseller/customize-skin/index.vue:82
 msgid "Do you want to discard all of unsaved changes before leave?"
@@ -3377,10 +3286,7 @@ msgstr "Gestion des domaines"
 
 #: src/js/pages/user/domains/_components/rename-domain-dialog.vue:74
 #: src/js/pages/user/domains/add.vue:177
-msgid ""
-"Domain name has been automatically converted to punycode format. Punycode is "
-"used to encode internationalized domain names (IDN) by converting Unicode "
-"characters to ASCII."
+msgid "Domain name has been automatically converted to punycode format. Punycode is used to encode internationalized domain names (IDN) by converting Unicode characters to ASCII."
 msgstr ""
 
 #: src/js/pages/user/domains/_components/rename-domain-dialog.vue:73
@@ -3464,9 +3370,7 @@ msgstr ""
 #: src/js/pages/user/backup/index.vue:22
 #: src/js/pages/user/backup/restore.vue:37
 msgid "Domains Directory: Backs up all user files for all domains"
-msgstr ""
-"Répertoire des domaines: Sauvegarde tous les fichiers utilisateurs pour tous "
-"les domaines"
+msgstr "Répertoire des domaines: Sauvegarde tous les fichiers utilisateurs pour tous les domaines"
 
 #: src/js/pages/user/domains/index.vue:26
 msgid "Domains Limit Reached"
@@ -3559,8 +3463,7 @@ msgstr "Limite de compte e-mail atteint"
 #: src/js/pages/user/backup/index.vue:37
 #: src/js/pages/user/backup/restore.vue:52
 msgid "E-mail Accounts List for all domains (names and passwords)"
-msgstr ""
-"Liste des comptes E-mail pour tous les domaines (noms et mots de passe)"
+msgstr "Liste des comptes E-mail pour tous les domaines (noms et mots de passe)"
 
 #: src/js/pages/user/email/lists/view.vue:76
 msgid "E-mail Address:"
@@ -3579,12 +3482,8 @@ msgstr ""
 
 #: src/js/pages/user/backup/index.vue:44
 #: src/js/pages/user/backup/restore.vue:59
-msgid ""
-"E-mail Data: Includes the messages from the Inbox, IMAP Folders, and webmail "
-"data."
-msgstr ""
-"Données E-mail: Inclue les messages des boites aux lettres, dossiers IMAP et "
-"données du Webmail"
+msgid "E-mail Data: Includes the messages from the Inbox, IMAP Folders, and webmail data."
+msgstr "Données E-mail: Inclue les messages des boites aux lettres, dossiers IMAP et données du Webmail"
 
 #: src/js/pages/reseller/stats.vue:136 src/js/pages/user/stats/index.vue:44
 #: src/js/pages/reseller/stats.vue:50
@@ -3647,9 +3546,7 @@ msgstr "Configuration E-Mail"
 #: src/js/pages/user/backup/index.vue:51
 #: src/js/pages/user/backup/restore.vue:66
 msgid "E-mail Settings: Includes the filters and the catchall address."
-msgstr ""
-"Configuration E-mail: Inclue les filtres et les adresses de collectes "
-"(catchall)."
+msgstr "Configuration E-mail: Inclue les filtres et les adresses de collectes (catchall)."
 
 #: src/js/pages/user/email/accounts/index.vue:191
 #: src/js/pages/user/email/usage/index.vue:1
@@ -3792,12 +3689,8 @@ msgid "Empty Clipboard"
 msgstr ""
 
 #: src/js/pages/admin/settings.vue:88
-msgid ""
-"Enable Admin Demo. Login: <strong>%{login}</strong>; Password: <strong>"
-"%{password}</strong>"
-msgstr ""
-"Activer la démo Admin.  Nom d'Utilisateur <strong>%{login}</strong>; Mot de "
-"Passe: <strong>%{password}</strong>"
+msgid "Enable Admin Demo. Login: <strong>%{login}</strong>; Password: <strong>%{password}</strong>"
+msgstr "Activer la démo Admin.  Nom d'Utilisateur <strong>%{login}</strong>; Mot de Passe: <strong>%{password}</strong>"
 
 #: src/js/pages/admin/settings.vue:287
 msgid "Enable Automatic Lost Password Recovery"
@@ -3809,24 +3702,16 @@ msgid "Enable Open Basedir"
 msgstr "Activer Open Basedir"
 
 #: src/js/pages/admin/settings.vue:78
-msgid ""
-"Enable Reseller Demo. Login: <strong>%{login}</strong>; Password: <strong>"
-"%{password}</strong>"
-msgstr ""
-"Activer la démo Revendeur.  Nom d'Utilisateur <strong>%{login}</strong>; Mot "
-"de Passe: <strong>%{password}</strong>"
+msgid "Enable Reseller Demo. Login: <strong>%{login}</strong>; Password: <strong>%{password}</strong>"
+msgstr "Activer la démo Revendeur.  Nom d'Utilisateur <strong>%{login}</strong>; Mot de Passe: <strong>%{password}</strong>"
 
 #: src/js/pages/user/email/spamassassin.vue:334
 msgid "Enable SpamAssassin"
 msgstr "Activer Spamassassin"
 
 #: src/js/pages/admin/settings.vue:68
-msgid ""
-"Enable User Demo. Login: <strong>%{login}</strong>; Password: <strong>"
-"%{password}</strong>"
-msgstr ""
-"Activer la démo Utilisateur.  Nom d'Utilisateur <strong>%{login}</strong>; "
-"Mot de Passe: <strong>%{password}</strong>"
+msgid "Enable User Demo. Login: <strong>%{login}</strong>; Password: <strong>%{password}</strong>"
+msgstr "Activer la démo Utilisateur.  Nom d'Utilisateur <strong>%{login}</strong>; Mot de Passe: <strong>%{password}</strong>"
 
 #: src/js/components/local/stats/usage-table.vue:33
 #: src/js/pages/admin/dns/index.vue:56 src/js/pages/admin/dns/index.vue:70
@@ -4300,22 +4185,16 @@ msgid "FTP Account limit reached"
 msgstr "Limite de compte FTP atteinte"
 
 #: src/js/pages/user/ftp-accounts/create.vue:181
-msgid ""
-"FTP account with the root directory as the user name in the public_html "
-"directory"
+msgid "FTP account with the root directory as the user name in the public_html directory"
 msgstr ""
 
 #: src/js/pages/user/ftp-accounts/edit.vue:129
-msgid ""
-"FTP account with the root directory as the users name in the public_html "
-"directory"
+msgid "FTP account with the root directory as the users name in the public_html directory"
 msgstr ""
 
 #: src/js/pages/user/ftp-accounts/create.vue:173
 #: src/js/pages/user/ftp-accounts/edit.vue:121
-msgid ""
-"FTP account with the root directory in the domains home directory (one up "
-"from the public_html)"
+msgid "FTP account with the root directory in the domains home directory (one up from the public_html)"
 msgstr ""
 
 #: src/js/pages/user/ftp-accounts/create.vue:177
@@ -4550,9 +4429,7 @@ msgid "hours after last attempt."
 msgstr "heures depuis le dernier essaie."
 
 #: src/js/pages/user/login-keys/index.vue:111
-msgid ""
-"However, these passwords have attributes, such as the ability to expire, "
-"usage limit, and can be limited to certain functions."
+msgid "However, these passwords have attributes, such as the ability to expire, usage limit, and can be limited to certain functions."
 msgstr ""
 
 #: src/js/pages/admin/system-backup.vue:81
@@ -4591,23 +4468,12 @@ msgid "If no commands are checked (allow and deny), all commands are allowed."
 msgstr ""
 
 #: src/js/pages/user/email/usage/index.vue:176
-msgid ""
-"If SMTP authentication is used, this will show the login name used. Scripts "
-"will show the owner of the script. Can be considered accurate."
-msgstr ""
-"Si l'authentification SMTP est utilisée, ceci montrera le nom de connexion "
-"utilisé. Les scripts montreront le propriétaire du scripts. Ceci peut être "
-"considérer précis."
+msgid "If SMTP authentication is used, this will show the login name used. Scripts will show the owner of the script. Can be considered accurate."
+msgstr "Si l'authentification SMTP est utilisée, ceci montrera le nom de connexion utilisé. Les scripts montreront le propriétaire du scripts. Ceci peut être considérer précis."
 
 #: src/js/pages/user/email/usage/index.vue:186
-msgid ""
-"If the email was generated from a script, the path value will show the "
-"working directory the script was in. An email in the spool will have a path "
-"value of \"retry\" for each attempt."
-msgstr ""
-"Si l'e-mail a été produit par un script, la valeur du chemin montrera le "
-"répertoire courant où se trouve le script. Un e-mail en queue aura une "
-"valeur de chemin de \"nouvelle tentative\" pour chaque tentative."
+msgid "If the email was generated from a script, the path value will show the working directory the script was in. An email in the spool will have a path value of \"retry\" for each attempt."
+msgstr "Si l'e-mail a été produit par un script, la valeur du chemin montrera le répertoire courant où se trouve le script. Un e-mail en queue aura une valeur de chemin de \"nouvelle tentative\" pour chaque tentative."
 
 #: src/js/pages/admin/backups/restore.vue:186
 #: src/js/pages/reseller/backups/restore.vue:187
@@ -4615,19 +4481,11 @@ msgid "If the user already exists, this setting will have no effect."
 msgstr ""
 
 #: src/js/pages/user/email/usage/index.vue:181
-msgid ""
-"If this is set, it will show the IP that connect to the server. If no IP is "
-"set, then the email was sent vie a local script."
-msgstr ""
-"Si ceci est défini, cela montrera l'IP qui est connecté au serveur. Si "
-"aucune IP n'est défini, cela signifie que l'e-mail a été envoyé par un "
-"script local."
+msgid "If this is set, it will show the IP that connect to the server. If no IP is set, then the email was sent vie a local script."
+msgstr "Si ceci est défini, cela montrera l'IP qui est connecté au serveur. Si aucune IP n'est défini, cela signifie que l'e-mail a été envoyé par un script local."
 
 #: src/js/pages/admin/backups/restore.vue:193
-msgid ""
-"If using the IPs from within the backup, any IPs that don't exist on this "
-"system will not be included. If there no IPs to be used, a Reseller or Admin "
-"will be restored to the server IP."
+msgid "If using the IPs from within the backup, any IPs that don't exist on this system will not be included. If there no IPs to be used, a Reseller or Admin will be restored to the server IP."
 msgstr ""
 
 #: src/js/pages/admin/log-viewer/view.vue:51
@@ -4893,12 +4751,8 @@ msgid "IPs"
 msgstr "IPs"
 
 #: src/js/pages/user/email/spamassassin.vue:348
-msgid ""
-"It will free up some space, but will reset any learned progress SpamAssassin "
-"has previously made."
-msgstr ""
-"Cela permettra de libérer de l'espace, mais réinitialisera tout progrès "
-"acquis par SpamAssassin."
+msgid "It will free up some space, but will reset any learned progress SpamAssassin has previously made."
+msgstr "Cela permettra de libérer de l'espace, mais réinitialisera tout progrès acquis par SpamAssassin."
 
 #: src/js/pages/user/login-keys/create.vue:261
 #: src/js/pages/user/login-keys/modify.vue:225
@@ -5050,7 +4904,6 @@ msgstr ""
 msgid "Let's Encrypt in use. Auto Renewal in %{n} Days."
 msgstr "Let's Encrypt actif. Renouvellement automatique dans %{n} Days."
 
-
 #: src/js/pages/admin/license.vue:27
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:30
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:235
@@ -5133,24 +4986,16 @@ msgid "Linked IP(s)"
 msgstr "IP(s) Liée(s)"
 
 #: src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:30
-msgid ""
-"Linking an IP with apache will add the linked IP into the VirtualHost with "
-"the current IP."
-msgstr ""
-"Lier une adresse IP à Apache ajoutera l'adresse IP liée dans le VirtualHost "
-"avec l'adresse IP actuelle."
+msgid "Linking an IP with apache will add the linked IP into the VirtualHost with the current IP."
+msgstr "Lier une adresse IP à Apache ajoutera l'adresse IP liée dans le VirtualHost avec l'adresse IP actuelle."
 
 #: src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:22
 #, fuzzy
 #| msgid ""
 #| "Linking an IP with apache will add the linked IP into the VirtualHost "
 #| "with the current IP."
-msgid ""
-"Linking an IP with DNS will duplicate the A/AAAA records for the current IP "
-"with the linked IP."
-msgstr ""
-"Lier une adresse IP à Apache ajoutera l'adresse IP liée dans le VirtualHost "
-"avec l'adresse IP actuelle."
+msgid "Linking an IP with DNS will duplicate the A/AAAA records for the current IP with the linked IP."
+msgstr "Lier une adresse IP à Apache ajoutera l'adresse IP liée dans le VirtualHost avec l'adresse IP actuelle."
 
 #: src/js/pages/reseller/customize-skin/_components/change-default-menu-type-dialog.vue:7
 #: src/js/pages/reseller/customize-skin/_components/change-default-menu-type-dialog.vue:11
@@ -5469,8 +5314,7 @@ msgstr "Gestion des Forfaits Utilisateurs"
 
 #: src/js/components/local/auth-dialog.vue:13
 msgid "Manage your domains, databases & other server info."
-msgstr ""
-"Gérer vos domaines, bases de données et les autres informations du serveur."
+msgstr "Gérer vos domaines, bases de données et les autres informations du serveur."
 
 #: src/js/pages/admin/settings.vue:547
 msgid "Manual"
@@ -6077,12 +5921,8 @@ msgid "No widget selected"
 msgstr ""
 
 #: src/js/pages/user/email/spamassassin.vue:115
-msgid ""
-"No, do not block high scoring spam. Use only the threshold in the previous "
-"section."
-msgstr ""
-"Non, ne bloquez pas les spams à haut score. Utilisez uniquement le seuil "
-"dans la section précédente."
+msgid "No, do not block high scoring spam. Use only the threshold in the previous section."
+msgstr "Non, ne bloquez pas les spams à haut score. Utilisez uniquement le seuil dans la section précédente."
 
 #: src/js/pages/user/email/spamassassin.vue:137
 msgid "No, leave the subject unchanged."
@@ -6102,14 +5942,11 @@ msgid "Normal"
 msgstr ""
 
 #: src/js/pages/user/email/spamassassin.vue:150
-msgid ""
-"Not using attachments will leave the spam unaltered except for spam headers."
+msgid "Not using attachments will leave the spam unaltered except for spam headers."
 msgstr ""
 
 #: src/js/pages/user/login-keys/index.vue:112
-msgid ""
-"Note that the Login Keys are one-way encrypted, just like passwords. They "
-"cannot be retrieved if you forget them."
+msgid "Note that the Login Keys are one-way encrypted, just like passwords. They cannot be retrieved if you forget them."
 msgstr ""
 
 #: src/js/pages/user/cronjobs/create.vue:121
@@ -6119,25 +5956,15 @@ msgstr ""
 
 #: src/js/pages/admin/backups/restore.vue:183
 #: src/js/pages/reseller/backups/restore.vue:182
-msgid ""
-"Note that you must set the IP to be shared if you want to add multiple users "
-"to it. If you select a non-shared IP, you can only restore 1 user to it."
+msgid "Note that you must set the IP to be shared if you want to add multiple users to it. If you select a non-shared IP, you can only restore 1 user to it."
 msgstr ""
 
 #: src/js/pages/user/email/usage/index.vue:66
-msgid ""
-"Note: For older exim.pl files before version 13, each delivery attempt is "
-"counted, including retries."
-msgstr ""
-"Remarque: Pour les fichiers exim.pl antérieur à la version 13, chaque "
-"tentatives est comptées, y compris les nouvelles tentatives."
+msgid "Note: For older exim.pl files before version 13, each delivery attempt is counted, including retries."
+msgstr "Remarque: Pour les fichiers exim.pl antérieur à la version 13, chaque tentatives est comptées, y compris les nouvelles tentatives."
 
 #: src/js/pages/user/email/filters.vue:100
-msgid ""
-"Note: the word filter matches partial words. For example, if you block the "
-"word \"put\" and the email contains \"computer\", then the email will be "
-"blocked. If you expect it to be its own word, then block \" put \", with "
-"spaces beside it to avoid partial matching."
+msgid "Note: the word filter matches partial words. For example, if you block the word \"put\" and the email contains \"computer\", then the email will be blocked. If you expect it to be its own word, then block \" put \", with spaces beside it to avoid partial matching."
 msgstr ""
 
 #: src/js/components/local/filemanager/search.vue:19
@@ -6165,27 +5992,19 @@ msgid "Notify Admins after an IP has"
 msgstr ""
 
 #: src/js/pages/admin/settings.vue:33
-msgid ""
-"Notify all admins whenever a service goes down using the messaging/ticket "
-"system."
+msgid "Notify all admins whenever a service goes down using the messaging/ticket system."
 msgstr ""
 
 #: src/js/pages/user/security-questions.vue:105
-msgid ""
-"Notify me on all failed question attempts. Disabling this option will still "
-"notify you after %{ count } failed attempts."
+msgid "Notify me on all failed question attempts. Disabling this option will still notify you after %{ count } failed attempts."
 msgstr ""
 
 #: src/js/pages/user/two-step-auth.vue:162
-msgid ""
-"Notify me on all incorrect codes entries. Disabling this option will still "
-"notify you after 5 failed attempts."
+msgid "Notify me on all incorrect codes entries. Disabling this option will still notify you after 5 failed attempts."
 msgstr ""
 
 #: src/js/components/local/reseller-skin-warning-dialog.vue:7
-msgid ""
-"Notifying you that if you 'Login As' this account, you might be using a skin "
-"who's code under their control."
+msgid "Notifying you that if you 'Login As' this account, you might be using a skin who's code under their control."
 msgstr ""
 
 #: src/js/pages/user/login-keys/create.vue:271
@@ -6283,9 +6102,7 @@ msgid "on partition"
 msgstr ""
 
 #: src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:40
-msgid ""
-"On restore, check for domain conflict in domainowners file, rather than the "
-"named.conf, or remote named.conf files."
+msgid "On restore, check for domain conflict in domainowners file, rather than the named.conf, or remote named.conf files."
 msgstr ""
 
 #: src/js/pages/reseller/backups/schedule.vue:99
@@ -6293,8 +6110,7 @@ msgid "On Schedule"
 msgstr ""
 
 #: src/js/pages/user/login-keys/create.vue:162
-msgid ""
-"One IP per line. <br>\n"
+msgid "One IP per line. <br>\n"
 "Ranges allowed: 1.2.3.4-5 <br>\n"
 "Leave blank to allow any IP."
 msgstr ""
@@ -6330,7 +6146,6 @@ msgstr "Open BaseDir"
 #: src/js/components/global/ui/ui-button-dropdown.vue:6
 msgid "Open dropdown"
 msgstr "Ouvrir la liste déroulante"
-
 
 #: src/js/pages/user/database/index.vue:49
 #: src/js/pages/user/database/index.vue:66
@@ -6378,8 +6193,7 @@ msgid "Oversell"
 msgstr ""
 
 #: src/js/pages/admin/settings.vue:40
-msgid ""
-"Overselling: Allow Resellers to sell More features than they are allowed."
+msgid "Overselling: Allow Resellers to sell More features than they are allowed."
 msgstr ""
 
 #: src/js/components/global/app/app-skin-options.vue:68
@@ -6842,9 +6656,7 @@ msgstr "Question"
 
 #: src/js/pages/admin/mail-queue/index.vue:15
 #: src/js/pages/user/dashboard/_components/widgets/mail-queue.vue:43
-msgid ""
-"Queue size (%{ queue_size }) is larger than the maximum value "
-"(%{ max_load_size}) and may timeout."
+msgid "Queue size (%{ queue_size }) is larger than the maximum value (%{ max_load_size}) and may timeout."
 msgstr ""
 
 #: src/js/pages/user/email/_components/modify-account-quota-dialog.vue:33
@@ -6927,8 +6739,7 @@ msgstr[1] ""
 
 #: src/js/pages/user/email/spamassassin.vue:29
 msgid "Redirect it to the catch-all spam folder in your main IMAP account"
-msgstr ""
-"Rediriger dans le dossier \"catch-all Spam\" de votre compte IMAP principal"
+msgstr "Rediriger dans le dossier \"catch-all Spam\" de votre compte IMAP principal"
 
 #: src/js/pages/user/redirects.vue:84
 msgid "Redirect Type"
@@ -7125,11 +6936,8 @@ msgid "Requested page doesn't belong to your authority level"
 msgstr ""
 
 #: src/js/pages/user/security-questions.vue:91
-msgid ""
-"Require valid answers to the Security Questions for login on this account"
-msgstr ""
-"Une réponse valide est requise pour les questions de sécurités pour ce "
-"connecter à ce compte"
+msgid "Require valid answers to the Security Questions for login on this account"
+msgstr "Une réponse valide est requise pour les questions de sécurités pour ce connecter à ce compte"
 
 #: src/js/pages/user/two-step-auth.vue:146
 msgid "Require valid Two-Step Authentication Code to login to this account."
@@ -7530,9 +7338,7 @@ msgid "Scratch Codes"
 msgstr ""
 
 #: src/js/pages/user/two-step-auth.vue:201
-msgid ""
-"Scratch Codes are one-time use codes in case you don't have your phone, so "
-"keep them safe."
+msgid "Scratch Codes are one-time use codes in case you don't have your phone, so keep them safe."
 msgstr ""
 
 #: src/js/pages/user/filemanager/index.vue:88
@@ -8350,37 +8156,23 @@ msgstr ""
 
 #: src/js/components/global/input/input-dropzone.vue:207
 msgid "Some files was not added due to max files size limit"
-msgstr ""
-"Certains fichiers n'ont pas été ajoutés en raison de la taille maximale des "
-"fichiers"
+msgstr "Certains fichiers n'ont pas été ajoutés en raison de la taille maximale des fichiers"
 
 #: src/js/pages/404.vue:20
 msgid "Sorry, but the page you are looking for can't be found."
 msgstr "Désolé, mais la page que vous recherchez est introuvable."
 
 #: src/js/pages/user/backup/restore.vue:21
-msgid ""
-"Sorry, it seems that there are no backups created yet. Would you like to "
-"create one?"
-msgstr ""
-"Désolé, il semble qu'aucune sauvegarde n'ait encore été créée. Voulez-vous "
-"en créer une?"
+msgid "Sorry, it seems that there are no backups created yet. Would you like to create one?"
+msgstr "Désolé, il semble qu'aucune sauvegarde n'ait encore été créée. Voulez-vous en créer une?"
 
 #: src/js/pages/admin/users/resellers/create.vue:131
-msgid ""
-"Sorry, it seems that there are no reseller packages created yet. Would you "
-"like to create one?"
-msgstr ""
-"Désolé, il semble que vous n'avez pas créer aucun forfait revendeur. Voulez-"
-"vous en créer un?"
+msgid "Sorry, it seems that there are no reseller packages created yet. Would you like to create one?"
+msgstr "Désolé, il semble que vous n'avez pas créer aucun forfait revendeur. Voulez-vous en créer un?"
 
 #: src/js/pages/reseller/users/create.vue:116
-msgid ""
-"Sorry, it seems that there are no user packages created yet. Would you like "
-"to create one?"
-msgstr ""
-"Désolé, il semble que vous n'avez pas créer aucun forfait utilisateur. "
-"Voulez-vous en créer un?"
+msgid "Sorry, it seems that there are no user packages created yet. Would you like to create one?"
+msgstr "Désolé, il semble que vous n'avez pas créer aucun forfait utilisateur. Voulez-vous en créer un?"
 
 #: src/js/components/global/ui/ui-table.vue:316
 #: src/js/components/local/r-table/r-table-columns.vue:347
@@ -8399,10 +8191,7 @@ msgid "Source Domain"
 msgstr ""
 
 #: src/js/pages/user/_components/create-domain-pointer-dialog.vue:63
-msgid ""
-"Source domain name has been automatically converted to punycode format. "
-"Punycode is used to encode internationalized domain names (IDN) by "
-"converting Unicode characters to ASCII."
+msgid "Source domain name has been automatically converted to punycode format. Punycode is used to encode internationalized domain names (IDN) by converting Unicode characters to ASCII."
 msgstr ""
 
 #: src/js/pages/user/_components/create-domain-pointer-dialog.vue:62
@@ -8672,10 +8461,7 @@ msgid "Subdomain Name"
 msgstr "Nom du sous-domaine"
 
 #: src/js/pages/user/subdomains/index.vue:161
-msgid ""
-"Subdomain name has been automatically converted to punycode format. Punycode "
-"is used to encode internationalized domain names (IDN) by converting Unicode "
-"characters to ASCII."
+msgid "Subdomain name has been automatically converted to punycode format. Punycode is used to encode internationalized domain names (IDN) by converting Unicode characters to ASCII."
 msgstr ""
 
 #: src/js/pages/user/subdomains/index.vue:160
@@ -8706,9 +8492,7 @@ msgstr "Sous-domaines"
 #: src/js/pages/user/backup/index.vue:29
 #: src/js/pages/user/backup/restore.vue:44
 msgid "Subdomains Lists: Backs up the list of subdomains for each domain"
-msgstr ""
-"Listes des sous-domaine: Sauvegarde la liste des sous-domaine pour chaque "
-"domaine"
+msgstr "Listes des sous-domaine: Sauvegarde la liste des sous-domaine pour chaque domaine"
 
 #: src/js/components/local/edit-admin-message-dialog.vue:6
 #: src/js/components/local/edit-reseller-message-dialog.vue:10
@@ -8812,9 +8596,7 @@ msgid "Suspend / Unsuspend"
 msgstr ""
 
 #: src/js/pages/admin/settings.vue:47
-msgid ""
-"Suspend a Reseller and their Users when the Reseller goes over their "
-"Bandwidth limit."
+msgid "Suspend a Reseller and their Users when the Reseller goes over their Bandwidth limit."
 msgstr ""
 
 #: src/js/pages/user/stats/index.vue:134
@@ -8966,26 +8748,15 @@ msgid "Thaw"
 msgstr ""
 
 #: src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:38
-msgid ""
-"The \"Apply to existing Domains\" option will trigger the httpd.conf "
-"rewrites and insert A/AAAA records into the local DNS zones. Disabling this "
-"checkbox won't touch the DNS or httpd.conf files, but future httpd.cont "
-"rewrites will have the linked IP added."
+msgid "The \"Apply to existing Domains\" option will trigger the httpd.conf rewrites and insert A/AAAA records into the local DNS zones. Disabling this checkbox won't touch the DNS or httpd.conf files, but future httpd.cont rewrites will have the linked IP added."
 msgstr ""
 
 #: src/js/pages/user/email/usage/index.vue:171
-msgid ""
-"The \"From\" value set in the email header. This value should not be "
-"considered as accurate, as a sender can specify any value they wish."
-msgstr ""
-"La valeur \"De\" défini dans l'entête de l'e-mail. Cette valeur ne devrait "
-"pas être considérée comme précise, un expéditeur peut spécifier la valeur "
-"qu'ils souhaitent"
+msgid "The \"From\" value set in the email header. This value should not be considered as accurate, as a sender can specify any value they wish."
+msgstr "La valeur \"De\" défini dans l'entête de l'e-mail. Cette valeur ne devrait pas être considérée comme précise, un expéditeur peut spécifier la valeur qu'ils souhaitent"
 
 #: src/js/pages/user/login-keys/create.vue:194
-msgid ""
-"The ALL_USER type commands are replaced with all commands the User is "
-"allowed, at that level."
+msgid "The ALL_USER type commands are replaced with all commands the User is allowed, at that level."
 msgstr ""
 
 #: src/js/pages/user/email/catch-all.vue:41
@@ -8998,9 +8769,7 @@ msgstr ""
 
 #: src/js/pages/user/login-keys/index.vue:113
 msgid "The login username used will still be your normal DA username."
-msgstr ""
-"Le nom d'utilisateur de connexion utilisé sera toujours votre nom "
-"d'utilisateur normale pour DirectAdmin."
+msgstr "Le nom d'utilisateur de connexion utilisé sera toujours votre nom d'utilisateur normale pour DirectAdmin."
 
 #: src/js/pages/user/login-keys/create.vue:192
 msgid "The priorities for allow and deny are"
@@ -9031,19 +8800,8 @@ msgid "This button will remove data learned by SpamAssassin."
 msgstr ""
 
 #: src/js/pages/user/email/catch-all.vue:12
-msgid ""
-"This e-mail address will catch all improperly addressed mail (i.e. to a user "
-"that doesn't exist) to your site. This address may be your "
-"defaultusername@yourdomain.com, or any other POP3 account you have created."
-msgstr ""
-"Cette adresse e-mail attrapera tout le courrier incorrectement adressé "
-"(c'est-à-dire à un utilisateur qui n'existe pas) à votre domaine. Cette "
-"adresse peut être votre defaultusername@yourdomain.com, ou un autre compte "
-"POP3 que vous avez créé."
-
-#: src/js/modules/router.js:78
-msgid "This feature has been disabled. Please, contact your administrator."
-msgstr ""
+msgid "This e-mail address will catch all improperly addressed mail (i.e. to a user that doesn't exist) to your site. This address may be your defaultusername@yourdomain.com, or any other POP3 account you have created."
+msgstr "Cette adresse e-mail attrapera tout le courrier incorrectement adressé (c'est-à-dire à un utilisateur qui n'existe pas) à votre domaine. Cette adresse peut être votre defaultusername@yourdomain.com, ou un autre compte POP3 que vous avez créé."
 
 #: src/js/modules/router.js:78
 msgid "This feature has been disabled. Please, contact your administrator."
@@ -9059,9 +8817,7 @@ msgid "This file is tagged as secure. Root password required to edit"
 msgstr ""
 
 #: src/js/pages/user/email/spamassassin.vue:252
-msgid ""
-"This is the list of e-mail address that will be allowed through, regardless "
-"of content."
+msgid "This is the list of e-mail address that will be allowed through, regardless of content."
 msgstr "Ceci est la liste des E-mail autorisés, indépendamment du contenu."
 
 #: src/js/pages/user/email/spamassassin.vue:169
@@ -9069,10 +8825,7 @@ msgid "This is the list of e-mail address that will be blocked."
 msgstr "Ceci est la liste des E-mails qui seront bloqués."
 
 #: src/js/pages/user/email/catch-all.vue:28
-msgid ""
-"This is the recommended option for the catch-all setting. Catch-all's will "
-"increase the server load due to spam, so having them disable is highly "
-"recommended unless you absolutely need the feature on."
+msgid "This is the recommended option for the catch-all setting. Catch-all's will increase the server load due to spam, so having them disable is highly recommended unless you absolutely need the feature on."
 msgstr ""
 
 #: src/js/pages/user/email/usage/index.vue:39
@@ -9086,18 +8839,12 @@ msgid "This Month (excluding today)"
 msgstr "Ce Mois (excluant aujoud'hui)"
 
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:102
-msgid ""
-"This Portioned License is a license that has a true expiry at a date further "
-"into the future than is set in the physical key.\n"
-"The license will automatically update to the next time period when the key’s "
-"expiry nears."
+msgid "This Portioned License is a license that has a true expiry at a date further into the future than is set in the physical key.\n"
+"The license will automatically update to the next time period when the key’s expiry nears."
 msgstr ""
 
 #: src/js/pages/admin/license.vue:70
-msgid ""
-"This Portioned License is a license that has a true expiry at a date further "
-"into the future than is set in the physical key. The license will "
-"automatically update to the next time period when the key’s expiry nears."
+msgid "This Portioned License is a license that has a true expiry at a date further into the future than is set in the physical key. The license will automatically update to the next time period when the key’s expiry nears."
 msgstr ""
 
 #: src/js/components/local/inputs/input-week-day.vue:27
@@ -9144,11 +8891,8 @@ msgid "Timeout (seconds)"
 msgstr "Timeout (secondes)"
 
 #: src/js/pages/user/ssl/_components/certificate-request-dialog.vue:15
-msgid ""
-"To use it, paste the Signed Certificate on \"Paste a pre-generated "
-"certificate and key\" tab and click \"Save\"."
+msgid "To use it, paste the Signed Certificate on \"Paste a pre-generated certificate and key\" tab and click \"Save\"."
 msgstr "Pour l'utiliser, collez le certificat signé sur l'onglet \"Coller un  certificat et une clé pré-générés \" et le clic \"Sauvegarder\"."
-
 
 #: src/js/components/local/create-message-dialog.vue:7
 #: src/js/components/local/send-user-message-dialog.vue:7
@@ -9497,12 +9241,8 @@ msgid "Use a directory named private_html"
 msgstr "Utiliser un répertoire nommé private_html"
 
 #: src/js/pages/user/domains/_components/private-html-dialog.vue:26
-msgid ""
-"Use a symbolink link from private_html to public_html - allows for same data "
-"in http and https"
-msgstr ""
-"Utiliser un lien de private_html vers public_html - permet d'avoir les mêmes "
-"données en http et https"
+msgid "Use a symbolink link from private_html to public_html - allows for same data in http and https"
+msgstr "Utiliser un lien de private_html vers public_html - permet d'avoir les mêmes données en http et https"
 
 #: src/js/pages/user/email/spamassassin.vue:158
 msgid "Use attachments."
@@ -9535,12 +9275,8 @@ msgid "Use the | charter for separation."
 msgstr "Utilisez le | pour la séparation."
 
 #: src/js/pages/admin/settings.vue:61
-msgid ""
-"Use the automatic updater to automatically get the latest version of "
-"DirectAdmin."
-msgstr ""
-"Utilisez les mises à jour automatiques pour obtenir la dernière version de "
-"DirectAdmin."
+msgid "Use the automatic updater to automatically get the latest version of DirectAdmin."
+msgstr "Utilisez les mises à jour automatiques pour obtenir la dernière version de DirectAdmin."
 
 #: src/js/pages/admin/backups/restore.vue:146
 msgid "Use the IP"
@@ -9555,12 +9291,8 @@ msgid "Use the server's certificate"
 msgstr "Utiliser le certificat du serveur"
 
 #: src/js/pages/user/dns/mx-records.vue:27
-msgid ""
-"Use this server to handle my e-mails. If not, change the MX records and "
-"uncheck this option."
-msgstr ""
-"Utilisez ce serveur pour gérer mes e-mails. Si ce n'est pas le cas, modifiez "
-"les enregistrements MX et décochez cette option."
+msgid "Use this server to handle my e-mails. If not, change the MX records and uncheck this option."
+msgstr "Utilisez ce serveur pour gérer mes e-mails. Si ce n'est pas le cas, modifiez les enregistrements MX et décochez cette option."
 
 #: src/js/pages/admin/stats.vue:232 src/js/pages/admin/stats.vue:239
 msgid "Used"
@@ -9704,10 +9436,7 @@ msgid "Username"
 msgstr "Nom d'Utilisateur"
 
 #: src/js/pages/user/email/_components/modify-account-dialog.vue:111
-msgid ""
-"Username has been automatically converted to punycode format. Punycode is "
-"used to encode internationalized domain names (IDN) by converting Unicode "
-"characters to ASCII."
+msgid "Username has been automatically converted to punycode format. Punycode is used to encode internationalized domain names (IDN) by converting Unicode characters to ASCII."
 msgstr ""
 
 #: src/js/pages/user/email/_components/modify-account-dialog.vue:110
@@ -9829,12 +9558,8 @@ msgid "Valid Until"
 msgstr "Valide jusqu'au"
 
 #: src/js/pages/user/cronjobs/index.vue:79
-msgid ""
-"Valid values are an E-mail address, your DA username: admin, or a blank "
-"field to prevent any e-mail."
-msgstr ""
-"Les valeurs valides sont une adresse électronique, votre nom d'utilisateur "
-"DA:  admin ou un champ vide pour empêcher tout courrier électronique."
+msgid "Valid values are an E-mail address, your DA username: admin, or a blank field to prevent any e-mail."
+msgstr "Les valeurs valides sont une adresse électronique, votre nom d'utilisateur DA:  admin ou un champ vide pour empêcher tout courrier électronique."
 
 #: src/js/components/local/dns/add-record-dialog.vue:71
 #: src/js/components/local/dns/edit-record-dialog.vue:68
@@ -9972,10 +9697,6 @@ msgstr "Voir les rapports de statistiques"
 msgid "View Sub-Domain Log"
 msgstr "Voir les Journaux pour ce sous-domaine"
 
-#: src/js/pages/user/subdomains/logs.vue:1
-msgid "View Sub-Domain Log"
-msgstr "Voir les Journaux pour ce sous-domaine"
-
 #: src/js/pages/user/subdomains/stats.vue:1
 msgid "View Sub-Domain Stats"
 msgstr "Voir les statistique du sous-domaine"
@@ -10006,9 +9727,7 @@ msgid "Warn Admin's at"
 msgstr ""
 
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:102
-msgid ""
-"We have already reconnected %{ limit } times. Refresh the page if you want "
-"to try again."
+msgid "We have already reconnected %{ limit } times. Refresh the page if you want to try again."
 msgstr ""
 
 #: src/js/pages/user/stats/domain-statistics.vue:11
@@ -10075,16 +9794,10 @@ msgid "When"
 msgstr "Quand"
 
 #: src/js/pages/admin/backups/restore.vue:189
-msgid ""
-"When restoring a Reseller or Admin, if you select an IP from the list, that "
-"Reseller will only receive the single IP.\n"
+msgid "When restoring a Reseller or Admin, if you select an IP from the list, that Reseller will only receive the single IP.\n"
 "You would need to add extra IPs to that accounts IP list after he's created."
-msgstr ""
-"Lors de la restauration d'un revendeur ou d'un administrateur, si vous "
-"sélectionnez une adresse IP dans la liste, ce revendeur ne recevra qu'une "
-"seule adresse IP.\n"
-"Vous devrez ajouter des adresses IP supplémentaires à cette liste d'adresses "
-"IP après la création du compte."
+msgstr "Lors de la restauration d'un revendeur ou d'un administrateur, si vous sélectionnez une adresse IP dans la liste, ce revendeur ne recevra qu'une seule adresse IP.\n"
+"Vous devrez ajouter des adresses IP supplémentaires à cette liste d'adresses IP après la création du compte."
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:3
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:2
@@ -10191,9 +9904,7 @@ msgstr "Vous avez déjà cette IP sur notre système."
 
 #: src/js/pages/user/dashboard/_components/add-widget-dialog.vue:12
 msgid "You are about to add the following widgets to your dashboard:"
-msgstr ""
-"Vous êtes sur le point d'ajouter les widgets suivants à votre tableau de "
-"bord:"
+msgstr "Vous êtes sur le point d'ajouter les widgets suivants à votre tableau de bord:"
 
 #: src/js/components/global/app/app-breadcrumbs.vue:4
 msgid "You are here:"
@@ -10201,14 +9912,8 @@ msgstr "Vous êtes ici:"
 
 #: src/js/pages/user/cronjobs/create.vue:120
 #: src/js/pages/user/cronjobs/index.vue:116
-msgid ""
-"You can combine them to create a more precise schedule. e.g. "
-"1,5,11-15,30-59/2 (minutes 1, 5, 11 to 15 and every 2nd minute between 30 "
-"and 59)"
-msgstr ""
-"Vous pouvez les combiner pour créer un calendrier plus précis. ex: "
-"1,5,11-15,30-59/2 (minutes 1, 5, 11 à 15 et toutes les 2 minutes entre 30 et "
-"59)"
+msgid "You can combine them to create a more precise schedule. e.g. 1,5,11-15,30-59/2 (minutes 1, 5, 11 to 15 and every 2nd minute between 30 and 59)"
+msgstr "Vous pouvez les combiner pour créer un calendrier plus précis. ex: 1,5,11-15,30-59/2 (minutes 1, 5, 11 à 15 et toutes les 2 minutes entre 30 et 59)"
 
 #: src/js/pages/user/ssl/index.vue:81
 msgid "You can enable it here"
@@ -10216,36 +9921,22 @@ msgstr "Vous pouvez l'activer ici"
 
 #: src/js/pages/user/cronjobs/create.vue:117
 #: src/js/pages/user/cronjobs/index.vue:113
-msgid ""
-"You can specify exact times using commas to separate them. e.g. 1,2,3 "
-"(minutes 1,2 and 3)"
-msgstr ""
-"Vous pouvez spécifier des heures exactes en utilisant des virgules pour les "
-"séparer. ex: 1,2,3 (minutes 1,2 et 3)"
+msgid "You can specify exact times using commas to separate them. e.g. 1,2,3 (minutes 1,2 and 3)"
+msgstr "Vous pouvez spécifier des heures exactes en utilisant des virgules pour les séparer. ex: 1,2,3 (minutes 1,2 et 3)"
 
 #: src/js/pages/user/cronjobs/create.vue:119
 #: src/js/pages/user/cronjobs/index.vue:115
-msgid ""
-"You can specify intervals using a star and a forward slash. e.g. */2 (every "
-"2nd minute)"
-msgstr ""
-"Vous pouvez spécifier des intervalles en utilisant une étoile et une barre "
-"oblique. ex: */2 (toutes les 2 minutes)"
+msgid "You can specify intervals using a star and a forward slash. e.g. */2 (every 2nd minute)"
+msgstr "Vous pouvez spécifier des intervalles en utilisant une étoile et une barre oblique. ex: */2 (toutes les 2 minutes)"
 
 #: src/js/pages/user/cronjobs/create.vue:118
 #: src/js/pages/user/cronjobs/index.vue:114
 msgid "You can specify spans using a dash. e.g. 5-7 (minutes 5 to 7)"
-msgstr ""
-"Vous pouvez spécifier des portées en utilisant un tiret. ex: 5-7 (minutes 5 "
-"à 7)"
+msgstr "Vous pouvez spécifier des portées en utilisant un tiret. ex: 5-7 (minutes 5 à 7)"
 
 #: src/js/pages/user/domains/index.vue:196
-msgid ""
-"You deleted all of your domains. You should create one for full "
-"functionality."
-msgstr ""
-"Vous avez supprimé tous vos domaines. Vous devriez en créer un pour obtenir "
-"toutes les fonctionnalités."
+msgid "You deleted all of your domains. You should create one for full functionality."
+msgstr "Vous avez supprimé tous vos domaines. Vous devriez en créer un pour obtenir toutes les fonctionnalités."
 
 #: src/js/components/global/App.vue:178
 msgid "You have %{ n } unread ticket"
@@ -10254,16 +9945,12 @@ msgstr[0] "Vous avez %{ n } ticket non lu"
 msgstr[1] "Vous avez %{n} tickets non lus"
 
 #: src/js/pages/user/ssl/_components/certificate-request-dialog.vue:13
-msgid ""
-"You will send this text to a Certificate Authority and they will give you a "
-"Signed Certificate."
+msgid "You will send this text to a Certificate Authority and they will give you a Signed Certificate."
 msgstr ""
 
 #: src/js/pages/user/database/index.vue:125
 msgid "You won't be able to login to phpMyAdmin until you create a database"
-msgstr ""
-"Il sera impossible de vous connecter à phpMyAdmin avant d'avoir créé une "
-"base de données"
+msgstr "Il sera impossible de vous connecter à phpMyAdmin avant d'avoir créé une base de données"
 
 #: src/js/modules/widgets.js:24
 msgid "Your Account"
@@ -10304,116 +9991,3 @@ msgstr "DD.MM.YYYY, HH:mm:ss"
 msgid "format:date"
 msgstr "format:date"
 
-#~ msgid "(Ignored if not allowed)"
-#~ msgstr "(Ignoré si pas autorisé)"
-
-#~ msgid "{{ cpus.length }}"
-#~ msgstr "{{ cpus.length }}"
-
-#~ msgid "{{ row.label }}"
-#~ msgstr "{{ row.label }}"
-
-#~ msgid "# of SubDomains"
-#~ msgstr "# de Sous-Domaines"
-
-#~ msgid "Active domains"
-#~ msgstr "Domaines actifs"
-
-#~ msgid "Active sub-domains"
-#~ msgstr "Sous-domaines actifs"
-
-#~ msgid "Add New Access Host"
-#~ msgstr "Ajouter un nouvel hôte d'accès"
-
-#~ msgid "Anonymous Login"
-#~ msgstr "Connexion Anonyme"
-
-#~ msgid "AutoResponders"
-#~ msgstr "Auto-Répondeurs"
-
-#~ msgid "Bandwidth & Disk Usage"
-#~ msgstr "Trafic & Stockage"
-
-#~ msgid "Cancel"
-#~ msgstr "Annuler"
-
-#~ msgid "Cronjobs"
-#~ msgstr "Tâches Cron"
-
-#~ msgid "day"
-#~ msgid_plural "days"
-#~ msgstr[0] "jour"
-#~ msgstr[1] "jours"
-
-#~ msgid "Day Of Month"
-#~ msgstr "Jour Du Mois"
-
-#~ msgid "eg: Member's Area"
-#~ msgstr "ex: Membres Seulement"
-
-#~ msgid "Ftp"
-#~ msgstr "Ftp"
-
-#~ msgid "Ftp Accounts"
-#~ msgstr "Comptes FTP"
-
-#~ msgid "Logo:"
-#~ msgstr "Logo:"
-
-#~ msgid "Nameserver 1"
-#~ msgstr "Serveur de Nom 1"
-
-#~ msgid "Nameserver 1:"
-#~ msgstr "Serveur de Nom 1:"
-
-#~ msgid "Nameserver 2"
-#~ msgstr "Serveur de Nom 2"
-
-#~ msgid "Nameserver 2:"
-#~ msgstr "Serveur de Nom 2:"
-
-#~ msgid "Nameservers"
-#~ msgstr "Serveurs de Noms"
-
-#~ msgid "New folder"
-#~ msgstr "Nouveau fichier"
-
-#~ msgid "No Protected directories"
-#~ msgstr "Aucun répertoires protégés"
-
-#~ msgid "now"
-#~ msgstr "maintenant"
-
-#~ msgid "Show domains that contain"
-#~ msgstr "Afficher les domaines contenant"
-
-#~ msgid "Show:"
-#~ msgstr "Voir:"
-
-#~ msgid "Spam Assassin"
-#~ msgstr "Spam Assassin"
-
-#~ msgid "Statistics for domain do not available yet"
-#~ msgstr "Les statistiques pour le domaine ne sont pas encore disponibles"
-
-#~ msgid "SubDomain:"
-#~ msgstr "Sous-domaine:"
-
-#~ msgid "Suspend At Limit"
-#~ msgstr "Suspendre à la Limite"
-
-#~ msgid "Tueday"
-#~ msgstr "Mardi"
-
-#~ msgid ""
-#~ "Use this server to handle my emails. If not, change the MX records and "
-#~ "uncheck this option."
-#~ msgstr ""
-#~ "Utilisez ce serveur pour gérer mes e-mails. Si ce n'est pas le cas, "
-#~ "modifiez les enregistrements MX et décochez cette option."
-
-#~ msgid "Vew Log"
-#~ msgstr "Voir les Jounaux"
-
-#~ msgid "View Error Log"
-#~ msgstr "Voir les Jounaux d'Erreurs"
