@@ -115,7 +115,7 @@ msgstr "& Utilisateurs"
 
 #: src/js/pages/admin/stats.vue:66
 msgid "&nbsp;Database Disk Usage"
-msgstr ""
+msgstr "&nbsp;Espace disque de la base de données"
 
 #: src/js/pages/admin/stats.vue:57
 msgid "&nbsp;E-mail Disk Usage"
@@ -1169,7 +1169,7 @@ msgstr[1] ""
 
 #: src/js/pages/admin/brute-force-monitor/_components/block-dialog.vue:9
 msgid "Are you sure you want to block selected %{ subject }?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir bloquer la sélection %{ subject }?"
 
 #: src/js/pages/admin/plugin-manager.vue:133
 msgid "Are you sure you want to deactivate “%{ name }” plugin?"
@@ -1185,7 +1185,7 @@ msgstr "Etes-vous sûr de vouloir supprimer le %{subject} sélectionné?"
 
 #: src/js/components/local/filemanager/dialogs/delete-files-dialog.vue:7
 msgid "Are you sure you want to delete selected files?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer les fichiers sélectionnés?"
 
 #: src/js/pages/reseller/users/_components/delete-user-dialog.vue:6
 msgid "Are you sure you want to delete user %{user}?"
@@ -1193,7 +1193,7 @@ msgstr "Êtes-vous sûr de vouloir supprimer l'utilisateur %{utilisateur}?"
 
 #: src/js/pages/user/protected-directories/view.vue:136
 msgid "Are you sure you want to disable protection for %{path}?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir désactiver la protection pour %{path}?"
 
 #: src/js/pages/admin/multi-server.vue:126
 msgid "Are you sure you want to disable this feature?"
@@ -1214,8 +1214,8 @@ msgstr ""
 #: src/js/pages/admin/brute-force-monitor/block_list.vue:56
 msgid "Are you sure you want to unblock selected IP?"
 msgid_plural "Are you sure you want to unblock selected IPs?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Êtes-vous sûr de vouloir débloquer l'IP sélectionné?"
+msgstr[1] "Êtes-vous sûr de vouloir débloquer les adresses IP sélectionnées?"
 
 #: src/js/pages/admin/plugin-manager.vue:145
 msgid "Are you sure you want to uninstall “%{ name }” plugin?"
@@ -1224,8 +1224,8 @@ msgstr "Êtes-vous sûr de vouloir désinstaller l'extension \"%{name}\"?"
 #: src/js/pages/admin/ip-manager/_dialogs/unlink-ip-dialog.vue:11
 msgid "Are you sure you want to unlink selected IP?"
 msgid_plural "Are you sure you want to unlink selected IPs?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Êtes-vous sûr de vouloir dissocier l'IP sélectionné?"
+msgstr[1] "Êtes-vous sûr de vouloir dissocier les adresses IP sélectionnées?"
 
 #: src/js/pages/admin/plugin-manager.vue:139
 msgid "Are you sure you want to update “%{ name }” plugin?"
@@ -1240,7 +1240,7 @@ msgstr ""
 
 #: src/js/pages/user/database/_dialogs/existing-db-user-dialog.vue:3
 msgid "Assign Existing User to %{database}"
-msgstr ""
+msgstr "Affecter un utilisateur existant à %{database}"
 
 #: src/js/pages/admin/ip-manager/_dialogs/assign-ip-dialog.vue:3
 msgid "Assign IP"
@@ -1343,6 +1343,8 @@ msgstr "Effacer tous les messages automatiquement"
 msgid ""
 "Automatically delete the key once the key expires, or all uses are used."
 msgstr ""
+"Supprimez automatiquement la clé une fois la clé arrivée à expiration ou "
+"toutes les utilisations sont utilisées."
 
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:37
 msgid "Automatically delete tickets"
@@ -1439,14 +1441,14 @@ msgstr "Sauvegarde"
 #: src/js/pages/admin/backups/restore.vue:244
 #: src/js/pages/reseller/backups/restore.vue:223
 msgid "Backup Decryption"
-msgstr ""
+msgstr "Décryptage de la sauvegarde"
 
 #: src/js/pages/admin/backups/modify.vue:252
 #: src/js/pages/admin/backups/schedule.vue:331
 #: src/js/pages/reseller/backups/modify.vue:222
 #: src/js/pages/reseller/backups/schedule.vue:259
 msgid "Backup Encryption"
-msgstr ""
+msgstr "Chiffrement de la sauvegarde"
 
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:2
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:16
@@ -1464,7 +1466,7 @@ msgstr "Répertoire de Sauvegarde"
 #: src/js/pages/reseller/backups/_components/settings-dialog.vue:3
 #: src/js/pages/reseller/backups/index.vue:95
 msgid "Backup/Restore Settings"
-msgstr ""
+msgstr "Paramètres de sauvegarde / restauration"
 
 #: src/js/components/local/history/table.vue:3
 #: src/js/components/local/stats/webalizer-table.vue:3
@@ -1619,7 +1621,7 @@ msgstr ""
 #: src/js/pages/user/email/accounts/index.vue:89
 #: src/js/pages/admin/brute-force-monitor/ip_list.vue:36
 msgid "Blocked"
-msgstr ""
+msgstr "Bloqué"
 
 #: src/js/pages/user/email/spamassassin.vue:182
 #: src/js/pages/user/email/spamassassin.vue:187
@@ -1629,7 +1631,7 @@ msgstr "E-mail bloqués"
 #: src/js/pages/user/dashboard/_components/widgets/email-pop.vue:32
 #: src/js/pages/user/email/accounts/index.vue:90
 msgid "Blocked Permanently"
-msgstr ""
+msgstr "Bloqué en permanence"
 
 #: src/js/pages/user/email/filters.vue:123
 msgid "Blocks out common adult phrases, words, and addresses"
@@ -3885,11 +3887,11 @@ msgstr "Journal des Erreurs"
 
 #: src/js/pages/user/dashboard/_components/widgets/list-users.vue:35
 msgid "Error reading File"
-msgstr ""
+msgstr "Erreur de lecture du fichier"
 
 #: src/js/pages/reseller/users/index.vue:79
 msgid "Error Reading File"
-msgstr ""
+msgstr "Erreur de lecture du fichier"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:76
 msgid "Event"
@@ -3985,17 +3987,17 @@ msgstr "Échec:"
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:3
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:9
 msgid "Failed Logins"
-msgstr ""
+msgstr "Échec des connexions"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:3
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:14
 msgid "Failed Logins: IP list"
-msgstr ""
+msgstr "Échec des connexions: Liste des IPs"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:3
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:19
 msgid "Failed logins: Usernames List"
-msgstr ""
+msgstr "Échec des connexions: liste des noms d'utilisateur"
 
 #: src/js/pages/reseller/users/_components/account-info.vue:137
 #: src/js/pages/reseller/users/_components/account-info.vue:139
@@ -4025,11 +4027,11 @@ msgstr "Février"
 
 #: src/js/components/global/ui/ui-form-element.vue:181
 msgid "Field too long"
-msgstr ""
+msgstr "Champ trop long"
 
 #: src/js/components/global/ui/ui-form-element.vue:180
 msgid "Field too short"
-msgstr ""
+msgstr "Champ trop court"
 
 #: src/js/pages/admin/file-editor.vue:12
 #: src/js/pages/admin/log-viewer/index.vue:12
@@ -4042,7 +4044,7 @@ msgstr "Fichier"
 
 #: src/js/pages/user/filemanager/_dialogs/file-exists-dialog.vue:9
 msgid "File %{ filename } already exists. Confirm overwrite?"
-msgstr ""
+msgstr "Le fichier %{ filename }  existe déjà. Confirmer le remplacement?"
 
 #: src/js/pages/admin/file-editor.vue:1 src/js/modules/navigation/admin.js:147
 msgid "File Editor"
@@ -4422,7 +4424,7 @@ msgstr ""
 
 #: src/js/modules/widgets.js:5
 msgid "Hardware details"
-msgstr ""
+msgstr "Détails du matériel"
 
 #: src/js/components/global/app/app-user-bar.vue:37
 msgid "Hello, %{ username }"
@@ -4448,11 +4450,11 @@ msgstr ""
 
 #: src/js/pages/user/disk-usage.vue:27
 msgid "Hide entries which are already included in the System Quotas"
-msgstr ""
+msgstr "Masquer les entrées déjà incluses dans les quotas système"
 
 #: src/js/pages/user/disk-usage.vue:24
 msgid "Hide entries which use 0 bytes"
-msgstr ""
+msgstr "Masquer les entrées qui utilisent 0 octet"
 
 #: src/js/components/local/notifications-center/notification-filter-button.vue:61
 msgid "Hide error messages"
@@ -4475,7 +4477,7 @@ msgstr "Masquer les messages de réussite"
 #: src/js/pages/reseller/message-users.vue:37
 #: src/js/pages/user/create-ticket.vue:18
 msgid "High"
-msgstr ""
+msgstr "Haut"
 
 #: src/js/pages/user/email/spamassassin.vue:58
 msgid "High Threshold (10.0)"
@@ -4530,6 +4532,9 @@ msgid ""
 "However, these passwords have attributes, such as the ability to expire, "
 "usage limit, and can be limited to certain functions."
 msgstr ""
+"Cependant, ces mots de passe ont des attributs, tels que la capacité à "
+"expirer, une limite d'utilisation et peuvent être limités à certaines "
+"fonctions."
 
 #: src/js/pages/admin/system-backup.vue:81
 msgid "HTTPD data"
@@ -4565,6 +4570,8 @@ msgstr ""
 #: src/js/pages/user/login-keys/create.vue:191
 msgid "If no commands are checked (allow and deny), all commands are allowed."
 msgstr ""
+"Si aucune commande n'est cochée (allow ou deny), toutes les commandes sont "
+"autorisées."
 
 #: src/js/pages/user/email/usage/index.vue:176
 msgid ""
@@ -4588,7 +4595,7 @@ msgstr ""
 #: src/js/pages/admin/backups/restore.vue:186
 #: src/js/pages/reseller/backups/restore.vue:187
 msgid "If the user already exists, this setting will have no effect."
-msgstr ""
+msgstr "Si l'utilisateur existe déjà, ce paramètre n'aura aucun effet."
 
 #: src/js/pages/user/email/usage/index.vue:181
 msgid ""
@@ -5012,7 +5019,7 @@ msgstr "Dernière connexion"
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:164
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:91
 msgid "Last Updated"
-msgstr ""
+msgstr "Dernière mise à jour"
 
 #: src/js/pages/admin/license.vue:187
 msgid "Latest version of DirectAdmin already installed"
@@ -6096,7 +6103,7 @@ msgstr ""
 #: src/js/pages/user/cronjobs/create.vue:121
 #: src/js/pages/user/cronjobs/index.vue:117
 msgid "Note that there are no spaces"
-msgstr ""
+msgstr "Notez qu'il n'y a pas d'espaces"
 
 #: src/js/pages/admin/backups/restore.vue:183
 #: src/js/pages/reseller/backups/restore.vue:182
@@ -6258,7 +6265,7 @@ msgstr "Ancien Mot de Passe"
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:30
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:43
 msgid "Older than"
-msgstr ""
+msgstr "Plus vieux que"
 
 #: src/js/pages/user/stats/index.vue:251 src/js/pages/user/stats/index.vue:256
 msgid "On"
@@ -6266,7 +6273,7 @@ msgstr "On"
 
 #: src/js/pages/admin/system-backup.vue:72
 msgid "on partition"
-msgstr ""
+msgstr "sur la partition"
 
 #: src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:40
 msgid ""
@@ -6360,12 +6367,14 @@ msgstr "Remplacer la valeur TTL"
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:67
 #: src/js/pages/reseller/stats.vue:312
 msgid "Oversell"
-msgstr ""
+msgstr "Survente"
 
 #: src/js/pages/admin/settings.vue:40
 msgid ""
 "Overselling: Allow Resellers to sell More features than they are allowed."
 msgstr ""
+"Survente: autorisez les revendeurs à vendre plus de fonctionnalités que "
+"celles autorisées."
 
 #: src/js/components/global/app/app-skin-options.vue:68
 msgid "Overusage highlight"
@@ -6377,7 +6386,7 @@ msgstr ""
 
 #: src/js/components/local/filemanager/dialogs/copy-file-dialog.vue:39
 msgid "Overwrite if already exists"
-msgstr ""
+msgstr "Ecraser si existe déjà"
 
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:28
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:16
@@ -7694,7 +7703,7 @@ msgstr ""
 
 #: src/js/pages/user/domains/_components/rename-domain-dialog.vue:13
 msgid "Select the domain to change and enter its new value"
-msgstr ""
+msgstr "Sélectionnez le domaine à modifier et entrez sa nouvelle valeur"
 
 #: src/js/pages/admin/users/move.vue:20
 msgid "Select the Users of"
@@ -9297,6 +9306,8 @@ msgstr[1] ""
 #: src/js/components/global/app/app-network-error.vue:10
 msgid "Unable to reach network. Please check your internet connection."
 msgstr ""
+"Impossible d'atteindre le réseau. S'il vous plait, vérifiez votre connexion "
+"internet."
 
 #: src/js/pages/admin/settings.vue:337 src/js/pages/admin/settings.vue:343
 msgid "unauthorized connections"
