@@ -3,7 +3,7 @@
 Traduction française pour le skin Evolution pour le panel adminstrateur DirectAdmin
 
 En date du 5 décembre 2018, la traduction est complète à 74%.
-De nouvelles traductions sont ajoutées chaque semaine.
+De nouvelles traductions sont ajoutées sur une base régulière.
 
 Tout le monde est libre participer et fournir des améliorations à la traduction française.
 
