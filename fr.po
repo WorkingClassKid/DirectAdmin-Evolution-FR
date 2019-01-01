@@ -922,11 +922,11 @@ msgstr "Alias"
 
 #: src/js/components/local/dns/dmarc-editor.vue:65
 msgid "Alignment mode for DKIM"
-msgstr ""
+msgstr "Mode d'alignement pour DKIM"
 
 #: src/js/components/local/dns/dmarc-editor.vue:76
 msgid "Alignment mode for SPF"
-msgstr ""
+msgstr "Mode d'alignement pour SPF"
 
 #: src/js/pages/admin/backups/modify.vue:345
 #: src/js/pages/admin/backups/schedule.vue:410
@@ -1022,6 +1022,8 @@ msgstr ""
 #: src/js/components/local/dns/spf-editor.vue:36
 msgid "Allow any hostname ending in %{ domain } to send email for this domain"
 msgstr ""
+"Autoriser tout nom d'hôte se terminant par %{ domain } d'envoyer des emails "
+"pour ce domaine"
 
 #: src/js/pages/user/security-questions.vue:98
 #: src/js/pages/user/two-step-auth.vue:154
@@ -1054,6 +1056,8 @@ msgstr ""
 #: src/js/components/local/dns/spf-editor.vue:16
 msgid "Allow servers listed as MX to send email for this domain"
 msgstr ""
+"Autoriser les serveurs répertoriés comme MX à envoyer un courrier "
+"électronique pour ce domaine"
 
 #: src/js/pages/admin/settings.vue:104
 msgid "Allow Users with less than"
@@ -1949,7 +1953,7 @@ msgstr "Modifier les autorisations"
 
 #: src/js/pages/reseller/users/_components/change-sent-emails-daily-limit-dialog.vue:3
 msgid "Change sent emails daily limit"
-msgstr "Changer la limite quotidienne d'envoi d'e-mail "
+msgstr "Changer la limite quotidienne d'envoi d'e-mail"
 
 #: src/js/pages/reseller/users/modify.vue:44
 msgid "Change the User's IP"
@@ -3100,7 +3104,7 @@ msgstr "Supprimer les données baysiennes"
 #: src/js/pages/user/handlers/index.vue:28
 #: src/js/pages/user/mimetypes/index.vue:31
 msgid "Delete Extension"
-msgstr "Supprimer l'extension "
+msgstr "Supprimer l'extension"
 
 #: src/js/components/local/filemanager/dialogs/delete-files-dialog.vue:3
 msgid "Delete Files"
@@ -3270,7 +3274,7 @@ msgstr "Compte DirectAdmin"
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:186
 msgid "DirectAdmin has not been restarted since the last license.key update!"
 msgstr ""
-"DirectAdmin n'a pas été redémarré depuis le dernier chargement de la licence"
+"DirectAdmin n'a pas été redémarré depuis le dernier chargement de la licence!"
 
 #: src/js/pages/admin/license.vue:109
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:114
@@ -3625,7 +3629,7 @@ msgstr "Domaines"
 #: src/js/pages/admin/backups/modify.vue:306
 #: src/js/pages/admin/backups/schedule.vue:371
 msgid "Domains Directory"
-msgstr ""
+msgstr "Répertoire des domaines"
 
 #: src/js/pages/user/backup/index.vue:22
 #: src/js/pages/user/backup/restore.vue:37
@@ -3938,7 +3942,7 @@ msgstr "Modifier la route"
 
 #: src/js/pages/user/ssh-keys/edit.vue:1
 msgid "Edit SSH Key"
-msgstr ""
+msgstr "Modifier la clé SSH"
 
 #: src/js/pages/reseller/edit-user-message.vue:1
 #: src/js/pages/reseller/users/_components/change-user-message.vue:9
@@ -4403,7 +4407,7 @@ msgstr "Forcer le chargement"
 #: src/js/pages/user/domains/edit.vue:80
 #: src/js/pages/user/ssl/_components/ssl-options-dialog.vue:6
 msgid "Force SSL with https redirect"
-msgstr ""
+msgstr "Forcer SSL avec un redirection vers https"
 
 #: src/js/pages/user/domains/edit.vue:250
 #, fuzzy
@@ -5440,7 +5444,7 @@ msgstr "Liste"
 
 #: src/js/modules/navigation/admin.js:18
 msgid "List Administrators"
-msgstr "Liste des Administrateurs"
+msgstr "Liste des administrateurs"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:50
 msgid "List filtered by IP: %{ ip }"
@@ -5448,7 +5452,7 @@ msgstr "Liste filtrée par IP: %{ IP }"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:56
 msgid "List filtered by User: %{ user } "
-msgstr "Liste filtrée par utilisateur: % { utilisateur }"
+msgstr "Liste filtrée par utilisateur: %{ utilisateur } "
 
 #: src/js/pages/user/email/lists/modify.vue:271
 msgid "List Information"
@@ -7240,7 +7244,7 @@ msgstr "Code QR"
 #: src/js/components/local/dns/dmarc-editor.vue:11
 #: src/js/components/local/dns/dmarc-editor.vue:24
 msgid "Quarantine"
-msgstr ""
+msgstr "Quarantaine"
 
 #: src/js/pages/user/_components/add-security-question-dialog.vue:19
 #: src/js/pages/user/_components/add-security-question-dialog.vue:32
@@ -8646,10 +8650,8 @@ msgstr "Devrait être un nom de domaine valide"
 
 #: src/js/components/local/dns/spf-editor.vue:82
 #: src/js/components/local/dns/spf-editor.vue:91
-#, fuzzy
-#| msgid "Should be valid domain"
 msgid "Should be valid domain."
-msgstr "Devrait être un domaine valide"
+msgstr "Devrait être un domaine valide."
 
 #: src/js/pages/admin/users/create-admin.vue:39
 #: src/js/pages/user/email/_components/filter-input.vue:28
@@ -10619,7 +10621,7 @@ msgstr "Afficher le journal d'utilisation pour %{domain}"
 #: src/js/pages/reseller/users/view.vue:1
 #: src/js/pages/reseller/users/view.vue:12
 msgid "View User"
-msgstr "Voir l'Utilisateur"
+msgstr "Voir l'utilisateur"
 
 #: src/js/pages/reseller/_dialogs/create-nameservers-dialog.vue:51
 msgid "Virtual"
