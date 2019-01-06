@@ -7660,10 +7660,8 @@ msgid "Reseller Tools"
 msgstr "Outils Revendeur"
 
 #: src/js/pages/admin/backups/schedule.vue:522
-#, fuzzy
-#| msgid "View Reseller: {{ user }}"
 msgid "Reseller: %{ creator }"
-msgstr "Voir Revendeur: {{ user }}"
+msgstr "Voir Revendeur: %{ creator }"
 
 #: src/js/pages/admin/users/resellers/index.vue:1
 #: src/js/pages/user/dashboard/_components/widgets/admin-stats.vue:29
