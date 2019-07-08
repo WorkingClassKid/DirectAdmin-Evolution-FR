@@ -10,7 +10,7 @@ Vous pouvez soumettre vos amélioration via un Pull requests ou bien nous pouvon
 
 Le fichier de traduction actuel est basé sur DirectAdmin: 1.573 
 
-Le fichier dictionary.pot et fr.po est basé sur la version du skin Evolution: 07930d3b419ff84e15ff64ca13fecc4a9dae9d83
+Le fichier dictionary.pot et fr.po est basé sur la version du skin Evolution: ec32b441ad5d6a7e42561a7153fe359c00e049ad
 
 ## Installation
 Vous pouvez installer la traduction française facilement avec le script update.sh.
