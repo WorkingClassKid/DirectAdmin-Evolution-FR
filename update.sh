@@ -8,8 +8,9 @@
 evolution_skin_directory=/usr/local/directadmin/data/skins/evolution
 
 
-# Téléchargement du fichier de traduction principal
+# Téléchargement des fichiers de traductions principal
 wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/master/fr.po -O $evolution_skin_directory/lang/fr.po
+wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/master/fr.po -O $evolution_skin_directory/lang/login-fr.po
 
 # Téléchargement du fichier de "traduction internal"
 
