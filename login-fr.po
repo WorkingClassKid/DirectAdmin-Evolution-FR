@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: src/js/login/Login.vue:31
+msgid "← Back to the login page"
+msgstr "← Retour à la page de connexion"
+
+#: src/js/login/components/two-step-auth.vue:29
+msgid "Authenticate"
+msgstr "Authentification"
+
+#: src/js/login/Login.vue:22
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: src/js/login/components/send-code.vue:12
+msgid "Code from E-mail"
+msgstr "Code de courrier électronique"
+
+#: src/js/login/components/login-datetime.vue:3
+msgid "Computer or server time out of sync by %{ hours } hours."
+msgstr ""
+"Heure de synchronisation de l'ordinateur ou du serveur de %{heures} "
+"heures."
+
+#: src/js/login/components/send-message.vue:2
+msgid ""
+"Enter your Username and a confirmation link will be sent to your email "
+"account."
+msgstr ""
+"Entrez votre nom d'utilisateur et un lien de confirmation sera envoyé "
+"à votre compte de messagerie."
+
+#: src/js/login/Login.vue:17
+msgid "Forgot Password?"
+msgstr "Mot de passe oublié?"
+
+#: src/js/login/components/standard-auth.vue:20
+msgid "Hmm, login details do not seem to be correct. Please try again."
+msgstr ""
+"Hmm, les informations de connexion ne semblent pas être correctes. "
+"Veuillez réessayer."
+
+#: src/js/login/components/language-selector.vue:7
+msgid "Language"
+msgstr "Langue"
+
+#: src/js/login/components/send-code.vue:3
+msgid "Log In using your username and code from E-mail"
+msgstr ""
+"Connectez-vous à l'aide de votre nom d'utilisateur et du code reçu "
+"dans votre messagerie électronique"
+
+#: src/js/login/components/loader.vue:20
+msgid "Logged in.."
+msgstr "Connecté.."
+
+#: src/js/login/components/login-header.vue:6
+msgid "Manage your domains, databases & other server info."
+msgstr ""
+"Gérez vos domaines, bases de données et autres informations sur le "
+"serveur."
+
+#: src/js/login/components/standard-auth.vue:11
+msgid "Password"
+msgstr "Mot de passe"
+
+#: src/js/login/components/standard-auth.vue:3
+msgid "Please enter username"
+msgstr "Veuillez entrer votre nom d'utilisateur"
+
+#: src/js/login/components/send-code.vue:26
+msgid "Request New Password"
+msgstr "Demander un nouveau mot de passe"
+
+#: src/js/login/components/send-message.vue:14
+msgid "Send me a Link"
+msgstr "Envoyez moi un lien"
+
+#: src/js/login/components/standard-auth.vue:31
+msgid "Sign in to Account"
+msgstr "Connectez-vous au compte"
+
+#: src/js/login/components/login-header.vue:3
+msgid "Start DirectAdmin"
+msgstr "Démarrer DirectAdmin"
+
+#: src/js/login/components/security-question-auth.vue:13
+msgid "Submit Answer"
+msgstr "Soumettre la réponse"
+
+#: src/js/login/components/two-step-auth.vue:16
+msgid "Trust this device for %{ days } days"
+msgstr "Faites confiance à cet appareil pendant %{days} jours"
+
+#: src/js/login/components/two-step-auth.vue:3
+msgid "Two Step Authentication"
+msgstr "Authentification en deux étapes"
+
+#: src/js/login/components/send-code.vue:6
+#: src/js/login/components/send-message.vue:5
+msgid "Username"
+msgstr "Nom d'utilisateur"
