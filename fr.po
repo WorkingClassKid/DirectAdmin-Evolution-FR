@@ -566,6 +566,8 @@ msgstr "Ajouter une autre adresse IP"
 msgid ""
 "Add any other server hostname that may deliver or relay mail for this domain"
 msgstr ""
+"Ajoutez tout autre nom d’hôte de serveur pouvant remettre ou relayer des "
+"mails pour ce domaine"
 
 #: src/js/pages/user/two-step-auth.vue:207
 #: src/js/pages/user/two-step-auth.vue:22
@@ -849,7 +851,7 @@ msgstr "Configurations Administrateur"
 
 #: src/js/pages/user/email/lists/modify.vue:37
 msgid "Administrivia"
-msgstr ""
+msgstr "Administrivia"
 
 #: src/js/pages/admin/users/admins.vue:1
 #: src/js/components/local/layouts/shared/search.vue:110
@@ -882,11 +884,11 @@ msgstr "Alias"
 
 #: src/js/components/local/dns/dmarc-editor.vue:65
 msgid "Alignment mode for DKIM"
-msgstr ""
+msgstr "Mode d'alignement pour DKIM"
 
 #: src/js/components/local/dns/dmarc-editor.vue:76
 msgid "Alignment mode for SPF"
-msgstr ""
+msgstr "Mode d'alignement pour SPF"
 
 #: src/js/pages/admin/backups/modify.vue:350
 #: src/js/pages/admin/backups/schedule.vue:410
@@ -979,6 +981,8 @@ msgstr ""
 #: src/js/components/local/dns/spf-editor.vue:36
 msgid "Allow any hostname ending in %{ domain } to send email for this domain"
 msgstr ""
+"Autoriser tout nom d'hôte se terminant par %{ domain } à envoyer des "
+"courriers électroniques pour ce domaine"
 
 #: src/js/pages/user/security-questions.vue:98
 #: src/js/pages/user/two-step-auth.vue:146
@@ -1011,12 +1015,16 @@ msgstr ""
 #: src/js/components/local/dns/spf-editor.vue:16
 msgid "Allow servers listed as MX to send email for this domain"
 msgstr ""
+"Autoriser les serveurs répertoriés comme MX à envoyer des courriers "
+"électroniques pour ce domaine"
 
 #: src/js/pages/admin/settings.vue:64
 msgid ""
 "Allow the latest version of DirectAdmin to be pushed to this server, as "
 "needed."
 msgstr ""
+"Autorisez la dernière version de DirectAdmin à être poussée sur ce serveur, "
+"si nécessaire."
 
 #: src/js/pages/admin/settings.vue:107
 msgid "Allow Users with less than"
@@ -3952,7 +3960,7 @@ msgstr "Modifier la route"
 
 #: src/js/pages/user/ssh-keys/edit.vue:1
 msgid "Edit SSH Key"
-msgstr ""
+msgstr "Modifier la clé SSH"
 
 #: src/js/pages/reseller/edit-user-message.vue:1
 #: src/js/pages/reseller/users/_components/change-user-message.vue:9
@@ -7145,7 +7153,7 @@ msgstr "Empêcher 127.0.0.1 d'être blacklisté"
 
 #: src/js/pages/user/cronjobs/create.vue:133
 msgid "Prevent E-mail"
-msgstr ""
+msgstr "Empêcher le e-mail"
 
 #: src/js/components/local/filemanager/pagination.vue:4
 #: src/js/components/global/ui/ui-pagination.vue:98
@@ -7399,7 +7407,7 @@ msgstr "Redirection vers %{ url }"
 
 #: src/js/pages/user/domains/edit.vue:80
 msgid "Redirection for domain, pointers, and sub-domains."
-msgstr ""
+msgstr "Redirection pour le domaine, les pointeurs et les sous-domaines."
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:52
 msgid "Reference"
@@ -8450,8 +8458,6 @@ msgid "Server History"
 msgstr "Historique du serveur"
 
 #: src/js/components/local/dns/spf-editor.vue:73
-#, fuzzy
-#| msgid "Server's Hostname"
 msgid "Server Hostname"
 msgstr "Nom d'hôte du serveur"
 
