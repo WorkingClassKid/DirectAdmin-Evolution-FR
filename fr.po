@@ -530,7 +530,7 @@ msgstr "Bases de données actives"
 #: src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:70
 #: src/js/pages/user/dashboard/_components/widgets/user-stats.vue:93
 msgid "Active Since"
-msgstr "Actif Depuis"
+msgstr "Actif depuis"
 
 #: src/js/components/local/dns/add-record-dialog.vue:143
 #: src/js/pages/admin/brute-force-monitor/_components/skip-dialog.vue:25
@@ -2454,11 +2454,11 @@ msgstr "Créer un gestionnaire"
 
 #: src/js/pages/user/ssh-keys/index.vue:16
 msgid "Create Key"
-msgstr "Créer un clé de connexion"
+msgstr "Créer une clé SSH"
 
 #: src/js/pages/user/login-keys/create.vue:1
 msgid "Create Login Key"
-msgstr "Créer un clé de connexion"
+msgstr "Créer une clé de connexion"
 
 #: src/js/pages/user/email/accounts/create.vue:1
 msgid "Create Mail Account"
@@ -3649,7 +3649,7 @@ msgstr "Limite de domaines atteinte"
 
 #: src/js/pages/user/email/spamassassin.vue:155
 msgid "Don't use attachments (dangerous)."
-msgstr "Ne pas utiliser d'pièce jointe (dangereux)."
+msgstr "Ne pas utiliser de pièce jointe (dangereux)."
 
 #: src/js/components/local/filemanager/dialogs/compress-download-dialog.vue:25
 #: src/js/pages/user/database/index.vue:108
@@ -3846,7 +3846,7 @@ msgstr "Utilisation E-mail"
 
 #: src/js/pages/user/email/spamassassin.vue:250
 msgid "E-mail Whitelist"
-msgstr "Liste des E-mail autorisés"
+msgstr "Liste des adresses e-mail autorisés"
 
 #: src/js/pages/user/dashboard/_components/widgets/admin-stats.vue:32
 #: src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:30
@@ -3971,7 +3971,7 @@ msgstr "Modifier la clé SSH"
 #: src/js/pages/reseller/users/_components/change-user-message.vue:9
 #: src/js/modules/navigation/reseller.js:37
 msgid "Edit User Message"
-msgstr "Modifier le message utilisateur"
+msgstr "Modifier le message de bienvenue"
 
 #: src/js/pages/user/protected-directories/view.vue:36
 msgid "eg. Member's Area"
@@ -5820,7 +5820,7 @@ msgstr "Gérer les tickets"
 #: src/js/pages/reseller/backups/index.vue:1
 #: src/js/modules/navigation/reseller.js:77
 msgid "Manage User Backups"
-msgstr "Gestion des sauvegardesGestionnaire de Fichiers"
+msgstr "Gestion des sauvegardes un "
 
 #: src/js/pages/reseller/user-packages/index.vue:1
 #: src/js/modules/navigation/reseller.js:25
@@ -7327,7 +7327,7 @@ msgstr "La plage de fin doit être supérieur à la plage de début"
 
 #: src/js/pages/user/stats/log.vue:76 src/js/pages/user/subdomains/logs.vue:65
 msgid "raw"
-msgstr "brubrute"
+msgstr "brut"
 
 #: src/js/pages/user/dns/security.vue:17
 msgid "Re-sign your zone"
@@ -8513,7 +8513,7 @@ msgstr "Service"
 
 #: src/js/modules/navigation/admin.js:143
 msgid "Service Monitor"
-msgstr "Moniteur de service"
+msgstr "Moniteur de services"
 
 #: src/js/pages/admin/services.vue:125
 msgid "Service was reloaded successfully"
@@ -9724,7 +9724,7 @@ msgstr "Ceci est la liste des E-mail autorisés, indépendamment du contenu."
 
 #: src/js/pages/user/email/spamassassin.vue:169
 msgid "This is the list of e-mail address that will be blocked."
-msgstr "Ceci est la liste des E-mails qui seront bloqués."
+msgstr "Ceci est la liste des adresses e-mail qui seront bloqués."
 
 #: src/js/pages/user/email/catch-all.vue:28
 msgid ""
@@ -10616,7 +10616,7 @@ msgstr "Voir le Fichier"
 #: src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:66
 #: src/js/pages/user/dashboard/_components/widgets/user-stats.vue:89
 msgid "View History"
-msgstr "Voir l'Historique"
+msgstr "Voir l'historique"
 
 #: src/js/pages/admin/system-backup.vue:275
 #: src/js/pages/admin/system-backup.vue:283
