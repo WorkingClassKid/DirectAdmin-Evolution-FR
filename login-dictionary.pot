@@ -30,7 +30,11 @@ msgstr ""
 msgid "Forgot Password?"
 msgstr ""
 
-#: ./src/js/login/components/standard-auth.vue:20
+#: ./src/js/login/components/login-datetime.vue:12
+msgid "format:datetime"
+msgstr ""
+
+#: ./src/js/login/components/standard-auth.vue:27
 msgid "Hmm, login details do not seem to be correct. Please try again."
 msgstr ""
 
@@ -50,11 +54,11 @@ msgstr ""
 msgid "Manage your domains, databases & other server info."
 msgstr ""
 
-#: ./src/js/login/components/standard-auth.vue:11
+#: ./src/js/login/components/standard-auth.vue:17
 msgid "Password"
 msgstr ""
 
-#: ./src/js/login/components/standard-auth.vue:3
+#: ./src/js/login/components/standard-auth.vue:9
 msgid "Please enter username"
 msgstr ""
 
@@ -66,7 +70,7 @@ msgstr ""
 msgid "Send me a Link"
 msgstr ""
 
-#: ./src/js/login/components/standard-auth.vue:31
+#: ./src/js/login/components/standard-auth.vue:39
 msgid "Sign in to Account"
 msgstr ""
 
