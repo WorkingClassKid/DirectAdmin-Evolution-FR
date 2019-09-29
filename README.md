@@ -2,15 +2,15 @@
 ## DirectAdmin - Evolution Skin - French Translation
 Traduction française pour le skin Evolution pour le panel adminstrateur DirectAdmin
 
-En date du 30 Juillet 2019, la traduction est complète à 97%.
+En date du 29 Septembre 2019, la traduction est complète à 97%.
 
 Tout le monde est libre participer et fournir des améliorations à la traduction française.
 
 Vous pouvez soumettre vos amélioration via un Pull requests ou bien nous pouvons en discuter dans la section Issues.
 
-Le fichier de traduction actuel est basé sur DirectAdmin: 1.575
+Le fichier de traduction actuel est basé sur DirectAdmin: 1.591
 
-Le fichier dictionary.pot et fr.po est basé sur la version du skin Evolution: cc9cea892ed65ed3f1ce9c2e0f8b0d002ef936d1
+Le fichier dictionary.pot et fr.po est basé sur la version du skin Evolution: f2495d24f15b41652e3604215b518b3befa7f12e
 
 ## Installation
 Vous pouvez installer la traduction française facilement avec le script update.sh.
