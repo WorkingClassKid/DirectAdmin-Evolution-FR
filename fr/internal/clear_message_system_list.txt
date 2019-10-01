@@ -1,8 +1,8 @@
 1=8
-2=-- anything --
-3=Brute-Force Attack detected in service log
-4=is currently down
-5=Your backups are now ready
-6=An error occurred during the backup
-7=emails have just been sent by
-8=Warning: The system load average is
+2=-- n'importe quoi --
+3=Attaque par force brute détectée dans le journal de service
+4=est actuellement en panne
+5=Vos sauvegardes sont maintenant prêtes
+6=Une erreur est survenue lors de la sauvegarde
+7=des emails viennent d'être envoyés par
+8=Avertissement: la charge moyenne du système est
