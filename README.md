@@ -34,3 +34,4 @@ Assurez-vous d'avoir ajusté le répertoire de votre installation du skin Evolut
 ### Contributions Importantes
 - Philippe Robert - https://webalternative.net - philippe.robert (at) webalternative (.) net
 - Idescap 
+- DoryanR
