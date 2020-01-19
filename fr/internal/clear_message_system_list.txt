@@ -1,8 +1,8 @@
 1=8
 2=-- n'importe quoi --
-3=Attaque par force brute détectée dans le journal de service
-4=est actuellement en panne
+3=Attaque de force de rupture détectée dans le journal de service
+4=est actuellement en baisse
 5=Vos sauvegardes sont maintenant prêtes
-6=Une erreur est survenue lors de la sauvegarde
-7=des emails viennent d'être envoyés par
-8=Avertissement: la charge moyenne du système est
+6=Une erreur s'est produite pendant la sauvegarde
+7=des e-mails viennent d'être envoyés par
+8=Avertissement : La charge moyenne du système est
