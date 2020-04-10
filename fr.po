@@ -11908,7 +11908,7 @@ msgstr "Clé de signature de zone"
 # ### Lang-specific vars
 # DateTime format
 msgid "format:datetime"
-msgstr "d.M.YYYY, HH:mm:ss"
+msgstr "d/M/YYYY, HH:mm:ss"
 
 # Date format
 msgid "format:date"
