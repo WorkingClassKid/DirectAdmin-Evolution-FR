@@ -6635,7 +6635,7 @@ msgstr "Surveiller tous les services"
 
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:8
 msgid "Monitor Backup: %{ id }"
-msgstr "Moniteur de sauvegarde: % { id }"
+msgstr "Moniteur de sauvegarde: %{ id }"
 
 #: src/js/pages/admin/backups/modify.vue:121
 #: src/js/pages/admin/backups/schedule.vue:171
