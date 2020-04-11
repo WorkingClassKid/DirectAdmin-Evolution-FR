@@ -43,10 +43,8 @@ msgid "(pointers)"
 msgstr "Pointeurs"
 
 #: src/js/components/local/stats/webalizer-table.vue:68
-#, fuzzy
-#| msgid "{{bandwidth.limit | humanReadableSize}}"
 msgid "{{ bandwidth.limit | humanReadableSize }}"
-msgstr "{{bandwidth.limit | humanReadableSize}}"
+msgstr "{{ bandwidth.limit | humanReadableSize }}"
 
 #: src/js/pages/reseller/customize-skin/_components/category-draggable.vue:22
 msgid "{{ category.name }}"
@@ -75,10 +73,8 @@ msgstr "{{ label }}"
 
 #: src/js/components/local/main-menu/plugged-menu-category.vue:49
 #: src/js/components/local/main-menu/plugged-menu-category.vue:89
-#, fuzzy
-#| msgid "{{ category.name }}"
 msgid "{{category.name}}"
-msgstr "{{ category.name }}"
+msgstr "{{category.name}}"
 
 #: src/js/pages/user/dns/mx-records.vue:69
 msgid ""
@@ -1147,10 +1143,8 @@ msgid "Already blacklisted"
 msgstr "Déjà bloqué"
 
 #: src/js/pages/user/email/vacations/create.vue:25
-#, fuzzy
-#| msgid "User already exists"
 msgid "Already exists"
-msgstr "L'utilisateur existe déjà"
+msgstr "existe déjà"
 
 #: src/js/pages/user/email/spamassassin.vue:359
 #: src/js/pages/user/email/spamassassin.vue:461
@@ -2038,10 +2032,8 @@ msgstr "Modifier"
 #: src/js/pages/admin/users/index.vue:237
 #: src/js/pages/admin/users/resellers/index.vue:165
 #: src/js/pages/reseller/users/index.vue:242
-#, fuzzy
-#| msgid "Change A User's Password"
 msgid "Change %{ username }'s password"
-msgstr "Modifier le mot de passe d'un utilisateur"
+msgstr "Modifier le mot de passe de %{ username }"
 
 #: src/js/pages/reseller/users/index.vue:271
 msgid "Change A User's Password"
@@ -2062,10 +2054,8 @@ msgstr "Modifier les options du domaine"
 #: src/js/pages/reseller/users/_components/change-ip-dialog.vue:3
 #: src/js/pages/reseller/users/index.vue:24
 #: src/js/pages/reseller/users/index.vue:88
-#, fuzzy
-#| msgid "Change"
 msgid "Change IP"
-msgstr "Modifier"
+msgstr "Changer IP"
 
 #: src/js/pages/user/email/_components/modify-account-quota-dialog.vue:7
 msgid "Change Limit/Quota"
@@ -2623,9 +2613,6 @@ msgid "Create Folder"
 msgstr "Créer un Dossier"
 
 #: src/js/pages/user/email/_components/create-forwarder-dialog.vue:6
-#, fuzzy
-#| msgid "Create Forwarder"
-#| msgid_plural "Create Forwarders"
 msgid "Create Forwarders"
 msgstr "Créer une redirection"
 
@@ -2768,10 +2755,8 @@ msgstr "Créateur"
 
 #: src/js/components/local/master-login-bar.vue:33
 #: src/js/components/local/master-login-drawer.vue:78
-#, fuzzy
-#| msgid "Reseller: %{ creator }"
 msgid "Creator: %{ creator }"
-msgstr "Revendeur: %{ creator }"
+msgstr "Créateur: %{ creator }"
 
 #: src/js/pages/reseller/stats.vue:272
 msgid "Cron"
@@ -2947,10 +2932,8 @@ msgid "Danger"
 msgstr "Danger"
 
 #: src/js/components/local/app-global-modals/skin-options.vue:51
-#, fuzzy
-#| msgid "Safe Mode"
 msgid "Dark Mode"
-msgstr "Mode sans échec"
+msgstr "Mode Sombre"
 
 #: src/js/components/local/layouts/shared/breadcrumbs.vue:5
 #: src/js/pages/user/dashboard/index.vue:1
@@ -3056,10 +3039,8 @@ msgid "Date / Date & Time formats:"
 msgstr "Formats de date et heure:"
 
 #: src/js/components/local/date-formats.vue:38
-#, fuzzy
-#| msgid "Default Date & Time Formats"
 msgid "Date & Time Format"
-msgstr "Formats de date et heure par défaut"
+msgstr "Formats de date et heure"
 
 #: src/js/components/local/filemanager/files-table.vue:217
 msgid "Date Acessed"
@@ -3090,8 +3071,6 @@ msgid "Date Created"
 msgstr "Date créé"
 
 #: src/js/components/local/date-formats.vue:4
-#, fuzzy
-#| msgid "Date Formats"
 msgid "Date Format"
 msgstr "Formats de date"
 
@@ -5805,10 +5784,8 @@ msgid "Let's Encrypt in use. Auto Renewal in %{n} Days."
 msgstr "Let's Encrypt actif. Renouvellement automatique dans %{n} Days."
 
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:4
-#, fuzzy
-#| msgid "User Level"
 msgid "Level"
-msgstr "Niveau Utilisateur"
+msgstr "Niveau"
 
 #: src/js/pages/admin/license.vue:27
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:18
@@ -6064,10 +6041,8 @@ msgstr "Connectez-vous quand même"
 #: src/js/pages/admin/users/index.vue:227
 #: src/js/pages/admin/users/resellers/index.vue:155
 #: src/js/pages/reseller/users/index.vue:232
-#, fuzzy
-#| msgid "Login as %{user}"
 msgid "Login as %{ username }"
-msgstr "Se connecter en tant que %{user}"
+msgstr "Se connecter en tant que %{ username }"
 
 #: src/js/pages/admin/users/resellers/view.vue:24
 #: src/js/pages/reseller/users/view.vue:21
@@ -6316,10 +6291,8 @@ msgid "Max Request / Upload Size"
 msgstr "Taille max requête / chargement"
 
 #: src/js/pages/admin/settings.vue:378
-#, fuzzy
-#| msgid "MaxLength"
 msgid "Max Username Length"
-msgstr "Taille maximum"
+msgstr "Longueur maximale du nom d'utilisateur"
 
 #: src/js/pages/admin/settings.vue:389
 msgid "Max Username length could not be higher than 30 characters"
@@ -6327,10 +6300,10 @@ msgstr ""
 "La longueur maximale du nom d'utilisateur ne peut pas dépasser 30 caractères"
 
 #: src/js/pages/admin/settings.vue:386
-#, fuzzy
-#| msgid "Package name should not contain special characters"
 msgid "Max Username length could not be lower than 8 characters"
-msgstr "Le nom du forfait ne doit pas comprendre de caractères spéciaux"
+msgstr ""
+"La longueur maximale du nom d'utilisateur ne peut pas être inférieure à 8 "
+"caractères"
 
 #: src/js/pages/user/filemanager/index.vue:107
 #: src/js/components/global/app/app-plugin-page.vue:18
@@ -6989,10 +6962,8 @@ msgid "Not Before"
 msgstr ""
 
 #: src/js/pages/reseller/users/view.vue:375
-#, fuzzy
-#| msgid "Not After"
 msgid "Not defined"
-msgstr "Pas après"
+msgstr "Non défini"
 
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:265
 msgid "Not forced (User Select)"
@@ -7191,10 +7162,8 @@ msgid "Number of requests allowed with this key. 0=Unlimited"
 msgstr "Nombre de demandes autorisées avec cette clé. 0 = illimité"
 
 #: src/js/components/local/app-global-modals/skin-options.vue:162
-#, fuzzy
-#| msgid "Number of lines to show"
 msgid "Number of user domains shown"
-msgstr "Nombre de lignes à afficher"
+msgstr "Nombre de domaines utilisateur affichés"
 
 #: src/js/pages/user/database/index.vue:68
 #: src/js/pages/user/database/index.vue:80
@@ -8009,18 +7978,12 @@ msgstr ""
 "Rediriger dans le dossier \"catch-all Spam\" de votre compte IMAP principal"
 
 #: src/js/components/local/app-global-modals/redirect-dialog.vue:25
-#, fuzzy
-#| msgid "Redirect"
-#| msgid_plural "Redirects"
 msgid "Redirect Now"
-msgstr "Redirection"
+msgstr "Rediriger maintenant"
 
 #: src/js/pages/user/hotlinks/index.vue:96
-#, fuzzy
-#| msgid "Redirect"
-#| msgid_plural "Redirects"
 msgid "Redirect to"
-msgstr "Redirection"
+msgstr "Rediriger vers"
 
 #: src/js/pages/user/redirects.vue:102
 msgid "Redirect Type"
@@ -8194,10 +8157,8 @@ msgstr "Créer une redirection"
 
 #: src/js/pages/admin/settings.vue:1101
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:51
-#, fuzzy
-#| msgid "Remove file"
 msgid "Remove from"
-msgstr "Supprimer le fichier"
+msgstr "Retirer de"
 
 #: src/js/pages/admin/settings.vue:1094 src/js/pages/admin/settings.vue:973
 #, fuzzy
@@ -8206,10 +8167,8 @@ msgid "Remove from blacklist"
 msgstr "Supprimer de la liste d'exception"
 
 #: src/js/components/local/dns/records-table.vue:84
-#, fuzzy
-#| msgid "Remove from Skip List"
 msgid "Remove from pointers"
-msgstr "Supprimer de la liste d'exception"
+msgstr "Supprimer des pointeurs"
 
 #: src/js/pages/admin/ip-manager/index.vue:22
 #: src/js/pages/admin/ip-manager/index.vue:45
@@ -8239,8 +8198,6 @@ msgstr "Supprimer le widget"
 
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:34
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:45
-#, fuzzy
-#| msgid "Remove widget"
 msgid "Remove Widget"
 msgstr "Supprimer le widget"
 
@@ -9466,10 +9423,8 @@ msgid "Show %{ count } Results"
 msgstr "Voir les %{ count } resultats"
 
 #: src/js/pages/user/email/accounts/index.vue:316
-#, fuzzy
-#| msgid "E-mail accounts"
 msgid "Show all accounts"
-msgstr "Comptes E-mail"
+msgstr "Afficher tous les comptes"
 
 #: src/js/pages/admin/multi-server.vue:89 src/js/modules/navigation/admin.js:50
 #: src/js/pages/admin/multi-server.vue:372
@@ -9736,15 +9691,11 @@ msgstr ""
 "vous en créer un?"
 
 #: src/js/pages/reseller/users/create.vue:135
-#, fuzzy
-#| msgid ""
-#| "Sorry, it seems that there are no user packages created yet. Would you "
-#| "like to create one?"
 msgid ""
 "Sorry, it seems that there are no user packages created yet.\n"
 "Would you like to create one?"
 msgstr ""
-"Désolé, il semble que vous n'avez pas créer aucun forfait utilisateur. "
+"Désolé, il semble que vous n'avez pas créer aucun forfait utilisateur. \n"
 "Voulez-vous en créer un?"
 
 #: src/js/components/local/r-table/r-table-columns.vue:280
@@ -11020,10 +10971,8 @@ msgid "Usage"
 msgstr "Utilisation"
 
 #: src/js/components/local/stats/webalizer-table.vue:94
-#, fuzzy
-#| msgid "Usage Log"
 msgid "Usage log"
-msgstr "Jounaux d'Utilisation"
+msgstr "Jounaux d'utilisation"
 
 #: src/js/components/local/stats/webalizer-table.vue:121
 #: src/js/pages/user/subdomains/index.vue:63
@@ -11227,10 +11176,8 @@ msgstr "Type d'Utilisateur"
 
 #: src/js/components/local/master-login-bar.vue:26
 #: src/js/components/local/master-login-drawer.vue:55
-#, fuzzy
-#| msgid "View Reseller: %{ user }"
 msgid "User: %{ user }"
-msgstr "Voir Revendeur: %{ user }"
+msgstr "Utilisateur: %{ user }"
 
 #: src/js/pages/reseller/ip-config.vue:12
 #: src/js/pages/reseller/nameservers.vue:20
@@ -11272,10 +11219,8 @@ msgid "Username"
 msgstr "Nom d'Utilisateur"
 
 #: src/js/pages/admin/settings.vue:1032
-#, fuzzy
-#| msgid "Username"
 msgid "Username / E-Mail"
-msgstr "Nom d'Utilisateur"
+msgstr "Nom d'utilisateur"
 
 #: src/js/pages/user/email/_components/modify-account-dialog.vue:120
 msgid ""
@@ -11303,10 +11248,8 @@ msgid "Username:"
 msgstr "Nom d'Utilisateur:"
 
 #: src/js/pages/admin/settings.vue:950 src/js/pages/admin/settings.vue:955
-#, fuzzy
-#| msgid "Username"
 msgid "Username/Email"
-msgstr "Nom d'Utilisateur"
+msgstr "Nom d'Utilisateur/E-mail"
 
 #: src/js/pages/admin/backups/modify.vue:69
 #: src/js/pages/admin/backups/schedule.vue:77
@@ -11420,10 +11363,8 @@ msgstr ""
 "DA:  admin ou un champ vide pour empêcher tout courrier électronique."
 
 #: src/js/pages/admin/license.vue:137
-#, fuzzy
-#| msgid "Update License"
 msgid "Validate License"
-msgstr "Modifier la licence"
+msgstr "Valider la licence"
 
 #: src/js/components/local/dns/add-record-dialog.vue:105
 #: src/js/components/local/dns/edit-record-dialog.vue:102
@@ -11562,8 +11503,6 @@ msgid "View Sub-Domain Stats"
 msgstr "Voir les statistique du sous-domaine"
 
 #: src/js/pages/user/stats/subdomain-log.vue:1
-#, fuzzy
-#| msgid "View Sub-Domain Log"
 msgid "View Subdomain Log"
 msgstr "Voir les Journaux pour ce sous-domaine"
 
@@ -11728,10 +11667,8 @@ msgstr "ID Client"
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:16
 #: src/js/pages/reseller/customize-skin/index.vue:39
 #: src/js/pages/reseller/customize-skin/index.vue:49
-#, fuzzy
-#| msgid "Add Widget"
 msgid "Widgets"
-msgstr "Ajouter un widget"
+msgstr "Widgets"
 
 #: src/js/pages/user/ssl/_components/common-data-editor.vue:20
 msgid "Wildcard"
@@ -11915,10 +11852,8 @@ msgid "format:date"
 msgstr "format:date"
 
 # Date format
-#, fuzzy
-#| msgid "format:date"
 msgid "format:weekStart"
-msgstr "format:date"
+msgstr "format:weekStart"
 
 msgid "$direction"
 msgstr "$direction"
