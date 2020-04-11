@@ -303,7 +303,7 @@ msgstr ""
 #: src/js/pages/reseller/users/view.vue:348
 #: src/js/pages/reseller/users/view.vue:353
 msgid "∞"
-msgstr ""
+msgstr "∞"
 
 #: src/js/pages/admin/settings.vue:554 src/js/pages/admin/settings.vue:668
 #: src/js/pages/admin/settings.vue:918
@@ -374,7 +374,7 @@ msgstr "2 Semaines"
 
 #: src/js/components/local/date-formats.vue:53
 msgid "24H"
-msgstr ""
+msgstr "24H"
 
 #: src/js/pages/user/redirects.vue:105 src/js/pages/user/redirects.vue:54
 #: src/js/pages/user/redirects.vue:109
@@ -1543,7 +1543,7 @@ msgstr "Auto-Répondeurs"
 
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:61
 msgid "Automatically delete messages"
-msgstr "Effacer tous les messages automatiquement"
+msgstr "Supprimer tous les messages automatiquement"
 
 #: src/js/pages/user/login-keys/create.vue:121
 #: src/js/pages/user/login-keys/modify.vue:84
@@ -1555,7 +1555,7 @@ msgstr ""
 
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:36
 msgid "Automatically delete tickets"
-msgstr "Effacer les tickets automatiquement"
+msgstr "Supprimer les tickets automatiquement"
 
 #: src/js/pages/user/email/autoresponders/index.vue:75
 #: src/js/pages/user/email/autoresponders/index.vue:77
@@ -2171,7 +2171,7 @@ msgstr "Ville"
 
 #: src/js/pages/user/email/accounts/index.vue:339
 msgid "Clean Forwarders"
-msgstr "Effacer les redirections"
+msgstr "Supprimer les redirections"
 
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:68
 #: src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:72
@@ -2201,13 +2201,13 @@ msgstr "Effacer filtre"
 #: src/js/pages/user/login-keys/create.vue:117
 #: src/js/pages/user/login-keys/modify.vue:80
 msgid "Clear Key:"
-msgstr "Effacer la clé:"
+msgstr "Supprimer la clé:"
 
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:3
 #: src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:3
 #: src/js/pages/user/messages/index.vue:84
 msgid "Clear Message System"
-msgstr "Effacer les messages systèmes"
+msgstr "Supprimer les messages systèmes"
 
 #: src/js/pages/admin/ip-manager/index.vue:22
 #: src/js/pages/admin/ip-manager/index.vue:48
@@ -3312,7 +3312,7 @@ msgstr "Par défaut pour les nouveaux domaines"
 #: src/js/pages/user/security-questions.vue:34
 #: src/js/pages/user/subdomains/index.vue:38
 msgid "Delete"
-msgstr "Effacer"
+msgstr "Supprimer"
 
 #: src/js/components/global/ui/ui-dialog-delete-items.vue:7
 msgid "Delete %{subject}"
@@ -3360,7 +3360,7 @@ msgstr "Effacer les SPAMS"
 #: src/js/pages/reseller/users/_components/delete-user-dialog.vue:3
 #: src/js/pages/reseller/users/view.vue:50
 msgid "Delete User"
-msgstr "Effacer l'Utilisateur"
+msgstr "Supprimer l'utilisateur"
 
 #: src/js/pages/user/domains/index.vue:157
 msgid "Delete web data"
@@ -8453,7 +8453,7 @@ msgstr "Réinitialiser"
 
 #: src/js/components/local/app-global-modals/skin-options.vue:16
 msgid "Reset All"
-msgstr "Réinitialiser tout"
+msgstr "Réinitialiser"
 
 #: src/js/pages/reseller/_dialogs/customize-skin-dialog.vue:65
 msgid "Reset colors"
@@ -9566,7 +9566,7 @@ msgstr "Afficher le fichier entier"
 #: src/js/components/local/app-global-modals/skin-options.vue:31
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:19
 msgid "Sidebar"
-msgstr "Barre latérale"
+msgstr "Barre latérale (Sidebar)"
 
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:119
 msgid "Sidebar Layout Settings"
@@ -9651,7 +9651,7 @@ msgstr "Nom du thème"
 #: src/js/components/local/app-global-modals/skin-options.vue:6
 #: src/js/components/local/layouts/shared/user-bar.vue:115
 msgid "Skin Options"
-msgstr "Options d'interface"
+msgstr "Options"
 
 #: src/js/pages/reseller/skins.vue:18
 #: src/js/pages/user/dashboard/_components/widgets/skins.vue:3
@@ -11462,7 +11462,7 @@ msgstr "Voir"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:90
 msgid "View / Delete Blocked IPs"
-msgstr "Voir / Effacer les IPs bloqués"
+msgstr "Voir / Supprimer les IPs bloqués"
 
 #: src/js/components/local/app-global-modals/notifications.vue:23
 msgid "View %{ count } hidden notification..."
@@ -11743,7 +11743,7 @@ msgstr "Avec sélection"
 
 #: src/js/pages/user/email/spamassassin.vue:137
 msgid "Would you like to delete high scoring spam?"
-msgstr "Voulez-vous effacer le spam avec une haute note?"
+msgstr "Voulez-vous supprimer le spam avec une haute note?"
 
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:40
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:67
