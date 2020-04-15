@@ -15,7 +15,7 @@ Le fichier de traduction actuel est basé sur DirectAdmin: 1.604
 Vous pouvez installer la traduction française facilement avec le script update.sh.
 
 ```bash
-wget https://raw.githubusercontent.com/webalternative/DirectAdmin-Evolution-FR/master/update.sh
+wget https://raw.githubusercontent.com/buttsbucket/DirectAdmin-Evolution-FR/master/update.sh
 chmod +x update.sh
 ./update.sh
 
