@@ -37,10 +37,8 @@ msgid "( Today: %{ sent } )"
 msgstr "( Aujoud'hui: %{ sent } )"
 
 #: src/js/components/local/user-domains.vue:24
-#, fuzzy
-#| msgid "Pointers"
 msgid "(pointers)"
-msgstr "Pointeurs"
+msgstr "(pointeurs)"
 
 #: src/js/components/local/stats/webalizer-table.vue:68
 msgid "{{ bandwidth.limit | humanReadableSize }}"
@@ -616,10 +614,8 @@ msgstr "Ajouter des codes"
 
 #: src/js/pages/user/email/_components/create-forwarder-dialog.vue:115
 #: src/js/pages/user/email/_components/modify-forwarder-dialog.vue:44
-#, fuzzy
-#| msgid "Destination"
 msgid "Add Destination"
-msgstr "Destination"
+msgstr "Ajouter une destination"
 
 #: src/js/pages/user/domains/_components/add-ip-to-domain-dialog.vue:19
 msgid "Add DNS records for this IP"
@@ -654,10 +650,8 @@ msgid "Add Mime Type"
 msgstr "Ajouter un type MIME"
 
 #: src/js/pages/user/hotlinks/index.vue:36
-#, fuzzy
-#| msgid "# of Domains"
 msgid "Add My Domains"
-msgstr "# de Domaines"
+msgstr "Ajouter mes domaines"
 
 #: src/js/pages/user/dashboard/_components/widgets/additional-domains.vue:62
 #: src/js/pages/user/database/view.vue:127
@@ -767,26 +761,20 @@ msgstr "Ajoutez le code à insérer dans les jetons CUSTOM."
 
 #: src/js/pages/admin/settings.vue:1066
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:51
-#, fuzzy
-#| msgid "Add to:"
 msgid "Add to"
-msgstr "Ajouter à:"
+msgstr "Ajouter à"
 
 #: src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:42
 msgid "Add to Apache"
 msgstr "Ajouter à Apache"
 
 #: src/js/pages/admin/settings.vue:967
-#, fuzzy
-#| msgid "Add to skip list"
 msgid "Add to blacklist"
-msgstr "Ajouter à la liste d'exclusion"
+msgstr "Ajouter à la liste noire"
 
 #: src/js/pages/admin/settings.vue:1022
-#, fuzzy
-#| msgid "Add to skip list"
 msgid "Add to Blacklist"
-msgstr "Ajouter à la liste d'exclusion"
+msgstr "Ajouter à la liste noire"
 
 #: src/js/components/local/filemanager/actions.vue:30
 msgid "Add to clipboard"
@@ -927,10 +915,8 @@ msgstr "Admins"
 
 #: src/js/pages/reseller/customize-skin/index.vue:39
 #: src/js/pages/reseller/customize-skin/index.vue:46
-#, fuzzy
-#| msgid "Account Configuration"
 msgid "AdSense Configuration"
-msgstr "Configuration du Compte"
+msgstr "Configuration AdSense"
 
 #: src/js/pages/user/email/filters.vue:166
 msgid "Adult Filter:"
@@ -1009,10 +995,8 @@ msgid "All User Cron Jobs"
 msgstr "Liste des tâches Cron des utilisteurs"
 
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:58
-#, fuzzy
-#| msgid "All Users"
 msgid "all users"
-msgstr "Tous les Utilisateurs"
+msgstr "tous les Utilisateurs"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:47
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:34
@@ -1230,7 +1214,7 @@ msgstr "Utilisation apparente:"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:176
 msgid "Appears at the end of the virtualHost."
-msgstr ""
+msgstr "Apparaît à la fin de virtualHost."
 
 #: src/js/pages/admin/custom-httpd/customize.vue:158
 #: src/js/pages/admin/custom-httpd/customize.vue:164
@@ -1242,6 +1226,8 @@ msgstr "Apparaît en haut du modèle, avant de définir les variables."
 msgid ""
 "Appears in ALL context{} sections, used for password protected directories."
 msgstr ""
+"Apparaît dans TOUTES les sections context{}, utilisées pour les répertoires "
+"protégés par mot de passe."
 
 #: src/js/pages/admin/custom-httpd/customize.vue:159
 msgid "Appears in ALL location / sections. Use the LOCATION token."
@@ -1250,7 +1236,7 @@ msgstr ""
 
 #: src/js/pages/admin/custom-httpd/customize.vue:173
 msgid "Appears in phpIniOverride{} section."
-msgstr ""
+msgstr "Apparaît dans la section phpIniOverride{}"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:174
 msgid "Appears in rewrite{} section."
@@ -1258,11 +1244,11 @@ msgstr "Apparaît dans la section rewrite{} ."
 
 #: src/js/pages/admin/custom-httpd/customize.vue:171
 msgid "Appears in scripthandler{} section."
-msgstr ""
+msgstr "Apparaît dans la section scripthandler{}"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:175
 msgid "Appears in vhssl{} section."
-msgstr ""
+msgstr "Apparaît dans la section vhssl{}"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:165
 msgid "Appears just before the <Directory> section."
@@ -1789,10 +1775,8 @@ msgid "Blacklist IPs for excessive DA login attempts"
 msgstr "Liste noire des IPs pour les tentatives de connexion excessive à DA"
 
 #: src/js/pages/admin/settings.vue:947
-#, fuzzy
-#| msgid "Invalid username"
 msgid "Blacklist Usernames"
-msgstr "Nom d'utilisateur invalide"
+msgstr "Liste noire des noms d'utilisateur"
 
 #: src/js/pages/user/email/_components/modify-account-quota-dialog.vue:63
 #: src/js/pages/user/email/accounts/create.vue:86
@@ -1878,13 +1862,12 @@ msgid "Blocked Permanently"
 msgstr "Bloqué en permanence"
 
 #: src/js/pages/user/email/filters.vue:168
-#, fuzzy
-#| msgid "Blocks out common adult phrases, words, and addresses"
 msgid ""
 "Blocks out common adult phrases, words, and\n"
 "addresses"
 msgstr ""
-"Bloque les expressions communes pour adultes (phrases, mots et adresses)"
+"Bloque les phrases, les mots et les phrases adultes courants\n"
+"adresses"
 
 #: src/js/pages/admin/dns/index.vue:101 src/js/pages/admin/dns/index.vue:69
 msgid "Both"
@@ -3200,10 +3183,8 @@ msgid "Default Domain"
 msgstr "Domaine par défaut"
 
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:69
-#, fuzzy
-#| msgid "Default menu type"
 msgid "Default icon pack"
-msgstr "Type de menu par défaut"
+msgstr "Pack d'icônes par défaut"
 
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:11
 msgid "Default Layout"
@@ -3923,16 +3904,12 @@ msgid "Download"
 msgstr "Télécharger"
 
 #: src/js/pages/user/database/index.vue:127
-#, fuzzy
-#| msgid "Download"
 msgid "Download as GZ"
-msgstr "Télécharger"
+msgstr "Télécharger (GZ)"
 
 #: src/js/pages/user/database/index.vue:134
-#, fuzzy
-#| msgid "Download"
 msgid "Download as SQL"
-msgstr "Télécharger"
+msgstr "Télécharger (SQL)"
 
 #: src/js/pages/user/dashboard/_components/widgets/db.vue:37
 msgid "Download Backup"
@@ -4298,10 +4275,8 @@ msgstr ""
 "Passe: <strong>%{password}</strong>"
 
 #: src/js/pages/reseller/customize-skin/_components/adsense.vue:6
-#, fuzzy
-#| msgid "Enable Open Basedir"
 msgid "Enable AdSense"
-msgstr "Activer Open Basedir"
+msgstr "Activer AdSense"
 
 #: src/js/pages/admin/settings.vue:414
 msgid "Enable Automatic Lost Password Recovery"
@@ -4542,10 +4517,8 @@ msgid "External CSS URL"
 msgstr "URL CSS externe"
 
 #: src/js/modules/search/menu-items.js:30
-#, fuzzy
-#| msgid "External"
 msgid "External Entries"
-msgstr "Externe"
+msgstr "Entrées externes"
 
 #: src/js/modules/navigation/admin.js:207
 #: src/js/modules/navigation/reseller.js:129
@@ -5203,17 +5176,15 @@ msgid "Icon"
 msgstr "Icone"
 
 #: src/js/components/local/app-global-modals/skin-options.vue:84
-#, fuzzy
-#| msgid "Icon"
 msgid "Icon Pack"
-msgstr "Icone"
+msgstr "Pack d'icônes"
 
 #: src/js/components/local/app-global-modals/skin-options.vue:26
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:14
 #: src/js/components/local/app-global-modals/skin-options.vue:32
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:20
 msgid "Icons Grid"
-msgstr ""
+msgstr "Grille d'icônes"
 
 #: src/js/pages/admin/brute-force-monitor/index.vue:97
 #: src/js/pages/admin/mail-queue/index.vue:23
@@ -5446,10 +5417,8 @@ msgid "Intro Access"
 msgstr "Accès intro"
 
 #: src/js/components/local/date-formats.vue:136
-#, fuzzy
-#| msgid "Invalid Domain"
 msgid "Invalid date format"
-msgstr "Domaine invalide"
+msgstr "Format de date non valide"
 
 #: src/js/components/local/dns/spf-editor.vue:179
 msgid "Invalid Domain"
@@ -5597,7 +5566,7 @@ msgstr "IPs"
 #: src/js/pages/admin/ssl/_components/info-dialog.vue:54
 #: src/js/pages/admin/ssl/index.vue:35 src/js/pages/admin/ssl/index.vue:52
 msgid "Issuer"
-msgstr ""
+msgstr "Émetteur"
 
 #: src/js/pages/user/email/spamassassin.vue:499
 msgid ""
@@ -5724,10 +5693,8 @@ msgid "Language"
 msgstr "Langue"
 
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:173
-#, fuzzy
-#| msgid "Language"
 msgid "Language defined"
-msgstr "Langue"
+msgstr "Langue définie"
 
 #: src/js/pages/admin/brute-force-monitor/ip_list.vue:12
 #: src/js/pages/admin/brute-force-monitor/user_list.vue:12
@@ -5845,7 +5812,7 @@ msgstr "La limite ne peut pas être supérieure à % { Limit }"
 
 #: src/js/pages/reseller/stats.vue:97 src/js/pages/user/stats/index.vue:406
 msgid "Limit Notice"
-msgstr ""
+msgstr "Avis de limite"
 
 #: src/js/components/local/dns/spf-editor.vue:137
 msgid "Limit of 10 domain lookups reached"
@@ -6020,7 +5987,7 @@ msgstr "Journaux Système"
 #: src/js/components/local/master-login-bar.vue:191
 #: src/js/components/local/master-login-drawer.vue:235
 msgid "Logged in"
-msgstr ""
+msgstr "Connecté"
 
 #: src/js/components/local/master-login-bar.vue:4
 msgid "Logged in as"
@@ -6269,10 +6236,8 @@ msgstr "Marquer comme lu"
 #: src/js/components/local/app-global-modals/skin-options.vue:68
 #: src/js/components/local/master-login-drawer.vue:7
 #: src/js/components/local/layouts/shared/user-bar.vue:122
-#, fuzzy
-#| msgid "Last time login"
 msgid "Master Login"
-msgstr "Dernière connexion"
+msgstr "Connexion principale"
 
 #: src/js/components/global/input/input-dropzone.vue:53
 msgid "Max File Size:"
@@ -6712,10 +6677,8 @@ msgid "Name"
 msgstr "Nom"
 
 #: src/js/pages/user/email/_components/create-forwarder-dialog.vue:88
-#, fuzzy
-#| msgid "Already in the list"
 msgid "Name already in list"
-msgstr "Déjà dans la liste"
+msgstr "Nom déjà dans la liste"
 
 #: src/js/pages/admin/license.vue:21
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:13
@@ -7910,7 +7873,7 @@ msgstr "Lire"
 
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:143
 msgid "Reading from tracker stream..."
-msgstr ""
+msgstr "Lecture à partir du flux de suivi ..."
 
 #: src/js/components/local/suspend-user-dialog.vue:8
 msgid "Reason"
@@ -8122,10 +8085,8 @@ msgstr "Supprimer l'authentification"
 
 #: src/js/pages/user/email/_components/create-forwarder-dialog.vue:106
 #: src/js/pages/user/email/_components/modify-forwarder-dialog.vue:35
-#, fuzzy
-#| msgid "Remove Authentication"
 msgid "Remove Destination"
-msgstr "Supprimer l'authentification"
+msgstr "Supprimer la destination"
 
 #: src/js/pages/user/subdomains/index.vue:110
 msgid "Remove Directory Content"
@@ -8149,11 +8110,8 @@ msgid "Remove Filter"
 msgstr "Enlever le filtre"
 
 #: src/js/pages/user/email/_components/create-forwarder-dialog.vue:30
-#, fuzzy
-#| msgid "Create Forwarder"
-#| msgid_plural "Create Forwarders"
 msgid "Remove Forwarder"
-msgstr "Créer une redirection"
+msgstr "Supprimer la redirection"
 
 #: src/js/pages/admin/settings.vue:1101
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:51
@@ -8161,10 +8119,8 @@ msgid "Remove from"
 msgstr "Retirer de"
 
 #: src/js/pages/admin/settings.vue:1094 src/js/pages/admin/settings.vue:973
-#, fuzzy
-#| msgid "Remove from Skip List"
 msgid "Remove from blacklist"
-msgstr "Supprimer de la liste d'exception"
+msgstr "Supprimer de la liste noire"
 
 #: src/js/components/local/dns/records-table.vue:84
 msgid "Remove from pointers"
@@ -8509,10 +8465,8 @@ msgid "Restore Options"
 msgstr "Options de restauration"
 
 #: src/js/pages/admin/backups/restore.vue:196
-#, fuzzy
-#| msgid "Restore Options"
 msgid "Restore to partition"
-msgstr "Options de restauration"
+msgstr "Restaurer sur la partition"
 
 #: src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:16
 #: src/js/pages/reseller/backups/_components/settings-dialog.vue:13
@@ -8988,10 +8942,8 @@ msgstr[0] "Thème sélectionné"
 msgstr[1] "Thèmes sélectionnés"
 
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:65
-#, fuzzy
-#| msgid "Selected Users"
 msgid "selected users"
-msgstr "Utilisateurs sélectionnés"
+msgstr "utilisateurs sélectionnés"
 
 #: src/js/pages/admin/backups/modify.vue:63
 #: src/js/pages/admin/backups/schedule.vue:71
@@ -9434,7 +9386,7 @@ msgstr "Voir tous les utilisateurs"
 
 #: src/js/components/local/user-domains.vue:54
 msgid "show all..."
-msgstr ""
+msgstr "afficher tout..."
 
 #: src/js/pages/admin/history.vue:14 src/js/pages/reseller/history.vue:16
 #: src/js/pages/reseller/users/history.vue:16 src/js/pages/user/history.vue:19
@@ -10565,10 +10517,8 @@ msgid "Timeout (seconds)"
 msgstr "Timeout (secondes)"
 
 #: src/js/pages/admin/settings.vue:361
-#, fuzzy
-#| msgid "Time"
 msgid "Timezone"
-msgstr "Temps"
+msgstr "Fuseau horaire"
 
 #: src/js/pages/user/ssl/_components/certificate-request-dialog.vue:15
 msgid ""
@@ -10647,10 +10597,8 @@ msgid "Total Usage"
 msgstr "Utilisation Totale"
 
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:145
-#, fuzzy
-#| msgid "Tracker stream was closed."
 msgid "Tracker stream was closed!"
-msgstr "Le flux du tracker a été fermé."
+msgstr "Le flux de suivi a été fermé."
 
 #: src/js/pages/admin/stats.vue:291
 msgid "Transmitted"
@@ -10911,10 +10859,8 @@ msgid "Upload Files"
 msgstr "Charger des fichiers"
 
 #: src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:104
-#, fuzzy
-#| msgid "In Progress"
 msgid "Upload In Progress"
-msgstr "En Cours"
+msgstr "Téléchargement en cours"
 
 #: src/js/pages/reseller/customize-skin/_components/logo-uploader.vue:29
 msgid "Upload Logo"
@@ -11571,10 +11517,8 @@ msgid "Wednesday"
 msgstr "Mercredi"
 
 #: src/js/components/local/date-formats.vue:71
-#, fuzzy
-#| msgid "Start"
 msgid "Week Start"
-msgstr "Démarrer"
+msgstr "Début de la semaine"
 
 #: src/js/pages/user/email/lists/modify.vue:156
 msgid "Welcome"
@@ -11659,10 +11603,8 @@ msgstr "Qui ont accès"
 
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:17
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:21
-#, fuzzy
-#| msgid "Client ID"
 msgid "Widget ID"
-msgstr "ID Client"
+msgstr "Widget ID"
 
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:16
 #: src/js/pages/reseller/customize-skin/index.vue:39
