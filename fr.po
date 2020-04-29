@@ -964,7 +964,7 @@ msgstr "Tous"
 
 #: src/js/modules/widgets.js:60
 msgid "All Accounts on the Server"
-msgstr "Tous les Comptes sur le Serveur"
+msgstr "Tous les comptes sur le serveur"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:63
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:53
@@ -5808,7 +5808,7 @@ msgstr "Limite"
 #: src/js/pages/user/email/_components/modify-account-quota-dialog.vue:102
 #: src/js/pages/user/email/accounts/create.vue:106
 msgid "Limit can't be larger than %{ limit }"
-msgstr "La limite ne peut pas être supérieure à % { Limit }"
+msgstr "La limite ne peut pas être supérieure à %{ limit }"
 
 #: src/js/pages/reseller/stats.vue:97 src/js/pages/user/stats/index.vue:406
 msgid "Limit Notice"
@@ -6538,7 +6538,7 @@ msgstr "Modifier les privilèges"
 #: src/js/pages/admin/users/resellers/modify.vue:1
 #: src/js/pages/admin/users/resellers/view.vue:35
 msgid "Modify Reseller"
-msgstr "Modifier le Revendeur"
+msgstr "Modifier le revendeur"
 
 #: src/js/pages/admin/reseller-packages/view.vue:10
 msgid "Modify Reseller Package"
