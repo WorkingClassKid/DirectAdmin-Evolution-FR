@@ -708,10 +708,8 @@ msgid "Add New Mime Type"
 msgstr "Ajouter une nouveau type MIME"
 
 #: src/js/pages/user/php-settings/index.vue:61
-#, fuzzy
-#| msgid "Add New Server"
 msgid "Add New Override"
-msgstr "Ajouter Un Serveur"
+msgstr "Ajouter un nouveau remplacement"
 
 #: src/js/pages/user/redirects.vue:72
 msgid "Add New Redirect"
@@ -823,10 +821,8 @@ msgid "Add to device"
 msgstr "Ajouter au périférique"
 
 #: src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:31
-#, fuzzy
-#| msgid "Add to NS"
 msgid "Add to DNS"
-msgstr "Ajouter au NS"
+msgstr "Ajouter au DNS"
 
 #: src/js/pages/admin/brute-force-monitor/_components/skip-ips-dialog.vue:3
 #: src/js/pages/admin/brute-force-monitor/_components/skip-users-dialog.vue:3
@@ -932,10 +928,8 @@ msgid "Admin Tools"
 msgstr "Outils Adminsitrateur"
 
 #: src/js/pages/admin/users/admins.vue:214
-#, fuzzy
-#| msgid "Login as %{ username }"
 msgid "Admin: %{ username }"
-msgstr "Se connecter en tant que %{ username }"
+msgstr "Admin: %{ username }"
 
 #: src/js/pages/admin/users/admins.vue:197
 msgid "Admin: %{ username } and %{ nusers } user"
@@ -975,10 +969,8 @@ msgid "Advanced Features"
 msgstr "Fonctionnalités avancées"
 
 #: src/js/pages/user/dns/mx-records.vue:55
-#, fuzzy
-#| msgid "Pointers"
 msgid "Affect Pointers"
-msgstr "Pointeurs"
+msgstr "Affecter les pointeurs"
 
 #: src/js/pages/admin/settings.vue:438 src/js/pages/admin/settings.vue:455
 msgid "after"
@@ -1095,10 +1087,8 @@ msgstr ""
 
 #: src/js/components/local/user-package.vue:190
 #: src/js/components/local/user-package.vue:238
-#, fuzzy
-#| msgid "Allow"
 msgid "Allow All"
-msgstr "Permettre"
+msgstr "Autorise tout"
 
 #: src/js/components/local/dns/spf-editor.vue:43
 msgid "Allow any hostname ending in %{ domain } to send email for this domain"
@@ -1141,10 +1131,8 @@ msgstr ""
 
 #: src/js/components/local/user-package.vue:198
 #: src/js/components/local/user-package.vue:254
-#, fuzzy
-#| msgid "Allocated"
 msgid "Allow Selected"
-msgstr "Alloué"
+msgstr "Autoriser la sélection"
 
 #: src/js/components/local/dns/spf-editor.vue:23
 msgid "Allow servers listed as MX to send email for this domain"
@@ -1170,10 +1158,8 @@ msgstr "Permettre:"
 
 #: src/js/pages/user/email/spamassassin.vue:347
 #: src/js/pages/user/email/spamassassin.vue:354
-#, fuzzy
-#| msgid "Blocked E-mail"
 msgid "Allowed E-mail"
-msgstr "E-mail bloqués"
+msgstr "E-mail autorisé"
 
 #: src/js/pages/user/login-keys/create.vue:153
 msgid "Allowed IPs:"
@@ -1185,14 +1171,10 @@ msgstr ""
 "Permet la navigation de l'interface DA vers les fichiers HTM, IMG et CSS."
 
 #: src/js/pages/user/email/spamassassin.vue:332
-#, fuzzy
-#| msgid "Already blacklisted"
 msgid "Already allowed"
-msgstr "Déjà bloqué"
+msgstr "Déjà autorisé"
 
 #: src/js/pages/user/email/spamassassin.vue:430
-#, fuzzy
-#| msgid "Already blacklisted"
 msgid "Already blocked"
 msgstr "Déjà bloqué"
 
@@ -1414,12 +1396,10 @@ msgid "Are you sure you want to delete selected files?"
 msgstr "‪Êtes-vous sûr de vouloir supprimer les fichiers sélectionnés?"
 
 #: src/js/pages/admin/users/index.vue:251
-#, fuzzy
-#| msgid "Are you sure you want to delete selected files?"
 msgid "Are you sure you want to delete selected user?"
 msgid_plural "Are you sure you want to delete selected users?"
-msgstr[0] "‪Êtes-vous sûr de vouloir supprimer les fichiers sélectionnés?"
-msgstr[1] "‪Êtes-vous sûr de vouloir supprimer les fichiers sélectionnés?"
+msgstr[0] "Êtes-vous sûr de vouloir supprimer l'utilisateur sélectionné?"
+msgstr[1] "Voulez-vous vraiment supprimer les utilisateurs sélectionnés?"
 
 #: src/js/pages/reseller/users/_components/delete-user-dialog.vue:6
 msgid "Are you sure you want to delete user %{user}?"
@@ -1448,10 +1428,8 @@ msgstr ""
 "ignorés?"
 
 #: src/js/components/local/filemanager/dialogs/restore-file.vue:10
-#, fuzzy
-#| msgid "Are you sure you want to delete selected files?"
 msgid "Are you sure you want to restore selected files?"
-msgstr "‪Êtes-vous sûr de vouloir supprimer les fichiers sélectionnés?"
+msgstr "Voulez-vous vraiment restaurer les fichiers sélectionnés?"
 
 #: src/js/pages/admin/brute-force-monitor/block_list.vue:74
 msgid "Are you sure you want to unblock selected IP?"
@@ -1597,10 +1575,8 @@ msgstr "Auto-Répondeurs"
 
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:119
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:123
-#, fuzzy
-#| msgid "Automatically delete tickets"
 msgid "Automatic/User Select"
-msgstr "Supprimer les tickets automatiquement"
+msgstr "Sélection automatique / utilisateur"
 
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:61
 msgid "Automatically delete messages"
@@ -2369,10 +2345,8 @@ msgstr "Réduire"
 
 #: src/js/pages/reseller/customize-skin/_components/override-shade-dialog.vue:11
 #: src/js/pages/reseller/customize-skin/_components/override-shade-dialog.vue:31
-#, fuzzy
-#| msgid "Colors"
 msgid "Color"
-msgstr "Couleurs"
+msgstr "Couleur"
 
 #: src/js/pages/reseller/customize-skin/index.vue:43
 #: src/js/pages/reseller/customize-skin/index.vue:50
@@ -2570,10 +2544,8 @@ msgid "Copy Files"
 msgstr "Copier les fichiers"
 
 #: src/js/components/local/package-action-dialog.vue:9
-#, fuzzy
-#| msgid "Modify Package"
 msgid "Copy Package"
-msgstr "Modifier un Forfait"
+msgstr "Copier le forfait"
 
 #: src/js/pages/user/ssl/_components/paste-cert-tab.vue:20
 #: src/js/pages/user/ssl/ca-cert.vue:16
@@ -2587,10 +2559,8 @@ msgstr "Copier dans le presse-papier"
 
 #: src/js/components/local/user-package.vue:213
 #: src/js/components/local/user-package.vue:407
-#, fuzzy
-#| msgid "Clipboard Actions"
 msgid "Core Functions"
-msgstr "Actions du presse-papier"
+msgstr "Fonctions principales"
 
 #: src/js/components/local/user-package.vue:216
 msgid ""
@@ -2718,8 +2688,6 @@ msgid "Create Folder"
 msgstr "Créer un Dossier"
 
 #: src/js/pages/user/email/_components/create-forwarder-dialog-legacy.vue:7
-#, fuzzy
-#| msgid "Create Forwarders"
 msgid "Create Forwarder"
 msgstr "Créer une redirection"
 
@@ -2728,10 +2696,8 @@ msgid "Create Forwarders"
 msgstr "Créer une redirection"
 
 #: src/js/pages/user/email/forwarders.vue:33
-#, fuzzy
-#| msgid "Create Forwarders"
 msgid "Create forwarders from raw data"
-msgstr "Créer une redirection"
+msgstr "Créer des redirections à partir de données brutes"
 
 #: src/js/pages/user/ftp-accounts/create.vue:1
 #: src/js/pages/user/ftp-accounts/index.vue:26
@@ -3007,10 +2973,8 @@ msgid "Custom username & password"
 msgstr "Nom d'utilisateur et mot de passe personnalisés"
 
 #: src/js/pages/reseller/customize-skin/_components/colors-editor.vue:50
-#, fuzzy
-#| msgid "Custom Path"
 msgid "Custom Value"
-msgstr "Chemin personnalisé"
+msgstr "Valeur personnalisée"
 
 #: src/js/pages/admin/custom-httpd/view.vue:16
 #: src/js/pages/admin/users/resellers/create.vue:157
@@ -3048,10 +3012,8 @@ msgstr "Danger"
 
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:119
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:125
-#, fuzzy
-#| msgid "Dark Mode"
 msgid "Dark"
-msgstr "Mode Sombre"
+msgstr "Sombre"
 
 #: src/js/components/local/app-global-modals/skin-options.vue:51
 msgid "Dark Mode"
@@ -3518,16 +3480,12 @@ msgstr "Effacé"
 #: src/js/pages/user/backup/index.vue:20
 #: src/js/pages/admin/backups/_components/crons-table.vue:183
 #: src/js/pages/user/backup/index.vue:60
-#, fuzzy
-#| msgid "Delete Bayes Data"
 msgid "Deleted Trash Data"
-msgstr "Supprimer les données baysiennes"
+msgstr "Données de la corbeille supprimées"
 
 #: src/js/pages/admin/users/resellers/_components/usage-table.vue:93
-#, fuzzy
-#| msgid "User Bandwidth"
 msgid "Deleted User Bandwidth"
-msgstr "Trafic Utilisateur"
+msgstr "Bande passante utilisateur supprimée"
 
 #: src/js/pages/admin/system-backup.vue:145
 msgid "Deletes local file before creating the next one"
@@ -3544,10 +3502,8 @@ msgid "Deny"
 msgstr "Refusé"
 
 #: src/js/components/local/user-package.vue:246
-#, fuzzy
-#| msgid "Delete Selected"
 msgid "Deny Selected"
-msgstr "Supprimer les sélectionnés"
+msgstr "Refuser la sélection"
 
 #: src/js/pages/user/email/lists/modify.vue:71
 #: src/js/pages/user/two-step-auth.vue:129
@@ -3729,10 +3685,8 @@ msgid "Disable Open Basedir"
 msgstr "Désactiver Open_basedir"
 
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:136
-#, fuzzy
-#| msgid "Configure Remote Transfer option"
 msgid "Disable Route Transition"
-msgstr "Configuration du transfert à distance"
+msgstr "Désactiver la transition d'itinéraire"
 
 #: src/js/components/local/app-global-modals/skin-options.vue:132
 msgid "Disable Route Transitions"
@@ -3951,10 +3905,8 @@ msgstr ""
 
 #: src/js/pages/user/subdomains/_components/docroot-override-dialog.vue:7
 #: src/js/pages/user/subdomains/docroot.vue:1
-#, fuzzy
-#| msgid "Document Root to Demo Skin"
 msgid "Document Root Override"
-msgstr "Document Root vers le modèle Demo"
+msgstr "Remplacement du fichier racine"
 
 #: src/js/pages/admin/settings.vue:286
 msgid "Document Root to Demo Skin"
@@ -4189,10 +4141,8 @@ msgstr "Dupliquer"
 
 #: src/js/components/local/dns/add-record-dialog.vue:184
 #: src/js/components/local/dns/edit-record-dialog.vue:170
-#, fuzzy
-#| msgid "Duplicate"
 msgid "Duplicate to pointers"
-msgstr "Dupliquer"
+msgstr "Dupliquer vers des pointeurs"
 
 #: src/js/pages/admin/users/create-admin.vue:41
 #: src/js/pages/admin/users/resellers/create.vue:45
@@ -4264,10 +4214,8 @@ msgid "E-mail Address:"
 msgstr "Adresse E-mail:"
 
 #: src/js/pages/user/email/spamassassin.vue:340
-#, fuzzy
-#| msgid "E-mail Only"
 msgid "E-mail Allow"
-msgstr "E-mail uniquement"
+msgstr "E-mail Autoriser"
 
 #: src/js/pages/user/email/spamassassin.vue:252
 msgid "E-mail Blocklist"
@@ -4813,16 +4761,12 @@ msgid "Feature Disabled"
 msgstr "Désactivé"
 
 #: src/js/components/local/user-package.vue:203
-#, fuzzy
-#| msgid "Feature"
 msgid "Feature Set"
 msgstr "Fonctionnalité"
 
 #: src/js/components/local/user-package.vue:177
-#, fuzzy
-#| msgid "Features"
 msgid "Feature Sets"
-msgstr "Outils"
+msgstr "Fonctionnalités"
 
 #: src/js/pages/reseller/users/_components/account-info.vue:138
 msgid "Features"
@@ -6099,8 +6043,6 @@ msgstr "Licence / Mises à jour"
 
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:119
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:124
-#, fuzzy
-#| msgid "Lightness"
 msgid "Light"
 msgstr "Luminosité"
 
@@ -6601,10 +6543,8 @@ msgid "Max Request / Upload Size"
 msgstr "Taille max requête / chargement"
 
 #: src/js/pages/user/mod-security/index.vue:185
-#, fuzzy
-#| msgid "Start Time"
 msgid "Max Time"
-msgstr "Date de début"
+msgstr "Max Time"
 
 #: src/js/pages/admin/settings.vue:378
 msgid "Max Username Length"
@@ -7647,10 +7587,8 @@ msgstr "Ouvrir et Confirmer"
 
 #: src/js/pages/admin/php-safe-mode.vue:43
 #: src/js/pages/admin/php-safe-mode.vue:55
-#, fuzzy
-#| msgid "Open BaseDir"
 msgid "Open Basedir"
-msgstr "Open BaseDir"
+msgstr "Open Basedir"
 
 #: src/js/pages/admin/php-safe-mode.vue:114
 #: src/js/pages/admin/php-safe-mode.vue:134
@@ -9400,8 +9338,8 @@ msgstr "Sélectionnez le répertoire pour la restauration."
 #: src/js/components/global/input/input-dropzone.vue:13
 msgid "Select file to upload"
 msgid_plural "Select files to upload"
-msgstr[0] "Sélectionner le fichier à charger :"
-msgstr[1] "Sélectionner les fichiers à charger :"
+msgstr[0] "Sélectionnez le fichier à télécharger"
+msgstr[1] "Sélectionnez les fichiers à télécharger"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:61
 msgid "Select IP address or User to filter results"
@@ -9427,7 +9365,7 @@ msgstr "Sélectionner le fichier de journaux"
 #: src/js/pages/admin/log-viewer/index.vue:20
 #: src/js/pages/admin/log-viewer/index.vue:28
 msgid "Select log file to view"
-msgstr "Sélectionner le fichier de journaux à charger :"
+msgstr "Sélectionner le fichier de journaux à charger"
 
 #: src/js/components/global/input/input-checkable-select.vue:47
 msgid "Select None"
@@ -11748,10 +11686,8 @@ msgid "User Home"
 msgstr ""
 
 #: src/js/pages/reseller/suspension-message.vue:22
-#, fuzzy
-#| msgid "Level"
 msgid "User Level"
-msgstr "Niveau"
+msgstr "Niveau Utilisateur"
 
 #: src/js/pages/reseller/user-packages/index.vue:88
 msgid "user package"
@@ -12074,8 +12010,6 @@ msgid "View Log"
 msgstr "Voir les Journaux"
 
 #: src/js/pages/user/mod-security/index.vue:262
-#, fuzzy
-#| msgid "View Log"
 msgid "View Log Item"
 msgstr "Voir les Journaux"
 
@@ -12990,7 +12924,7 @@ msgstr "Déplacer vers %{directory}"
 #: src/components/layout/folders-tree.vue:391
 #: src/components/path-select/path-select.js:35 src/dialogs/copymove.vue:227
 msgid "My Files"
-msgstr "mes Fichiers"
+msgstr "Mes Fichiers"
 
 #: src/components/layout/toolbar.vue:18
 msgid "New"
@@ -13145,26 +13079,20 @@ msgid "Reset Owner Recursive"
 msgstr "Réinitialiser le propriétaire"
 
 #: src/dialogs/edit.vue:189
-#, fuzzy
-#| msgid "Save As"
 msgid "Save as..."
-msgstr "Sauvegarder sous"
+msgstr "Sauvegarder sous..."
 
 #: src/pages/FileEdit.vue:51
-#, fuzzy
-#| msgid "Remove file"
 msgid "Save file"
-msgstr "Supprimer le fichier"
+msgstr "Sauvegarder le fichier"
 
 #: src/dialogs/edit.vue:210 src/dialogs/edit.vue:78
 msgid "Save file as %{ path }"
 msgstr ""
 
 #: src/dialogs/edit.vue:64 src/pages/FileEdit.vue:72
-#, fuzzy
-#| msgid "Move Files"
 msgid "Save File As..."
-msgstr "Déplacer des fichiers"
+msgstr "Sauvegarder le fichier sous..."
 
 #: src/dialogs/edit.vue:197
 msgid "Save in different directory and/or with different name"
@@ -13176,16 +13104,12 @@ msgid "Search in current folder"
 msgstr ""
 
 #: src/dialogs/remove.vue:26
-#, fuzzy
-#| msgid "Select log file to view"
 msgid "Select at least one file to remove"
-msgstr "Sélectionner le fichier de journaux à charger :"
+msgstr "Sélectionnez au moins un fichier à supprimer"
 
 #: src/dialogs/compress.vue:47
-#, fuzzy
-#| msgid "Select log file to view"
 msgid "Select files to archive"
-msgstr "Sélectionner le fichier de journaux à charger :"
+msgstr "Sélectionnez les fichiers à archiver"
 
 #: src/dialogs/extract.vue:217
 msgid "Select files to extract"
@@ -13245,10 +13169,8 @@ msgstr "Mise à jour: %{ updated }"
 
 #: src/components/layout/mobile-toolbar.vue:44
 #: src/components/layout/toolbar.vue:109
-#, fuzzy
-#| msgid "Upload Files"
 msgid "Upload files"
-msgstr "Charger des fichiers"
+msgstr "Téléverser des fichiers"
 
 #: src/dialogs/upload.vue:61
 #, fuzzy
@@ -13265,20 +13187,16 @@ msgid "Will be used for fast compression and downloads"
 msgstr ""
 
 #: src/pages/FileEdit.vue:130
-#, fuzzy
-#| msgid "Feature Disabled"
 msgid "Line Numbers: Disabled"
-msgstr "Désactivé"
+msgstr "Numéros de ligne: désactivés"
 
 #: src/pages/FileEdit.vue:129
 msgid "Line Numbers: Enabled"
 msgstr ""
 
 #: src/pages/FileEdit.vue:149
-#, fuzzy
-#| msgid "Feature Disabled"
 msgid "Line Wrap: Disabled"
-msgstr "Désactivé"
+msgstr "Retour à la ligne: désactivé"
 
 #: src/pages/FileEdit.vue:148
 msgid "Line Wrap: Enabled"
