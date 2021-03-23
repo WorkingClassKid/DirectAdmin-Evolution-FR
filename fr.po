@@ -6600,10 +6600,8 @@ msgid "Medium Threshold (7.5)"
 msgstr "Limite moyenne (7.5)"
 
 #: src/js/pages/admin/process-monitor.vue:138
-#, fuzzy
-#| msgid "KiB Mem:"
 msgid "Mem:"
-msgstr "KiB Mem:"
+msgstr "Mem:"
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:3
 msgid "Memory Information"
@@ -6657,10 +6655,8 @@ msgid "Message All Users"
 msgstr "Message à tous les utilisateurs"
 
 #: src/js/pages/user/mod-security/index.vue:303
-#, fuzzy
-#| msgid "Message Headers"
 msgid "Message Details"
-msgstr "En-têtes du message"
+msgstr "Détails du message"
 
 #: src/js/pages/user/email/lists/modify.vue:323
 msgid "Message Footer"
@@ -6855,14 +6851,10 @@ msgid "Modify Vacation Message"
 msgstr "Modifier le message d'absence"
 
 #: src/js/pages/reseller/users/index.vue:28
-#, fuzzy
-#| msgid "Modify your own user data"
 msgid "Modify Your Own User data"
 msgstr "Modifier vos propres données utilisateur"
 
 #: src/js/pages/reseller/users/profile.vue:1
-#, fuzzy
-#| msgid "Modify your own user data"
 msgid "Modify Your Own User Data"
 msgstr "Modifier vos propres données utilisateur"
 
@@ -7985,10 +7977,8 @@ msgid "Please confirm your request"
 msgstr ""
 
 #: src/js/components/local/master-login-bar.vue:7
-#, fuzzy
-#| msgid "Please enter username"
 msgid "Please enter username/domain to search"
-msgstr "Veuillez entrer votre nom d'utilisateur"
+msgstr "Veuillez entrer le nom d'utilisateur / le domaine pour la recherche"
 
 #: src/js/components/local/filemanager/search.vue:9
 #: src/js/components/local/layouts/shared/search.vue:6
@@ -8095,10 +8085,8 @@ msgid "Present"
 msgstr "Présent"
 
 #: src/js/components/local/dns/input-inline.vue:34
-#, fuzzy
-#| msgid "Ctrl+Enter to post reply"
 msgid "Press Ctrl+Enter to save"
-msgstr "Ctrl + Entrée pour poster la réponse"
+msgstr "Appuyez sur Ctrl + Entrée pour enregistrer"
 
 #: src/js/pages/admin/settings.vue:506
 msgid "Prevent 127.0.0.1 from being Blacklisted"
@@ -8205,10 +8193,8 @@ msgid "Protected Directory Prompt"
 msgstr "Invite du répertoire protégé"
 
 #: src/js/pages/user/hotlinks/index.vue:78
-#, fuzzy
-#| msgid "Protected Directories"
 msgid "Protected file types"
-msgstr "Répertoires protégés"
+msgstr "Types de fichiers protégés"
 
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:81
 msgid "Public"
@@ -8615,10 +8601,8 @@ msgid "Rename File"
 msgstr "Renommer le fichier"
 
 #: src/js/components/local/package-action-dialog.vue:8
-#, fuzzy
-#| msgid "Create Package"
 msgid "Rename Package"
-msgstr "Créer un Forfait"
+msgstr "Renommer le forfait"
 
 #: src/js/pages/admin/ssl/_components/settings-dialog.vue:26
 msgid "Renew certificates on suspended domains"
@@ -8677,10 +8661,8 @@ msgid "Request failed"
 msgstr "Échec de la requête"
 
 #: src/js/pages/user/mod-security/index.vue:221
-#, fuzzy
-#| msgid "Request failed"
 msgid "Request Line"
-msgstr "Échec de la requête"
+msgstr "Ligne de la requête"
 
 #: src/js/modules/router/before-resolve.js:36
 msgid "Requested page depends on one or more of denied commands"
@@ -8729,10 +8711,8 @@ msgstr "Trafic Revendeur"
 
 #: src/js/pages/admin/users/resellers/view.vue:33
 #: src/js/pages/reseller/users/view.vue:28
-#, fuzzy
-#| msgid "Reseller Quota"
 msgid "Reseller data"
-msgstr "Quota revendeur"
+msgstr "Données revendeur"
 
 #: src/js/pages/reseller/history.vue:1 src/js/pages/reseller/stats.vue:123
 msgid "Reseller History"
@@ -12655,11 +12635,8 @@ msgid "Change filename / path"
 msgstr "Modifier le mot de passe de %{ username }"
 
 #: src/dialogs/drag-upload.vue:80
-#, fuzzy
-#| msgid "Select file to upload"
-#| msgid_plural "Select files to upload"
 msgid "Checking files before upload..."
-msgstr "Sélectionner le fichier à charger :"
+msgstr "Vérification des fichiers avant de télécharger ..."
 
 #: src/components/layout/folders-tree.vue:112
 #, fuzzy
@@ -12680,16 +12657,12 @@ msgid "Close Editor"
 msgstr "Fermer l'éditeur"
 
 #: src/dialogs/image-preview.vue:49
-#, fuzzy
-#| msgid "Close fullscreen"
 msgid "Close Preview"
-msgstr "Fermer plein écran"
+msgstr "Fermer l'aperçu"
 
 #: src/components/file-view/grid-context-menu.vue:179
-#, fuzzy
-#| msgid "Compress and download..."
 msgid "Compress and download"
-msgstr "Compresser et télécharger ..."
+msgstr "Compresser et télécharger"
 
 #: src/pages/FileEdit.vue:118
 #, fuzzy
@@ -12703,10 +12676,8 @@ msgstr "Copier vers %{directory}"
 
 #: src/components/file-view/grid-context-menu.vue:102
 #: src/components/layout/folders-tree.vue:235
-#, fuzzy
-#| msgid "Copy"
 msgid "Copy/Move"
-msgstr "Copier"
+msgstr "Copier/Déplacer"
 
 #: src/dialogs/copymove.vue:10
 msgid "Copy/Move..."
@@ -12714,22 +12685,16 @@ msgstr "Copier / Déplacer ..."
 
 #: src/components/input-path-select.vue:189
 #: src/components/path-select/path-select.js:30 src/dialogs/copymove.vue:215
-#, fuzzy
-#| msgid "Creator: %{ creator }"
 msgid "Create folder in %{directory}"
-msgstr "Créateur: %{ creator }"
+msgstr "Créer le fichier dans  %{directory}"
 
 #: src/components/file-view/table.vue:101
-#, fuzzy
-#| msgid "Creator: %{ creator }"
 msgid "Created: %{ created }"
-msgstr "Créateur: %{ creator }"
+msgstr "Créée le: %{ created }"
 
 #: src/components/layout/toolbar.vue:68
-#, fuzzy
-#| msgid "SSH"
 msgid "CSS"
-msgstr "SSH"
+msgstr "CSS"
 
 #: src/components/file-view/file-grid-info.vue:110
 #: src/components/file-view/file-grid-info.vue:250
@@ -12742,10 +12707,8 @@ msgstr ""
 
 #: src/components/layout/mobile-toolbar.vue:69
 #: src/components/layout/toolbar.vue:143
-#, fuzzy
-#| msgid "Display as Grid"
 msgid "Display Mode: Grid"
-msgstr "Affichage en grille"
+msgstr "Affichage: Mode Grille"
 
 #: src/components/layout/mobile-toolbar.vue:70
 #: src/components/layout/toolbar.vue:144
@@ -12765,23 +12728,16 @@ msgid "Download Image"
 msgstr "Télécharger l'image"
 
 #: src/pages/FilesView.vue:16
-#, fuzzy
-#| msgid "Drop file here or click to upload"
-#| msgid_plural "Drop files here or click to upload"
 msgid "Drop here to upload"
-msgstr "Déposer le fichier ici ou cliquez pour télécharger"
+msgstr "Déposer le fichier ici ou cliquez pour téléverser"
 
 #: src/dialogs/edit.vue:7
-#, fuzzy
-#| msgid "Result: %{ name }"
 msgid "Edit \"%{ name }\""
-msgstr "Résultat: %{ name }"
+msgstr "Modifier \"%{ name }\""
 
 #: src/components/file-view/grid-context-menu.vue:48
-#, fuzzy
-#| msgid "Edit Admin Message"
 msgid "Edit in new tab"
-msgstr "Configurer le message de bienvenue"
+msgstr "Modifier dans nouvel onglet"
 
 #: src/dialogs/search.vue:30
 msgid "Everything"
@@ -12792,16 +12748,12 @@ msgid "Extra Small"
 msgstr ""
 
 #: src/dialogs/extract.vue:8
-#, fuzzy
-#| msgid "Extract \"%{name}\" to:"
 msgid "Extract \"%{name}\""
-msgstr "Extraire \"% {nom}\" vers:"
+msgstr "Extraire \"% {nom}\" "
 
 #: src/dialogs/extract.vue:230
-#, fuzzy
-#| msgid "Extract \"%{name}\" to:"
 msgid "Extract to %{ target }"
-msgstr "Extraire \"% {nom}\" vers:"
+msgstr "Extraire vers %{ target }"
 
 #: src/components/input-path-select.vue:139
 #: src/components/input-path-select.vue:3 src/dialogs/compress.vue:17
@@ -12814,50 +12766,36 @@ msgid "Field is required"
 msgstr "Champ requis"
 
 #: src/dialogs/upload.vue:324
-#, fuzzy
-#| msgid "Field too long"
 msgid "File is too big"
 msgid_plural "Files are too big"
-msgstr[0] "Champ trop long"
-msgstr[1] "Champ trop long"
+msgstr[0] "Le fichier est trop gros"
+msgstr[1] "Les fichiers sont trop gros"
 
 #: src/dialogs/rename.vue:9 src/dialogs/rename.vue:18
-#, fuzzy
-#| msgid "Skin has been updated"
 msgid "Filename has not been changed"
-msgstr "Le thème a été mise à jour"
+msgstr "Le nom de fichier n'a pas été changé"
 
 #: src/components/file-view/file-grid-info.vue:160
 #: src/components/file-view/file-grid-info.vue:23
 #: src/components/layout/toolbar.vue:31
-#, fuzzy
-#| msgid "Folder:"
 msgid "Folder"
-msgstr "Fichier:"
+msgstr "Fichier"
 
 #: src/dialogs/create-folder.vue:8
-#, fuzzy
-#| msgid "Folder Name:"
 msgid "Folder Name"
-msgstr "Nom du dossier:"
+msgstr "Nom du dossier"
 
 #: src/components/options.vue:115
-#, fuzzy
-#| msgid "Folders"
 msgid "Folder Sizes"
-msgstr "Fichiers"
+msgstr "Tailles des dossiers"
 
 #: src/layouts/Mobile.vue:41
-#, fuzzy
-#| msgid "Folders"
 msgid "Folders Tree"
-msgstr "Fichiers"
+msgstr "Arbre de dossiers"
 
 #: src/components/layout/mobile-toolbar.vue:53
-#, fuzzy
-#| msgid "Clear Search"
 msgid "Global Search"
-msgstr "Effacer la recherche"
+msgstr "Recherche globale"
 
 #: src/components/file-view/drag.vue:41
 msgid "Hold ⌘ or control key to copy"
@@ -12868,10 +12806,8 @@ msgid "Hold Shift key to remove completely"
 msgstr ""
 
 #: src/components/layout/toolbar.vue:100
-#, fuzzy
-#| msgid "Move Files"
 msgid "HTML File"
-msgstr "Déplacer des fichiers"
+msgstr "Fichier HTML"
 
 #: src/components/layout/folders-tree.vue:63
 msgid "Icon Size"
@@ -12935,33 +12871,25 @@ msgid "New File"
 msgstr "Nouveau Fichier"
 
 #: src/components/layout/folders-tree.vue:186
-#, fuzzy
-#| msgid "New Folder"
 msgid "New sub-folder"
-msgstr "Nouveau Fichier"
+msgstr "Nouveau sous-dossier"
 
 #: src/components/files-select-tree.vue:82
-#, fuzzy
-#| msgid "New Folder"
 msgid "Open folder"
-msgstr "Nouveau Fichier"
+msgstr "Dossier ouvert"
 
 #: src/components/input-path-select.vue:106 src/dialogs/copymove.vue:86
 #: src/dialogs/extract.vue:92
-#, fuzzy
-#| msgid "New Folder"
 msgid "Open Folder"
-msgstr "Nouveau Fichier"
+msgstr "Dossier ouvert"
 
 #: src/components/layout/folders-tree.vue:217
 msgid "Open in new tab"
 msgstr ""
 
 #: src/components/layout/toolbar.vue:89
-#, fuzzy
-#| msgid "Other"
 msgid "Other..."
-msgstr "Autre"
+msgstr "Autre..."
 
 #: src/dialogs/drag-upload.vue:129
 #, fuzzy
