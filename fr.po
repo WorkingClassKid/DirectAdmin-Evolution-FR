@@ -383,7 +383,7 @@ msgstr "12 Mois"
 
 #: src/js/pages/user/mod-security/index.vue:138
 msgid "1234 or 1234-1239"
-msgstr ""
+msgstr "1234 ou 1234-1239"
 
 #: src/js/pages/user/two-step-auth.vue:257
 msgid "2 Days"
@@ -1813,7 +1813,7 @@ msgstr "Problème de facturation"
 
 #: src/js/pages/admin/settings.vue:950 src/js/pages/admin/settings.vue:959
 msgid "bl_auth"
-msgstr ""
+msgstr "bl_auth"
 
 #: src/js/pages/admin/settings.vue:950 src/js/pages/admin/settings.vue:958
 msgid "bl_script"
@@ -1821,7 +1821,7 @@ msgstr "bl_script"
 
 #: src/js/pages/admin/settings.vue:950 src/js/pages/admin/settings.vue:957
 msgid "bl_smtp"
-msgstr ""
+msgstr "bl_smtp"
 
 #: src/js/pages/admin/settings.vue:950 src/js/pages/admin/settings.vue:956
 msgid "bl_usernames"
@@ -2566,6 +2566,8 @@ msgstr "Fonctions principales"
 msgid ""
 "Core functions are needed for the skin to work. Disable it for API only."
 msgstr ""
+"Les fonctions essentielles sont nécessaires pour que le thème fonctionne. "
+"Désactivez-le uniquement pour l'API."
 
 #: src/js/pages/admin/plugin-manager.vue:33
 msgid "Corrupted Plugin"
@@ -3831,6 +3833,8 @@ msgid ""
 "DNS Control is disabled for this User. You can edit the zone because your "
 "master account has DNS Control."
 msgstr ""
+"Le contrôle DNS est désactivé pour cet utilisateur. Vous pouvez modifier la "
+"zone car votre compte principal dispose du contrôle DNS."
 
 #: src/js/pages/admin/system-backup.vue:86
 msgid "DNS data"
@@ -5991,7 +5995,7 @@ msgstr "Laisser les DNS"
 
 #: src/js/pages/user/ssl/_components/lets-encrypt-tab.vue:78
 msgid "Let's Encrypt Certificate Entries"
-msgstr ""
+msgstr "Entrées de certificat Let's Encrypt"
 
 #: src/js/pages/user/ssl/_components/paste-cert-tab.vue:39
 msgid "Let's Encrypt in use. Auto Renewal in %{n} Days."
@@ -10096,7 +10100,7 @@ msgstr "Ignorer la règle: %{ rule }"
 #: src/js/pages/reseller/backups/modify.vue:70
 #: src/js/pages/reseller/backups/schedule.vue:71
 msgid "Skip Suspended"
-msgstr ""
+msgstr "Ignorer les comptes suspendus"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:83
 msgid "Skipped IPs / Users"
@@ -10925,7 +10929,7 @@ msgstr "Ce bouton supprimera les données apprises par SpamAssassin."
 
 #: src/js/pages/admin/ssl/_components/settings-dialog.vue:64
 msgid "This could replace paid EV certificates"
-msgstr ""
+msgstr "Cela pourrait remplacer les certificats EV payants"
 
 #: src/js/pages/admin/php-safe-mode.vue:80
 msgid "This domain is controlled by the main domain for this User."
@@ -11066,7 +11070,7 @@ msgstr "Fuseau horaire"
 
 #: src/js/components/local/filemanager/dialogs/delete-files-dialog.vue:20
 msgid "To Trash"
-msgstr ""
+msgstr "vers la corbeille"
 
 #: src/js/pages/user/ssl/_components/certificate-request-dialog.vue:15
 msgid ""
@@ -11154,7 +11158,7 @@ msgstr "Transmis"
 
 #: src/js/pages/user/backup/index.vue:20 src/js/pages/user/backup/index.vue:58
 msgid "Trash"
-msgstr ""
+msgstr "Corbeille"
 
 #: src/js/pages/user/filemanager/index.vue:100
 msgid "Tree View"
@@ -11266,10 +11270,8 @@ msgstr "Annuler"
 
 #: src/js/pages/admin/ip-manager/index.vue:22
 #: src/js/pages/admin/ip-manager/index.vue:50
-#, fuzzy
-#| msgid "Set Global"
 msgid "Un-Set Global"
-msgstr "Appliquer Globalement"
+msgstr "Désactiver globalement"
 
 #: src/js/components/local/app-global-modals/network-error.vue:15
 msgid "Unable to reach network. Please check your internet connection."
@@ -11308,7 +11310,7 @@ msgstr "Jetons Unicode"
 
 #: src/js/pages/user/mod-security/index.vue:246
 msgid "Unknown"
-msgstr ""
+msgstr "Inconnu"
 
 #: src/js/components/local/user-package.vue:31
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:25
@@ -11374,10 +11376,8 @@ msgid "Update"
 msgstr "Mettre à jour"
 
 #: src/js/pages/reseller/customize-skin/_components/adsense.vue:31
-#, fuzzy
-#| msgid "CPUs Information"
 msgid "Update Adsense Information"
-msgstr "Information CPUs"
+msgstr "Mettre à jour les informations Adsense"
 
 #: src/js/pages/admin/license.vue:257 src/js/pages/admin/license.vue:267
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:160
@@ -11394,10 +11394,8 @@ msgid "Update License"
 msgstr "Modifier la licence"
 
 #: src/js/pages/admin/license.vue:150
-#, fuzzy
-#| msgid "Update License"
 msgid "Update License Auto"
-msgstr "Modifier la licence"
+msgstr "Mettre à jour la licence automatiquement"
 
 #: src/js/pages/admin/brute-force-monitor/index.vue:92
 msgid "Update List"
@@ -11646,10 +11644,8 @@ msgstr "Vérification de l'utilisateur"
 
 #: src/js/pages/admin/users/resellers/view.vue:25
 #: src/js/pages/reseller/users/view.vue:20
-#, fuzzy
-#| msgid "User Quota"
 msgid "User data"
-msgstr "Quota utilisateur"
+msgstr "Données d'utilisateur"
 
 #: src/js/pages/reseller/passwords.vue:30
 msgid "User does not exist"
@@ -12593,33 +12589,25 @@ msgid "Abort"
 msgstr "Interrompre"
 
 #: src/dialogs/drag-upload.vue:75
-#, fuzzy
-#| msgid "Upload"
 msgid "Abort Upload"
-msgstr "Charger"
+msgstr "Abandonner le téléchargement"
 
 #: src/components/file-view/file-grid-info.vue:226
 #: src/components/file-view/file-grid-info.vue:86
-#, fuzzy
-#| msgid "Access Level"
 msgid "Accessed"
-msgstr "Niveau"
+msgstr "Accédé"
 
 #: src/components/file-view/table.vue:111
 msgid "Accessed: %{ accessed }"
 msgstr ""
 
 #: src/dialogs/upload.vue:174
-#, fuzzy
-#| msgid "Add to device"
 msgid "Add file to queue"
-msgstr "Ajouter au périférique"
+msgstr "Ajouter un fichier à la file d'attente"
 
 #: src/components/file-view/grid-context-menu.vue:166
-#, fuzzy
-#| msgid "Add to Apache"
 msgid "Add to archive"
-msgstr "Ajouter à Apache"
+msgstr "Ajouter aux archives"
 
 #: src/dialogs/compress.vue:51 src/dialogs/create-file.vue:20
 #: src/dialogs/create-folder.vue:23 src/dialogs/edit.vue:181
@@ -12629,10 +12617,8 @@ msgid "Cancel"
 msgstr "Annuler"
 
 #: src/pages/FileEdit.vue:17
-#, fuzzy
-#| msgid "Change %{ username }'s password"
 msgid "Change filename / path"
-msgstr "Modifier le mot de passe de %{ username }"
+msgstr "Changer le nom de fichier / chemin"
 
 #: src/dialogs/drag-upload.vue:80
 msgid "Checking files before upload..."
@@ -12665,10 +12651,8 @@ msgid "Compress and download"
 msgstr "Compresser et télécharger"
 
 #: src/pages/FileEdit.vue:118
-#, fuzzy
-#| msgid "Confirmation"
 msgid "Confirm closing"
-msgstr "Confirmation"
+msgstr "Confirmer la fermeture"
 
 #: src/dialogs/copymove.vue:218
 msgid "Copy to %{directory}"
@@ -12703,7 +12687,7 @@ msgstr ""
 
 #: src/pages/FileEdit.vue:119
 msgid "Discard unsaved changes?"
-msgstr ""
+msgstr "Annuler les modifications non enregistrées?"
 
 #: src/components/layout/mobile-toolbar.vue:69
 #: src/components/layout/toolbar.vue:143
@@ -12841,7 +12825,7 @@ msgstr "Modifié"
 
 #: src/dialogs/copymove.vue:148
 msgid "Move"
-msgstr ""
+msgstr "Déplacer"
 
 #: src/components/file-view/drag.vue:23
 msgid "Move File"
@@ -12892,22 +12876,16 @@ msgid "Other..."
 msgstr "Autre..."
 
 #: src/dialogs/drag-upload.vue:129
-#, fuzzy
-#| msgid "Overwrite"
 msgid "Overwrite all"
-msgstr "Écraser"
+msgstr "Remplacer tous"
 
 #: src/dialogs/drag-upload.vue:107 src/dialogs/upload.vue:115
-#, fuzzy
-#| msgid "Overwrite"
 msgid "Overwrite Files"
-msgstr "Écraser"
+msgstr "Écraser les fichiers"
 
 #: src/dialogs/drag-upload.vue:142 src/dialogs/upload.vue:138
-#, fuzzy
-#| msgid "No widget selected"
 msgid "Overwrite selected"
-msgstr "Aucun widget sélectionné"
+msgstr "Écraser sélectionné"
 
 #: src/components/layout/toolbar.vue:54
 msgid "Plain Text"
@@ -12919,26 +12897,20 @@ msgid "Play"
 msgstr ""
 
 #: src/components/options.vue:15
-#, fuzzy
-#| msgid "Reference"
 msgid "Preferences"
-msgstr "Référence"
+msgstr "Préférences"
 
 #: src/components/options.vue:22
-#, fuzzy
-#| msgid "Archive Type"
 msgid "Preferred Archive Type"
-msgstr "Type d'archive"
+msgstr "Type d'archive préféré"
 
 #: src/components/layout/toolbar.vue:155
 msgid "Refresh"
-msgstr ""
+msgstr "Rafraîchir"
 
 #: src/pages/FileEdit.vue:37
-#, fuzzy
-#| msgid "Reload Files"
 msgid "Reload file"
-msgstr "Recharger les fichiers"
+msgstr "Recharger lee fichier"
 
 #: src/dialogs/remove.vue:13
 msgid "Remove %{n} file"
@@ -12947,52 +12919,38 @@ msgstr[0] "Supprimer le fichier %{n}"
 msgstr[1] "Supprimer les fichiers %{n}"
 
 #: src/components/file-view/grid-context-menu.vue:15
-#, fuzzy
-#| msgid "Remove Selected"
 msgid "Remove completely"
-msgstr "Supprimer les sélectionnés"
+msgstr "Supprimer complètement"
 
 #: src/dialogs/remove.vue:6
-#, fuzzy
-#| msgid "Remove Filter"
 msgid "Remove File"
 msgid_plural "Remove Files"
-msgstr[0] "Enlever le filtre"
-msgstr[1] "Enlever le filtre"
+msgstr[0] "Supprimer le filtre"
+msgstr[1] "Supprimer les filtres"
 
 #: src/components/file-view/drag.vue:31
-#, fuzzy
-#| msgid "Remove Filter"
 msgid "Remove Files"
 msgid_plural "Remove File"
-msgstr[0] "Enlever le filtre"
-msgstr[1] "Enlever le filtre"
+msgstr[0] "Supprimer le fichier"
+msgstr[1] "Supprimer les fichiers"
 
 #: src/dialogs/remove-from-tree.vue:8
-#, fuzzy
-#| msgid "Remove file"
 msgid "Remove folder"
-msgstr "Supprimer le fichier"
+msgstr "Supprimer le dossier"
 
 #: src/dialogs/remove.vue:7
-#, fuzzy
-#| msgid "Remove Filter"
 msgid "Remove Folder"
 msgid_plural "Remove Folders"
-msgstr[0] "Enlever le filtre"
-msgstr[1] "Enlever le filtre"
+msgstr[0] "Effacer le dossier"
+msgstr[1] "Effacer les dossiers"
 
 #: src/dialogs/upload.vue:94
-#, fuzzy
-#| msgid "Remove from"
 msgid "Remove from queue"
-msgstr "Retirer de"
+msgstr "Supprimer de la file d'attente"
 
 #: src/dialogs/upload.vue:197
-#, fuzzy
-#| msgid "Remove file"
 msgid "Remove uploaded files"
-msgstr "Supprimer le fichier"
+msgstr "Supprimer les fichiers téléchargés"
 
 #: src/components/options.vue:119
 msgid ""
@@ -13001,10 +12959,8 @@ msgid ""
 msgstr ""
 
 #: src/components/file-view/grid-context-menu.vue:153
-#, fuzzy
-#| msgid "Reset Owner"
 msgid "Reset Owner Recursive"
-msgstr "Réinitialiser le propriétaire"
+msgstr "Réinitialiser le propriétaire récursif"
 
 #: src/dialogs/edit.vue:189
 msgid "Save as..."
@@ -13016,7 +12972,7 @@ msgstr "Sauvegarder le fichier"
 
 #: src/dialogs/edit.vue:210 src/dialogs/edit.vue:78
 msgid "Save file as %{ path }"
-msgstr ""
+msgstr "Sauvegarder le fichier sous %{ path }"
 
 #: src/dialogs/edit.vue:64 src/pages/FileEdit.vue:72
 msgid "Save File As..."
@@ -13024,12 +12980,12 @@ msgstr "Sauvegarder le fichier sous..."
 
 #: src/dialogs/edit.vue:197
 msgid "Save in different directory and/or with different name"
-msgstr ""
+msgstr "Enregistrer dans un répertoire différent et / ou sous un nom différent"
 
 #: src/components/file-view/grid.vue:171 src/components/file-view/grid.vue:40
 #: src/components/file-view/table.vue:152 src/components/file-view/table.vue:27
 msgid "Search in current folder"
-msgstr ""
+msgstr "Rechercher dans le dossier actuel"
 
 #: src/dialogs/remove.vue:26
 msgid "Select at least one file to remove"
@@ -13059,7 +13015,7 @@ msgstr "Afficher les informations supplémentaires"
 
 #: src/components/options.vue:67
 msgid "Show files as..."
-msgstr ""
+msgstr "Afficher les fichiers comme ..."
 
 #: src/dialogs/drag-upload.vue:117
 msgid "Skip all"
@@ -13101,10 +13057,8 @@ msgid "Upload files"
 msgstr "Téléverser des fichiers"
 
 #: src/dialogs/upload.vue:61
-#, fuzzy
-#| msgid "%{ log } is %{ size }"
 msgid "Uploaded %{ progress } of %{ size }"
-msgstr "%{ log } est de %{ size }"
+msgstr "Téléversement  %{ progress } de %{ size }"
 
 #: src/dialogs/drag-upload.vue:52
 msgid "Uploading: %{ uploaded } of %{ total }"
@@ -13112,7 +13066,7 @@ msgstr ""
 
 #: src/components/options.vue:25
 msgid "Will be used for fast compression and downloads"
-msgstr ""
+msgstr "Sera utilisé pour une compression et des téléchargements rapides"
 
 #: src/pages/FileEdit.vue:130
 msgid "Line Numbers: Disabled"
@@ -13120,7 +13074,7 @@ msgstr "Numéros de ligne: désactivés"
 
 #: src/pages/FileEdit.vue:129
 msgid "Line Numbers: Enabled"
-msgstr ""
+msgstr "Numéros de ligne: activé"
 
 #: src/pages/FileEdit.vue:149
 msgid "Line Wrap: Disabled"
@@ -13128,7 +13082,7 @@ msgstr "Retour à la ligne: désactivé"
 
 #: src/pages/FileEdit.vue:148
 msgid "Line Wrap: Enabled"
-msgstr ""
+msgstr "Retour à la ligne: activé"
 
 #: src/pages/FileEdit.vue:75
 msgid "Mode: %{mode}"
@@ -13136,11 +13090,11 @@ msgstr "Mode: %{mode}"
 
 #: src/pages/FileEdit.vue:93
 msgid "Theme: %{theme}"
-msgstr ""
+msgstr "Thème: %{theme}"
 
 #: src/components/input-path-select.vue:55
 msgid "Close Dialog"
-msgstr ""
+msgstr "Fermer la boîte de dialogue"
 
 #~ msgid "admin"
 #~ msgid_plural "admins"
